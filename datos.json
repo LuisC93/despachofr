@@ -1384,7 +1384,7 @@
       "id": 230,
       "fr": "231B",
       "code": "60253",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 231,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T12:20:38.727Z",
+  "updatedAt": "2026-04-08T12:27:24.239Z",
   "total": 294,
-  "ready": 56,
-  "dispatched": 238
+  "ready": 55,
+  "dispatched": 239
 }
