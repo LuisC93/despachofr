@@ -1408,7 +1408,7 @@
       "id": 234,
       "fr": "235B",
       "code": "80055",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 235,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T11:49:27.980Z",
+  "updatedAt": "2026-04-08T11:49:46.607Z",
   "total": 294,
-  "ready": 88,
-  "dispatched": 206
+  "ready": 87,
+  "dispatched": 207
 }
