@@ -1246,7 +1246,7 @@
       "id": 207,
       "fr": "208B",
       "code": "66062",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 208,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T11:51:21.711Z",
+  "updatedAt": "2026-04-08T11:51:38.447Z",
   "total": 294,
-  "ready": 82,
-  "dispatched": 212
+  "ready": 81,
+  "dispatched": 213
 }
