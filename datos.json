@@ -736,7 +736,7 @@
       "id": 122,
       "fr": "123B",
       "code": "12633",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 123,
@@ -790,7 +790,7 @@
       "id": 131,
       "fr": "132B",
       "code": "60094",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 132,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T11:47:13.088Z",
+  "updatedAt": "2026-04-08T11:47:33.109Z",
   "total": 294,
-  "ready": 94,
-  "dispatched": 200
+  "ready": 92,
+  "dispatched": 202
 }
