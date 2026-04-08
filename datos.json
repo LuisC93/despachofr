@@ -1492,7 +1492,7 @@
       "id": 248,
       "fr": "249B",
       "code": "12531",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 249,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T10:48:50.161Z",
+  "updatedAt": "2026-04-08T10:50:00.248Z",
   "total": 294,
-  "ready": 150,
-  "dispatched": 144
+  "ready": 149,
+  "dispatched": 145
 }
