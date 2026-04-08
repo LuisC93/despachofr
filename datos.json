@@ -316,7 +316,7 @@
       "id": 52,
       "fr": "53B",
       "code": "12652",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 53,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T10:59:28.510Z",
+  "updatedAt": "2026-04-08T10:59:49.114Z",
   "total": 294,
-  "ready": 140,
-  "dispatched": 154
+  "ready": 139,
+  "dispatched": 155
 }
