@@ -700,7 +700,7 @@
       "id": 116,
       "fr": "117B",
       "code": "10566",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 117,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T10:23:11.173Z",
+  "updatedAt": "2026-04-08T10:23:32.232Z",
   "total": 294,
-  "ready": 166,
-  "dispatched": 128
+  "ready": 165,
+  "dispatched": 129
 }
