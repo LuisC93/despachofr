@@ -904,7 +904,7 @@
       "id": 150,
       "fr": "151B",
       "code": "86251",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 151,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T09:30:59.862Z",
+  "updatedAt": "2026-04-08T09:33:05.819Z",
   "total": 294,
-  "ready": 237,
-  "dispatched": 57
+  "ready": 236,
+  "dispatched": 58
 }
