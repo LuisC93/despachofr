@@ -1414,7 +1414,7 @@
       "id": 235,
       "fr": "236B",
       "code": "86194",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 236,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T11:50:53.494Z",
+  "updatedAt": "2026-04-08T11:51:21.711Z",
   "total": 294,
-  "ready": 83,
-  "dispatched": 211
+  "ready": 82,
+  "dispatched": 212
 }
