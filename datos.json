@@ -868,7 +868,7 @@
       "id": 144,
       "fr": "145B",
       "code": "64031",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 145,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T09:36:05.815Z",
+  "updatedAt": "2026-04-08T09:36:24.117Z",
   "total": 294,
-  "ready": 232,
-  "dispatched": 62
+  "ready": 231,
+  "dispatched": 63
 }
