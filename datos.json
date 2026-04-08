@@ -808,7 +808,7 @@
       "id": 134,
       "fr": "135B",
       "code": "86257",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 135,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T10:18:08.055Z",
+  "updatedAt": "2026-04-08T10:18:36.059Z",
   "total": 294,
-  "ready": 175,
-  "dispatched": 119
+  "ready": 174,
+  "dispatched": 120
 }
