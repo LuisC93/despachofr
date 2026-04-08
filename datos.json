@@ -1318,7 +1318,7 @@
       "id": 219,
       "fr": "220B",
       "code": "80089",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 220,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T12:27:58.142Z",
+  "updatedAt": "2026-04-08T12:28:11.793Z",
   "total": 294,
-  "ready": 53,
-  "dispatched": 241
+  "ready": 52,
+  "dispatched": 242
 }
