@@ -514,7 +514,7 @@
       "id": 85,
       "fr": "86B",
       "code": "12189",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 86,
@@ -1765,8 +1765,8 @@
       "status": "dispatched"
     }
   ],
-  "updatedAt": "2026-04-08T14:14:46.401Z",
+  "updatedAt": "2026-04-08T14:14:48.524Z",
   "total": 294,
-  "ready": 14,
-  "dispatched": 280
+  "ready": 13,
+  "dispatched": 281
 }
