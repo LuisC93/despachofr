@@ -382,7 +382,7 @@
       "id": 63,
       "fr": "64B",
       "code": "10115",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 64,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T11:28:06.956Z",
+  "updatedAt": "2026-04-08T11:28:20.996Z",
   "total": 294,
-  "ready": 115,
-  "dispatched": 179
+  "ready": 114,
+  "dispatched": 180
 }
