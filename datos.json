@@ -124,7 +124,7 @@
       "id": 20,
       "fr": "21B",
       "code": "60164",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 21,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T09:36:24.117Z",
+  "updatedAt": "2026-04-08T09:36:58.241Z",
   "total": 294,
-  "ready": 231,
-  "dispatched": 63
+  "ready": 230,
+  "dispatched": 64
 }
