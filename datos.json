@@ -76,7 +76,7 @@
       "id": 12,
       "fr": "13B",
       "code": "12734",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 13,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T10:00:41.854Z",
+  "updatedAt": "2026-04-08T10:03:16.052Z",
   "total": 294,
-  "ready": 196,
-  "dispatched": 98
+  "ready": 195,
+  "dispatched": 99
 }
