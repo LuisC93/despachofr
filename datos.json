@@ -856,7 +856,7 @@
       "id": 142,
       "fr": "143B",
       "code": "10018",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 143,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T12:40:57.376Z",
+  "updatedAt": "2026-04-08T12:41:26.517Z",
   "total": 294,
-  "ready": 49,
-  "dispatched": 245
+  "ready": 48,
+  "dispatched": 246
 }
