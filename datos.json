@@ -568,7 +568,7 @@
       "id": 94,
       "fr": "95B",
       "code": "86319",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 95,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T09:50:36.524Z",
+  "updatedAt": "2026-04-08T09:51:16.117Z",
   "total": 294,
-  "ready": 203,
-  "dispatched": 91
+  "ready": 202,
+  "dispatched": 92
 }
