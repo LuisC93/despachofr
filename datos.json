@@ -1354,7 +1354,7 @@
       "id": 225,
       "fr": "226B",
       "code": "60188",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 226,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T11:03:40.994Z",
+  "updatedAt": "2026-04-08T11:03:59.998Z",
   "total": 294,
-  "ready": 134,
-  "dispatched": 160
+  "ready": 133,
+  "dispatched": 161
 }
