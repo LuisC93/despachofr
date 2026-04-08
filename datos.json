@@ -958,7 +958,7 @@
       "id": 159,
       "fr": "160B",
       "code": "64078",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 160,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T09:50:03.451Z",
+  "updatedAt": "2026-04-08T09:50:21.563Z",
   "total": 294,
-  "ready": 205,
-  "dispatched": 89
+  "ready": 204,
+  "dispatched": 90
 }
