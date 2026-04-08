@@ -208,7 +208,7 @@
       "id": 34,
       "fr": "35B",
       "code": "64079",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 35,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T09:40:49.739Z",
+  "updatedAt": "2026-04-08T09:41:51.615Z",
   "total": 294,
-  "ready": 221,
-  "dispatched": 73
+  "ready": 220,
+  "dispatched": 74
 }
