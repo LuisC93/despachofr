@@ -1444,7 +1444,7 @@
       "id": 240,
       "fr": "241B",
       "code": "64041",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 241,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T09:33:05.819Z",
+  "updatedAt": "2026-04-08T09:33:31.551Z",
   "total": 294,
-  "ready": 236,
-  "dispatched": 58
+  "ready": 235,
+  "dispatched": 59
 }
