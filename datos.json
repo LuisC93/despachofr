@@ -892,7 +892,7 @@
       "id": 148,
       "fr": "149B",
       "code": "80134",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 149,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T12:27:41.403Z",
+  "updatedAt": "2026-04-08T12:27:58.142Z",
   "total": 294,
-  "ready": 54,
-  "dispatched": 240
+  "ready": 53,
+  "dispatched": 241
 }
