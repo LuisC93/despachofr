@@ -814,7 +814,7 @@
       "id": 135,
       "fr": "136B",
       "code": "64116",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 136,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T10:09:55.473Z",
+  "updatedAt": "2026-04-08T10:10:46.754Z",
   "total": 294,
-  "ready": 183,
-  "dispatched": 111
+  "ready": 182,
+  "dispatched": 112
 }
