@@ -742,7 +742,7 @@
       "id": 123,
       "fr": "124B",
       "code": "60106",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 124,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T09:19:05.049Z",
+  "updatedAt": "2026-04-08T09:19:16.914Z",
   "total": 294,
-  "ready": 255,
-  "dispatched": 39
+  "ready": 254,
+  "dispatched": 40
 }
