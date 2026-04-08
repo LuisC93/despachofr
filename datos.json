@@ -352,7 +352,7 @@
       "id": 58,
       "fr": "59B",
       "code": "86256",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 59,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T09:19:16.914Z",
+  "updatedAt": "2026-04-08T09:19:33.063Z",
   "total": 294,
-  "ready": 254,
-  "dispatched": 40
+  "ready": 253,
+  "dispatched": 41
 }
