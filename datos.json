@@ -1054,7 +1054,7 @@
       "id": 175,
       "fr": "176B",
       "code": "78025",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 176,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T09:33:31.551Z",
+  "updatedAt": "2026-04-08T09:33:49.072Z",
   "total": 294,
-  "ready": 235,
-  "dispatched": 59
+  "ready": 234,
+  "dispatched": 60
 }
