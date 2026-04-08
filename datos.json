@@ -1714,7 +1714,7 @@
       "id": 285,
       "fr": "286B",
       "code": "66114",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 286,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T10:10:46.754Z",
+  "updatedAt": "2026-04-08T10:11:12.870Z",
   "total": 294,
-  "ready": 182,
-  "dispatched": 112
+  "ready": 181,
+  "dispatched": 113
 }
