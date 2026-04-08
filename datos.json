@@ -676,7 +676,7 @@
       "id": 112,
       "fr": "113B",
       "code": "11185",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 113,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T09:37:26.335Z",
+  "updatedAt": "2026-04-08T09:38:45.676Z",
   "total": 294,
-  "ready": 228,
-  "dispatched": 66
+  "ready": 227,
+  "dispatched": 67
 }
