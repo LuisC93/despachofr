@@ -1042,7 +1042,7 @@
       "id": 173,
       "fr": "174B",
       "code": "80126",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 174,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T12:27:24.239Z",
+  "updatedAt": "2026-04-08T12:27:41.403Z",
   "total": 294,
-  "ready": 55,
-  "dispatched": 239
+  "ready": 54,
+  "dispatched": 240
 }
