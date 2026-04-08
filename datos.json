@@ -1234,7 +1234,7 @@
       "id": 205,
       "fr": "206B",
       "code": "12629",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 206,
@@ -1765,8 +1765,8 @@
       "status": "dispatched"
     }
   ],
-  "updatedAt": "2026-04-08T14:15:13.158Z",
+  "updatedAt": "2026-04-08T14:15:15.493Z",
   "total": 294,
-  "ready": 10,
-  "dispatched": 284
+  "ready": 9,
+  "dispatched": 285
 }
