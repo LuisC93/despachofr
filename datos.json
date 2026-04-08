@@ -1510,7 +1510,7 @@
       "id": 251,
       "fr": "252B",
       "code": "64020",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 252,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T08:41:58.252Z",
+  "updatedAt": "2026-04-08T08:58:33.190Z",
   "total": 294,
-  "ready": 294,
-  "dispatched": 0
+  "ready": 293,
+  "dispatched": 1
 }
