@@ -1498,7 +1498,7 @@
       "id": 249,
       "fr": "250B",
       "code": "60184",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 250,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T12:17:04.261Z",
+  "updatedAt": "2026-04-08T12:17:27.404Z",
   "total": 294,
-  "ready": 60,
-  "dispatched": 234
+  "ready": 59,
+  "dispatched": 235
 }
