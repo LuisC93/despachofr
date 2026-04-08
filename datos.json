@@ -1528,7 +1528,7 @@
       "id": 254,
       "fr": "255B",
       "code": "60180",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 255,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T11:18:02.411Z",
+  "updatedAt": "2026-04-08T11:20:22.416Z",
   "total": 294,
-  "ready": 122,
-  "dispatched": 172
+  "ready": 121,
+  "dispatched": 173
 }
