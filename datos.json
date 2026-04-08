@@ -274,7 +274,7 @@
       "id": 45,
       "fr": "46B",
       "code": "12676",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 46,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T09:51:16.117Z",
+  "updatedAt": "2026-04-08T09:54:15.528Z",
   "total": 294,
-  "ready": 202,
-  "dispatched": 92
+  "ready": 201,
+  "dispatched": 93
 }
