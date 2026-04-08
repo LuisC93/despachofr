@@ -976,7 +976,7 @@
       "id": 162,
       "fr": "163B",
       "code": "14734",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 163,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T09:06:18.024Z",
+  "updatedAt": "2026-04-08T09:06:29.886Z",
   "total": 294,
-  "ready": 276,
-  "dispatched": 18
+  "ready": 275,
+  "dispatched": 19
 }
