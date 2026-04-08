@@ -1672,7 +1672,7 @@
       "id": 278,
       "fr": "279B",
       "code": "78010",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 279,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T09:11:20.356Z",
+  "updatedAt": "2026-04-08T09:11:40.838Z",
   "total": 294,
-  "ready": 263,
-  "dispatched": 31
+  "ready": 262,
+  "dispatched": 32
 }
