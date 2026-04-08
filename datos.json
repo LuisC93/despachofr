@@ -580,7 +580,7 @@
       "id": 96,
       "fr": "97B",
       "code": "88090",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 97,
@@ -670,7 +670,7 @@
       "id": 111,
       "fr": "112B",
       "code": "10547",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 112,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T10:20:09.876Z",
+  "updatedAt": "2026-04-08T10:22:43.052Z",
   "total": 294,
-  "ready": 169,
-  "dispatched": 125
+  "ready": 167,
+  "dispatched": 127
 }
