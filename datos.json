@@ -1066,7 +1066,7 @@
       "id": 177,
       "fr": "178B",
       "code": "60278",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 178,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T13:41:15.655Z",
+  "updatedAt": "2026-04-08T13:41:40.770Z",
   "total": 294,
-  "ready": 30,
-  "dispatched": 264
+  "ready": 29,
+  "dispatched": 265
 }
