@@ -970,7 +970,7 @@
       "id": 161,
       "fr": "162B",
       "code": "64076",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 162,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T10:17:42.810Z",
+  "updatedAt": "2026-04-08T10:18:08.055Z",
   "total": 294,
-  "ready": 176,
-  "dispatched": 118
+  "ready": 175,
+  "dispatched": 119
 }
