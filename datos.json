@@ -1348,7 +1348,7 @@
       "id": 224,
       "fr": "225B",
       "code": "86506",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 225,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T13:34:38.705Z",
+  "updatedAt": "2026-04-08T13:34:55.112Z",
   "total": 294,
-  "ready": 35,
-  "dispatched": 259
+  "ready": 34,
+  "dispatched": 260
 }
