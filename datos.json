@@ -376,7 +376,7 @@
       "id": 62,
       "fr": "63B",
       "code": "11425",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 63,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T11:44:15.113Z",
+  "updatedAt": "2026-04-08T11:44:40.062Z",
   "total": 294,
-  "ready": 97,
-  "dispatched": 197
+  "ready": 96,
+  "dispatched": 198
 }
