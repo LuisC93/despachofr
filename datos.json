@@ -550,7 +550,7 @@
       "id": 91,
       "fr": "92B",
       "code": "70017",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 92,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T11:03:10.964Z",
+  "updatedAt": "2026-04-08T11:03:26.923Z",
   "total": 294,
-  "ready": 136,
-  "dispatched": 158
+  "ready": 135,
+  "dispatched": 159
 }
