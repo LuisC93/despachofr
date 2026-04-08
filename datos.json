@@ -1678,7 +1678,7 @@
       "id": 279,
       "fr": "280B",
       "code": "86487",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 280,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T09:08:38.823Z",
+  "updatedAt": "2026-04-08T09:08:57.338Z",
   "total": 294,
-  "ready": 271,
-  "dispatched": 23
+  "ready": 270,
+  "dispatched": 24
 }
