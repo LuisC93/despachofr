@@ -172,7 +172,7 @@
       "id": 28,
       "fr": "29B",
       "code": "10601",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 29,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T09:00:39.777Z",
+  "updatedAt": "2026-04-08T09:00:55.421Z",
   "total": 294,
-  "ready": 292,
-  "dispatched": 2
+  "ready": 291,
+  "dispatched": 3
 }
