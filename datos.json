@@ -1018,7 +1018,7 @@
       "id": 169,
       "fr": "170B",
       "code": "80144",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 170,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T13:14:04.518Z",
+  "updatedAt": "2026-04-08T13:16:35.109Z",
   "total": 294,
-  "ready": 40,
-  "dispatched": 254
+  "ready": 39,
+  "dispatched": 255
 }
