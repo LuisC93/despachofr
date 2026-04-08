@@ -490,7 +490,7 @@
       "id": 81,
       "fr": "82B",
       "code": "10432",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 82,
@@ -1765,8 +1765,8 @@
       "status": "dispatched"
     }
   ],
-  "updatedAt": "2026-04-08T14:14:44.172Z",
+  "updatedAt": "2026-04-08T14:14:46.401Z",
   "total": 294,
-  "ready": 15,
-  "dispatched": 279
+  "ready": 14,
+  "dispatched": 280
 }
