@@ -370,7 +370,7 @@
       "id": 61,
       "fr": "62B",
       "code": "12631",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 62,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T09:36:58.241Z",
+  "updatedAt": "2026-04-08T09:37:05.830Z",
   "total": 294,
-  "ready": 230,
-  "dispatched": 64
+  "ready": 229,
+  "dispatched": 65
 }
