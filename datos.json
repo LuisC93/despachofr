@@ -520,7 +520,7 @@
       "id": 86,
       "fr": "87B",
       "code": "12530",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 87,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T11:00:07.937Z",
+  "updatedAt": "2026-04-08T11:02:50.800Z",
   "total": 294,
-  "ready": 138,
-  "dispatched": 156
+  "ready": 137,
+  "dispatched": 157
 }
