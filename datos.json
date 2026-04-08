@@ -184,7 +184,7 @@
       "id": 30,
       "fr": "31B",
       "code": "12695",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 31,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T09:38:59.238Z",
+  "updatedAt": "2026-04-08T09:39:09.474Z",
   "total": 294,
-  "ready": 226,
-  "dispatched": 68
+  "ready": 225,
+  "dispatched": 69
 }
