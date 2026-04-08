@@ -154,7 +154,7 @@
       "id": 25,
       "fr": "26B",
       "code": "80148",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 26,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T09:43:29.938Z",
+  "updatedAt": "2026-04-08T09:43:57.093Z",
   "total": 294,
-  "ready": 215,
-  "dispatched": 79
+  "ready": 214,
+  "dispatched": 80
 }
