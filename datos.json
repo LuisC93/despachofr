@@ -1762,11 +1762,11 @@
       "id": 293,
       "fr": "294B",
       "code": "80011",
-      "status": "ready"
+      "status": "dispatched"
     }
   ],
-  "updatedAt": "2026-04-08T13:56:27.810Z",
+  "updatedAt": "2026-04-08T14:01:04.037Z",
   "total": 294,
-  "ready": 22,
-  "dispatched": 272
+  "ready": 21,
+  "dispatched": 273
 }
