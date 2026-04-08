@@ -1534,7 +1534,7 @@
       "id": 255,
       "fr": "256B",
       "code": "86192",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 256,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T11:31:32.295Z",
+  "updatedAt": "2026-04-08T11:33:53.265Z",
   "total": 294,
-  "ready": 108,
-  "dispatched": 186
+  "ready": 107,
+  "dispatched": 187
 }
