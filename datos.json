@@ -832,7 +832,7 @@
       "id": 138,
       "fr": "139B",
       "code": "86254",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 139,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T10:50:00.248Z",
+  "updatedAt": "2026-04-08T10:50:12.731Z",
   "total": 294,
-  "ready": 149,
-  "dispatched": 145
+  "ready": 148,
+  "dispatched": 146
 }
