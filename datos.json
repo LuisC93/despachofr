@@ -1540,7 +1540,7 @@
       "id": 256,
       "fr": "257B",
       "code": "80036",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 257,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T12:39:24.060Z",
+  "updatedAt": "2026-04-08T12:40:25.746Z",
   "total": 294,
-  "ready": 51,
-  "dispatched": 243
+  "ready": 50,
+  "dispatched": 244
 }
