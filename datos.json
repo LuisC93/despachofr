@@ -910,7 +910,7 @@
       "id": 151,
       "fr": "152B",
       "code": "86286",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 152,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T09:05:29.600Z",
+  "updatedAt": "2026-04-08T09:05:44.570Z",
   "total": 294,
-  "ready": 280,
-  "dispatched": 14
+  "ready": 279,
+  "dispatched": 15
 }
