@@ -1744,7 +1744,7 @@
       "id": 290,
       "fr": "291B",
       "code": "12514",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 291,
@@ -1765,8 +1765,8 @@
       "status": "dispatched"
     }
   ],
-  "updatedAt": "2026-04-08T14:15:26.003Z",
+  "updatedAt": "2026-04-08T14:15:28.018Z",
   "total": 294,
-  "ready": 3,
-  "dispatched": 291
+  "ready": 2,
+  "dispatched": 292
 }
