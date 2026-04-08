@@ -46,7 +46,7 @@
       "id": 7,
       "fr": "8B",
       "code": "12701",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 8,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T10:19:51.734Z",
+  "updatedAt": "2026-04-08T10:20:09.876Z",
   "total": 294,
-  "ready": 170,
-  "dispatched": 124
+  "ready": 169,
+  "dispatched": 125
 }
