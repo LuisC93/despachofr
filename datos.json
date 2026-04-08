@@ -946,7 +946,7 @@
       "id": 157,
       "fr": "158B",
       "code": "10152",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 158,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T09:09:08.146Z",
+  "updatedAt": "2026-04-08T09:09:19.960Z",
   "total": 294,
-  "ready": 269,
-  "dispatched": 25
+  "ready": 268,
+  "dispatched": 26
 }
