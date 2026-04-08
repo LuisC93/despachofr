@@ -664,7 +664,7 @@
       "id": 110,
       "fr": "111B",
       "code": "86367",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 111,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T10:36:21.163Z",
+  "updatedAt": "2026-04-08T10:37:38.041Z",
   "total": 294,
-  "ready": 157,
-  "dispatched": 137
+  "ready": 156,
+  "dispatched": 138
 }
