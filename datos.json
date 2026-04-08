@@ -622,7 +622,7 @@
       "id": 103,
       "fr": "104B",
       "code": "10577",
-      "status": "dispatched"
+      "status": "ready"
     },
     {
       "id": 104,
@@ -1765,8 +1765,8 @@
       "status": "dispatched"
     }
   ],
-  "updatedAt": "2026-04-08T14:15:28.018Z",
+  "updatedAt": "2026-04-08T14:15:38.581Z",
   "total": 294,
-  "ready": 2,
-  "dispatched": 292
+  "ready": 3,
+  "dispatched": 291
 }
