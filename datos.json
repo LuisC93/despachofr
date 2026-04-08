@@ -118,7 +118,7 @@
       "id": 19,
       "fr": "20B",
       "code": "14845",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 20,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T09:01:46.644Z",
+  "updatedAt": "2026-04-08T09:02:02.000Z",
   "total": 294,
-  "ready": 288,
-  "dispatched": 6
+  "ready": 287,
+  "dispatched": 7
 }
