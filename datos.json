@@ -160,7 +160,7 @@
       "id": 26,
       "fr": "27B",
       "code": "12714",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 27,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T09:02:02.000Z",
+  "updatedAt": "2026-04-08T09:02:12.893Z",
   "total": 294,
-  "ready": 287,
-  "dispatched": 7
+  "ready": 286,
+  "dispatched": 8
 }
