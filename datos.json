@@ -1600,7 +1600,7 @@
       "id": 266,
       "fr": "267B",
       "code": "80021",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 267,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T12:04:53.152Z",
+  "updatedAt": "2026-04-08T12:08:11.137Z",
   "total": 294,
-  "ready": 67,
-  "dispatched": 227
+  "ready": 66,
+  "dispatched": 228
 }
