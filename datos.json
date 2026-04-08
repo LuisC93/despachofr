@@ -1522,7 +1522,7 @@
       "id": 253,
       "fr": "254B",
       "code": "80034",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 254,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T11:33:53.265Z",
+  "updatedAt": "2026-04-08T11:34:10.826Z",
   "total": 294,
-  "ready": 107,
-  "dispatched": 187
+  "ready": 106,
+  "dispatched": 188
 }
