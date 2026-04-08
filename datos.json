@@ -448,7 +448,7 @@
       "id": 74,
       "fr": "75B",
       "code": "10657",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 75,
@@ -1765,8 +1765,8 @@
       "status": "dispatched"
     }
   ],
-  "updatedAt": "2026-04-08T14:14:40.683Z",
+  "updatedAt": "2026-04-08T14:14:42.482Z",
   "total": 294,
-  "ready": 17,
-  "dispatched": 277
+  "ready": 16,
+  "dispatched": 278
 }
