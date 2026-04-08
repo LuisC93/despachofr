@@ -1180,7 +1180,7 @@
       "id": 196,
       "fr": "197B",
       "code": "10927",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 197,
@@ -1765,8 +1765,8 @@
       "status": "dispatched"
     }
   ],
-  "updatedAt": "2026-04-08T14:15:18.507Z",
+  "updatedAt": "2026-04-08T14:15:21.299Z",
   "total": 294,
-  "ready": 7,
-  "dispatched": 287
+  "ready": 6,
+  "dispatched": 288
 }
