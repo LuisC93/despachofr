@@ -1666,7 +1666,7 @@
       "id": 277,
       "fr": "278B",
       "code": "78093",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 278,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T09:11:53.810Z",
+  "updatedAt": "2026-04-08T09:12:08.156Z",
   "total": 294,
-  "ready": 261,
-  "dispatched": 33
+  "ready": 260,
+  "dispatched": 34
 }
