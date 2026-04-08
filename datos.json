@@ -1114,7 +1114,7 @@
       "id": 185,
       "fr": "186B",
       "code": "80111",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 186,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T10:59:49.114Z",
+  "updatedAt": "2026-04-08T11:00:07.937Z",
   "total": 294,
-  "ready": 139,
-  "dispatched": 155
+  "ready": 138,
+  "dispatched": 156
 }
