@@ -1198,7 +1198,7 @@
       "id": 199,
       "fr": "200B",
       "code": "60226",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 200,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T09:09:19.960Z",
+  "updatedAt": "2026-04-08T09:09:30.050Z",
   "total": 294,
-  "ready": 268,
-  "dispatched": 26
+  "ready": 267,
+  "dispatched": 27
 }
