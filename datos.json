@@ -1162,7 +1162,7 @@
       "id": 193,
       "fr": "194B",
       "code": "80105",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 194,
@@ -1765,8 +1765,8 @@
       "status": "dispatched"
     }
   ],
-  "updatedAt": "2026-04-08T14:15:10.586Z",
+  "updatedAt": "2026-04-08T14:15:13.158Z",
   "total": 294,
-  "ready": 11,
-  "dispatched": 283
+  "ready": 10,
+  "dispatched": 284
 }
