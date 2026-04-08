@@ -454,7 +454,7 @@
       "id": 75,
       "fr": "76B",
       "code": "12572",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 76,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T09:00:55.421Z",
+  "updatedAt": "2026-04-08T09:01:24.301Z",
   "total": 294,
-  "ready": 291,
-  "dispatched": 3
+  "ready": 290,
+  "dispatched": 4
 }
