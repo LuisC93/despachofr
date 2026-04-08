@@ -1150,7 +1150,7 @@
       "id": 191,
       "fr": "192B",
       "code": "80107",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 192,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T12:50:26.639Z",
+  "updatedAt": "2026-04-08T13:00:46.678Z",
   "total": 294,
-  "ready": 44,
-  "dispatched": 250
+  "ready": 43,
+  "dispatched": 251
 }
