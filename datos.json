@@ -1378,7 +1378,7 @@
       "id": 229,
       "fr": "230B",
       "code": "64055",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 230,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T10:08:52.931Z",
+  "updatedAt": "2026-04-08T10:09:13.909Z",
   "total": 294,
-  "ready": 187,
-  "dispatched": 107
+  "ready": 186,
+  "dispatched": 108
 }
