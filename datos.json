@@ -880,7 +880,7 @@
       "id": 146,
       "fr": "147B",
       "code": "64126",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 147,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T10:03:30.382Z",
+  "updatedAt": "2026-04-08T10:03:48.385Z",
   "total": 294,
-  "ready": 194,
-  "dispatched": 100
+  "ready": 193,
+  "dispatched": 101
 }
