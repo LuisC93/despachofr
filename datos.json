@@ -52,7 +52,7 @@
       "id": 8,
       "fr": "9B",
       "code": "10982",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 9,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T10:43:57.922Z",
+  "updatedAt": "2026-04-08T10:44:13.874Z",
   "total": 294,
-  "ready": 152,
-  "dispatched": 142
+  "ready": 151,
+  "dispatched": 143
 }
