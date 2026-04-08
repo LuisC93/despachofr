@@ -346,7 +346,7 @@
       "id": 57,
       "fr": "58B",
       "code": "86401",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 58,
@@ -1765,8 +1765,8 @@
       "status": "dispatched"
     }
   ],
-  "updatedAt": "2026-04-08T14:14:19.760Z",
+  "updatedAt": "2026-04-08T14:14:22.191Z",
   "total": 294,
-  "ready": 19,
-  "dispatched": 275
+  "ready": 18,
+  "dispatched": 276
 }
