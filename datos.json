@@ -472,7 +472,7 @@
       "id": 78,
       "fr": "79B",
       "code": "12554",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 79,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T10:55:40.123Z",
+  "updatedAt": "2026-04-08T10:57:53.416Z",
   "total": 294,
-  "ready": 145,
-  "dispatched": 149
+  "ready": 144,
+  "dispatched": 150
 }
