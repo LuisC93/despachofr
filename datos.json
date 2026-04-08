@@ -1558,7 +1558,7 @@
       "id": 259,
       "fr": "260B",
       "code": "64018",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 260,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T11:42:11.437Z",
+  "updatedAt": "2026-04-08T11:42:22.883Z",
   "total": 294,
-  "ready": 100,
-  "dispatched": 194
+  "ready": 99,
+  "dispatched": 195
 }
