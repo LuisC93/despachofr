@@ -34,7 +34,7 @@
       "id": 5,
       "fr": "6B",
       "code": "12776",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 6,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T09:28:52.746Z",
+  "updatedAt": "2026-04-08T09:29:03.983Z",
   "total": 294,
-  "ready": 246,
-  "dispatched": 48
+  "ready": 245,
+  "dispatched": 49
 }
