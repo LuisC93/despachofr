@@ -220,7 +220,7 @@
       "id": 36,
       "fr": "37B",
       "code": "64082",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 37,
@@ -1765,8 +1765,8 @@
       "status": "dispatched"
     }
   ],
-  "updatedAt": "2026-04-08T14:14:17.356Z",
+  "updatedAt": "2026-04-08T14:14:19.760Z",
   "total": 294,
-  "ready": 20,
-  "dispatched": 274
+  "ready": 19,
+  "dispatched": 275
 }
