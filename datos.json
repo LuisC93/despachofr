@@ -1468,7 +1468,7 @@
       "id": 244,
       "fr": "245B",
       "code": "70021",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 245,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T09:02:22.521Z",
+  "updatedAt": "2026-04-08T09:03:52.104Z",
   "total": 294,
-  "ready": 285,
-  "dispatched": 9
+  "ready": 284,
+  "dispatched": 10
 }
