@@ -88,7 +88,7 @@
       "id": 14,
       "fr": "15B",
       "code": "60091",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 15,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T11:16:58.176Z",
+  "updatedAt": "2026-04-08T11:18:02.411Z",
   "total": 294,
-  "ready": 123,
-  "dispatched": 171
+  "ready": 122,
+  "dispatched": 172
 }
