@@ -1312,7 +1312,7 @@
       "id": 218,
       "fr": "219B",
       "code": "80077",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 219,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T10:58:11.533Z",
+  "updatedAt": "2026-04-08T10:58:42.288Z",
   "total": 294,
-  "ready": 143,
-  "dispatched": 151
+  "ready": 142,
+  "dispatched": 152
 }
