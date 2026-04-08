@@ -508,7 +508,7 @@
       "id": 84,
       "fr": "85B",
       "code": "64049",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 85,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T13:26:03.805Z",
+  "updatedAt": "2026-04-08T13:28:48.454Z",
   "total": 294,
-  "ready": 38,
-  "dispatched": 256
+  "ready": 37,
+  "dispatched": 257
 }
