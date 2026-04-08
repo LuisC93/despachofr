@@ -1120,7 +1120,7 @@
       "id": 186,
       "fr": "187B",
       "code": "80115",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 187,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T11:03:26.923Z",
+  "updatedAt": "2026-04-08T11:03:40.994Z",
   "total": 294,
-  "ready": 135,
-  "dispatched": 159
+  "ready": 134,
+  "dispatched": 160
 }
