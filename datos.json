@@ -778,7 +778,7 @@
       "id": 129,
       "fr": "130B",
       "code": "60100",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 130,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T09:30:53.924Z",
+  "updatedAt": "2026-04-08T09:30:59.862Z",
   "total": 294,
-  "ready": 238,
-  "dispatched": 56
+  "ready": 237,
+  "dispatched": 57
 }
