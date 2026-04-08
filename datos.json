@@ -10,7 +10,7 @@
       "id": 1,
       "fr": "2B",
       "code": "86415",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 2,
@@ -1765,8 +1765,8 @@
       "status": "dispatched"
     }
   ],
-  "updatedAt": "2026-04-08T15:18:23.242Z",
+  "updatedAt": "2026-04-08T15:18:26.056Z",
   "total": 294,
-  "ready": 1,
-  "dispatched": 293
+  "ready": 0,
+  "dispatched": 294
 }
