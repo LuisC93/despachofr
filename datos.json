@@ -1132,7 +1132,7 @@
       "id": 188,
       "fr": "189B",
       "code": "12660",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 189,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T09:03:52.104Z",
+  "updatedAt": "2026-04-08T09:04:42.178Z",
   "total": 294,
-  "ready": 284,
-  "dispatched": 10
+  "ready": 283,
+  "dispatched": 11
 }
