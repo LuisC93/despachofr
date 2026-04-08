@@ -430,7 +430,7 @@
       "id": 71,
       "fr": "72B",
       "code": "12586",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 72,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T09:33:49.072Z",
+  "updatedAt": "2026-04-08T09:34:19.166Z",
   "total": 294,
-  "ready": 234,
-  "dispatched": 60
+  "ready": 233,
+  "dispatched": 61
 }
