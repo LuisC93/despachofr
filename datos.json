@@ -1126,7 +1126,7 @@
       "id": 187,
       "fr": "188B",
       "code": "80108",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 188,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T12:28:11.793Z",
+  "updatedAt": "2026-04-08T12:39:24.060Z",
   "total": 294,
-  "ready": 52,
-  "dispatched": 242
+  "ready": 51,
+  "dispatched": 243
 }
