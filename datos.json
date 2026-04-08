@@ -238,7 +238,7 @@
       "id": 39,
       "fr": "40B",
       "code": "78044",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 40,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T12:19:09.668Z",
+  "updatedAt": "2026-04-08T12:20:38.727Z",
   "total": 294,
-  "ready": 57,
-  "dispatched": 237
+  "ready": 56,
+  "dispatched": 238
 }
