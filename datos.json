@@ -628,7 +628,7 @@
       "id": 104,
       "fr": "105B",
       "code": "78013",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 105,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T10:17:29.163Z",
+  "updatedAt": "2026-04-08T10:17:42.810Z",
   "total": 294,
-  "ready": 177,
-  "dispatched": 117
+  "ready": 176,
+  "dispatched": 118
 }
