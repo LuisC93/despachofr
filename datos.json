@@ -982,7 +982,7 @@
       "id": 163,
       "fr": "164B",
       "code": "86246",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 164,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T11:27:10.235Z",
+  "updatedAt": "2026-04-08T11:27:32.191Z",
   "total": 294,
-  "ready": 118,
-  "dispatched": 176
+  "ready": 117,
+  "dispatched": 177
 }
