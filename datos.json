@@ -286,7 +286,7 @@
       "id": 47,
       "fr": "48B",
       "code": "80120",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 48,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T12:17:39.325Z",
+  "updatedAt": "2026-04-08T12:19:09.668Z",
   "total": 294,
-  "ready": 58,
-  "dispatched": 236
+  "ready": 57,
+  "dispatched": 237
 }
