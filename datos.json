@@ -1138,7 +1138,7 @@
       "id": 189,
       "fr": "190B",
       "code": "66148",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 190,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T09:08:26.018Z",
+  "updatedAt": "2026-04-08T09:08:38.823Z",
   "total": 294,
-  "ready": 272,
-  "dispatched": 22
+  "ready": 271,
+  "dispatched": 23
 }
