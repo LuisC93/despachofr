@@ -1642,7 +1642,7 @@
       "id": 273,
       "fr": "274B",
       "code": "60280",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 274,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T11:58:08.826Z",
+  "updatedAt": "2026-04-08T11:58:24.545Z",
   "total": 294,
-  "ready": 73,
-  "dispatched": 221
+  "ready": 72,
+  "dispatched": 222
 }
