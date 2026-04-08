@@ -694,7 +694,7 @@
       "id": 115,
       "fr": "116B",
       "code": "64007",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 116,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T09:43:57.093Z",
+  "updatedAt": "2026-04-08T09:44:24.194Z",
   "total": 294,
-  "ready": 214,
-  "dispatched": 80
+  "ready": 213,
+  "dispatched": 81
 }
