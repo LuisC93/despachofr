@@ -718,7 +718,7 @@
       "id": 119,
       "fr": "120B",
       "code": "80157",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 120,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T12:40:25.746Z",
+  "updatedAt": "2026-04-08T12:40:57.376Z",
   "total": 294,
-  "ready": 50,
-  "dispatched": 244
+  "ready": 49,
+  "dispatched": 245
 }
