@@ -1438,7 +1438,7 @@
       "id": 239,
       "fr": "240B",
       "code": "64048",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 240,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T09:02:12.893Z",
+  "updatedAt": "2026-04-08T09:02:22.521Z",
   "total": 294,
-  "ready": 286,
-  "dispatched": 8
+  "ready": 285,
+  "dispatched": 9
 }
