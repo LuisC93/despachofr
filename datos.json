@@ -796,7 +796,7 @@
       "id": 132,
       "fr": "133B",
       "code": "60103",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 133,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T09:00:21.971Z",
+  "updatedAt": "2026-04-08T09:00:39.777Z",
   "total": 294,
-  "ready": 293,
-  "dispatched": 1
+  "ready": 292,
+  "dispatched": 2
 }
