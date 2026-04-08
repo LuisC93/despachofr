@@ -574,7 +574,7 @@
       "id": 95,
       "fr": "96B",
       "code": "10589",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 96,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T09:37:05.830Z",
+  "updatedAt": "2026-04-08T09:37:26.335Z",
   "total": 294,
-  "ready": 229,
-  "dispatched": 65
+  "ready": 228,
+  "dispatched": 66
 }
