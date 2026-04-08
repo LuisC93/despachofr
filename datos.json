@@ -1612,7 +1612,7 @@
       "id": 268,
       "fr": "269B",
       "code": "12498",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 269,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T11:09:12.671Z",
+  "updatedAt": "2026-04-08T11:09:47.648Z",
   "total": 294,
-  "ready": 131,
-  "dispatched": 163
+  "ready": 130,
+  "dispatched": 164
 }
