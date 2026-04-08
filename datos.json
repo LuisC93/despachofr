@@ -400,7 +400,7 @@
       "id": 66,
       "fr": "67B",
       "code": "86199",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 67,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T11:29:32.445Z",
+  "updatedAt": "2026-04-08T11:29:49.505Z",
   "total": 294,
-  "ready": 111,
-  "dispatched": 183
+  "ready": 110,
+  "dispatched": 184
 }
