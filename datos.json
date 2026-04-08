@@ -1012,7 +1012,7 @@
       "id": 168,
       "fr": "169B",
       "code": "60254",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 169,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T13:34:55.112Z",
+  "updatedAt": "2026-04-08T13:38:05.428Z",
   "total": 294,
-  "ready": 34,
-  "dispatched": 260
+  "ready": 33,
+  "dispatched": 261
 }
