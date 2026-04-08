@@ -1294,7 +1294,7 @@
       "id": 215,
       "fr": "216B",
       "code": "80082",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 216,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T12:02:01.029Z",
+  "updatedAt": "2026-04-08T12:04:17.844Z",
   "total": 294,
-  "ready": 70,
-  "dispatched": 224
+  "ready": 69,
+  "dispatched": 225
 }
