@@ -838,7 +838,7 @@
       "id": 139,
       "fr": "140B",
       "code": "86314",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 140,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T11:10:04.137Z",
+  "updatedAt": "2026-04-08T11:10:39.297Z",
   "total": 294,
-  "ready": 129,
-  "dispatched": 165
+  "ready": 128,
+  "dispatched": 166
 }
