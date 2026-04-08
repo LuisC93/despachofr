@@ -190,7 +190,7 @@
       "id": 31,
       "fr": "32B",
       "code": "64089",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 32,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T11:20:22.416Z",
+  "updatedAt": "2026-04-08T11:26:23.186Z",
   "total": 294,
-  "ready": 121,
-  "dispatched": 173
+  "ready": 120,
+  "dispatched": 174
 }
