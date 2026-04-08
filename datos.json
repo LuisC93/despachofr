@@ -1030,7 +1030,7 @@
       "id": 171,
       "fr": "172B",
       "code": "78096",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 172,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T09:20:28.420Z",
+  "updatedAt": "2026-04-08T09:23:11.652Z",
   "total": 294,
-  "ready": 251,
-  "dispatched": 43
+  "ready": 250,
+  "dispatched": 44
 }
