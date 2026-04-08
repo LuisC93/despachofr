@@ -1192,7 +1192,7 @@
       "id": 198,
       "fr": "199B",
       "code": "86316",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 199,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T11:51:38.447Z",
+  "updatedAt": "2026-04-08T11:52:03.812Z",
   "total": 294,
-  "ready": 81,
-  "dispatched": 213
+  "ready": 80,
+  "dispatched": 214
 }
