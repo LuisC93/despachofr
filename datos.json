@@ -1738,7 +1738,7 @@
       "id": 289,
       "fr": "290B",
       "code": "80179",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 290,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T13:44:55.010Z",
+  "updatedAt": "2026-04-08T13:46:35.953Z",
   "total": 294,
-  "ready": 27,
-  "dispatched": 267
+  "ready": 26,
+  "dispatched": 268
 }
