@@ -1276,7 +1276,7 @@
       "id": 212,
       "fr": "213B",
       "code": "86507",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 213,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T11:34:10.826Z",
+  "updatedAt": "2026-04-08T11:34:22.290Z",
   "total": 294,
-  "ready": 106,
-  "dispatched": 188
+  "ready": 105,
+  "dispatched": 189
 }
