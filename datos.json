@@ -388,7 +388,7 @@
       "id": 64,
       "fr": "65B",
       "code": "10111",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 65,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T10:27:29.745Z",
+  "updatedAt": "2026-04-08T10:34:10.771Z",
   "total": 294,
-  "ready": 163,
-  "dispatched": 131
+  "ready": 162,
+  "dispatched": 132
 }
