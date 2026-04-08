@@ -1216,7 +1216,7 @@
       "id": 202,
       "fr": "203B",
       "code": "64059",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 203,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T10:11:12.870Z",
+  "updatedAt": "2026-04-08T10:11:32.364Z",
   "total": 294,
-  "ready": 181,
-  "dispatched": 113
+  "ready": 180,
+  "dispatched": 114
 }
