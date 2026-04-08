@@ -196,7 +196,7 @@
       "id": 32,
       "fr": "33B",
       "code": "64086",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 33,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T11:03:59.998Z",
+  "updatedAt": "2026-04-08T11:04:52.470Z",
   "total": 294,
-  "ready": 133,
-  "dispatched": 161
+  "ready": 132,
+  "dispatched": 162
 }
