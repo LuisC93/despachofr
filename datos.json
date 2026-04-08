@@ -1306,7 +1306,7 @@
       "id": 217,
       "fr": "218B",
       "code": "80090",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 218,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T11:29:05.786Z",
+  "updatedAt": "2026-04-08T11:29:22.429Z",
   "total": 294,
-  "ready": 113,
-  "dispatched": 181
+  "ready": 112,
+  "dispatched": 182
 }
