@@ -1450,7 +1450,7 @@
       "id": 241,
       "fr": "242B",
       "code": "64039",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 242,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T09:43:06.342Z",
+  "updatedAt": "2026-04-08T09:43:29.938Z",
   "total": 294,
-  "ready": 216,
-  "dispatched": 78
+  "ready": 215,
+  "dispatched": 79
 }
