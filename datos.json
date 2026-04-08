@@ -934,7 +934,7 @@
       "id": 155,
       "fr": "156B",
       "code": "13050",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 156,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T08:58:35.821Z",
+  "updatedAt": "2026-04-08T09:00:21.971Z",
   "total": 294,
-  "ready": 294,
-  "dispatched": 0
+  "ready": 293,
+  "dispatched": 1
 }
