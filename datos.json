@@ -1660,7 +1660,7 @@
       "id": 276,
       "fr": "277B",
       "code": "78017",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 277,
@@ -1720,7 +1720,7 @@
       "id": 286,
       "fr": "287B",
       "code": "66128",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 287,
@@ -1765,8 +1765,8 @@
       "status": "dispatched"
     }
   ],
-  "updatedAt": "2026-04-08T14:15:23.055Z",
+  "updatedAt": "2026-04-08T14:15:26.003Z",
   "total": 294,
-  "ready": 5,
-  "dispatched": 289
+  "ready": 3,
+  "dispatched": 291
 }
