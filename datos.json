@@ -466,7 +466,7 @@
       "id": 77,
       "fr": "78B",
       "code": "12580",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 78,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T10:22:43.052Z",
+  "updatedAt": "2026-04-08T10:23:11.173Z",
   "total": 294,
-  "ready": 167,
-  "dispatched": 127
+  "ready": 166,
+  "dispatched": 128
 }
