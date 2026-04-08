@@ -1240,7 +1240,7 @@
       "id": 206,
       "fr": "207B",
       "code": "11154",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 207,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T11:49:46.607Z",
+  "updatedAt": "2026-04-08T11:50:04.842Z",
   "total": 294,
-  "ready": 87,
-  "dispatched": 207
+  "ready": 86,
+  "dispatched": 208
 }
