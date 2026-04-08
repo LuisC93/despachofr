@@ -1732,7 +1732,7 @@
       "id": 288,
       "fr": "289B",
       "code": "86193",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 289,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T13:46:35.953Z",
+  "updatedAt": "2026-04-08T13:47:10.202Z",
   "total": 294,
-  "ready": 26,
-  "dispatched": 268
+  "ready": 25,
+  "dispatched": 269
 }
