@@ -526,7 +526,7 @@
       "id": 87,
       "fr": "88B",
       "code": "80039",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 88,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T10:08:12.120Z",
+  "updatedAt": "2026-04-08T10:08:27.981Z",
   "total": 294,
-  "ready": 189,
-  "dispatched": 105
+  "ready": 188,
+  "dispatched": 106
 }
