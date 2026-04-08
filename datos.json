@@ -1696,7 +1696,7 @@
       "id": 282,
       "fr": "283B",
       "code": "10657",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 283,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T09:25:28.435Z",
+  "updatedAt": "2026-04-08T09:26:39.912Z",
   "total": 294,
-  "ready": 249,
-  "dispatched": 45
+  "ready": 248,
+  "dispatched": 46
 }
