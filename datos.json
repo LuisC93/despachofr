@@ -1036,7 +1036,7 @@
       "id": 172,
       "fr": "173B",
       "code": "60181",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 173,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T11:53:29.687Z",
+  "updatedAt": "2026-04-08T11:53:37.609Z",
   "total": 294,
-  "ready": 78,
-  "dispatched": 216
+  "ready": 77,
+  "dispatched": 217
 }
