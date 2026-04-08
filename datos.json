@@ -1330,7 +1330,7 @@
       "id": 221,
       "fr": "222B",
       "code": "86198",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 222,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T12:41:26.517Z",
+  "updatedAt": "2026-04-08T12:49:35.455Z",
   "total": 294,
-  "ready": 48,
-  "dispatched": 246
+  "ready": 47,
+  "dispatched": 247
 }
