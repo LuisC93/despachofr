@@ -562,7 +562,7 @@
       "id": 93,
       "fr": "94B",
       "code": "64024",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 94,
@@ -1765,8 +1765,8 @@
       "status": "dispatched"
     }
   ],
-  "updatedAt": "2026-04-08T14:14:48.524Z",
+  "updatedAt": "2026-04-08T14:14:50.789Z",
   "total": 294,
-  "ready": 13,
-  "dispatched": 281
+  "ready": 12,
+  "dispatched": 282
 }
