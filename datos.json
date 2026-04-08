@@ -232,7 +232,7 @@
       "id": 38,
       "fr": "39B",
       "code": "12360",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 39,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T11:10:39.297Z",
+  "updatedAt": "2026-04-08T11:11:03.533Z",
   "total": 294,
-  "ready": 128,
-  "dispatched": 166
+  "ready": 127,
+  "dispatched": 167
 }
