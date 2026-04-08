@@ -1282,7 +1282,7 @@
       "id": 213,
       "fr": "214B",
       "code": "80083",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 214,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T12:04:17.844Z",
+  "updatedAt": "2026-04-08T12:04:31.545Z",
   "total": 294,
-  "ready": 69,
-  "dispatched": 225
+  "ready": 68,
+  "dispatched": 226
 }
