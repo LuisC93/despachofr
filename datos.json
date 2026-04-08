@@ -1222,7 +1222,7 @@
       "id": 203,
       "fr": "204B",
       "code": "12628",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 204,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T12:00:41.492Z",
+  "updatedAt": "2026-04-08T12:02:01.029Z",
   "total": 294,
-  "ready": 71,
-  "dispatched": 223
+  "ready": 70,
+  "dispatched": 224
 }
