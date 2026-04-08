@@ -394,7 +394,7 @@
       "id": 65,
       "fr": "66B",
       "code": "80087",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 66,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T10:53:39.063Z",
+  "updatedAt": "2026-04-08T10:55:40.123Z",
   "total": 294,
-  "ready": 146,
-  "dispatched": 148
+  "ready": 145,
+  "dispatched": 149
 }
