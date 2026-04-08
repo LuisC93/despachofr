@@ -1402,7 +1402,7 @@
       "id": 233,
       "fr": "234B",
       "code": "12564",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 234,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T10:34:40.158Z",
+  "updatedAt": "2026-04-08T10:34:57.410Z",
   "total": 294,
-  "ready": 160,
-  "dispatched": 134
+  "ready": 159,
+  "dispatched": 135
 }
