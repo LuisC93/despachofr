@@ -484,7 +484,7 @@
       "id": 80,
       "fr": "81B",
       "code": "12574",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 81,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T09:30:00.321Z",
+  "updatedAt": "2026-04-08T09:30:23.161Z",
   "total": 294,
-  "ready": 241,
-  "dispatched": 53
+  "ready": 240,
+  "dispatched": 54
 }
