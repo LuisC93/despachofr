@@ -592,7 +592,7 @@
       "id": 98,
       "fr": "99B",
       "code": "60033",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 99,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T11:09:47.648Z",
+  "updatedAt": "2026-04-08T11:10:04.137Z",
   "total": 294,
-  "ready": 130,
-  "dispatched": 164
+  "ready": 129,
+  "dispatched": 165
 }
