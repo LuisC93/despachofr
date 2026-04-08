@@ -1102,7 +1102,7 @@
       "id": 183,
       "fr": "184B",
       "code": "80123",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 184,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T11:35:15.316Z",
+  "updatedAt": "2026-04-08T11:35:34.268Z",
   "total": 294,
-  "ready": 104,
-  "dispatched": 190
+  "ready": 103,
+  "dispatched": 191
 }
