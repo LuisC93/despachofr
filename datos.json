@@ -1648,7 +1648,7 @@
       "id": 274,
       "fr": "275B",
       "code": "78016",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 275,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T09:39:24.658Z",
+  "updatedAt": "2026-04-08T09:39:44.981Z",
   "total": 294,
-  "ready": 224,
-  "dispatched": 70
+  "ready": 223,
+  "dispatched": 71
 }
