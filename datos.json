@@ -598,7 +598,7 @@
       "id": 99,
       "fr": "100B",
       "code": "60032",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 100,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T09:34:19.166Z",
+  "updatedAt": "2026-04-08T09:36:05.815Z",
   "total": 294,
-  "ready": 233,
-  "dispatched": 61
+  "ready": 232,
+  "dispatched": 62
 }
