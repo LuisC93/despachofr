@@ -1024,7 +1024,7 @@
       "id": 170,
       "fr": "171B",
       "code": "12698",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 171,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T11:47:33.109Z",
+  "updatedAt": "2026-04-08T11:47:51.374Z",
   "total": 294,
-  "ready": 92,
-  "dispatched": 202
+  "ready": 91,
+  "dispatched": 203
 }
