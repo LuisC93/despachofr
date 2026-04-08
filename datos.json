@@ -1108,7 +1108,7 @@
       "id": 184,
       "fr": "185B",
       "code": "60181",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 185,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T13:00:46.678Z",
+  "updatedAt": "2026-04-08T13:02:25.777Z",
   "total": 294,
-  "ready": 43,
-  "dispatched": 251
+  "ready": 42,
+  "dispatched": 252
 }
