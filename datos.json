@@ -1204,7 +1204,7 @@
       "id": 200,
       "fr": "201B",
       "code": "66079",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 201,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T09:09:30.050Z",
+  "updatedAt": "2026-04-08T09:09:39.283Z",
   "total": 294,
-  "ready": 267,
-  "dispatched": 27
+  "ready": 266,
+  "dispatched": 28
 }
