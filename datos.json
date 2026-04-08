@@ -1594,7 +1594,7 @@
       "id": 265,
       "fr": "266B",
       "code": "80015",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 266,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T11:26:23.186Z",
+  "updatedAt": "2026-04-08T11:26:35.871Z",
   "total": 294,
-  "ready": 120,
-  "dispatched": 174
+  "ready": 119,
+  "dispatched": 175
 }
