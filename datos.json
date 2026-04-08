@@ -1576,7 +1576,7 @@
       "id": 262,
       "fr": "263B",
       "code": "80030",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 263,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T10:19:33.768Z",
+  "updatedAt": "2026-04-08T10:19:51.734Z",
   "total": 294,
-  "ready": 171,
-  "dispatched": 123
+  "ready": 170,
+  "dispatched": 124
 }
