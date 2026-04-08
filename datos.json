@@ -1186,7 +1186,7 @@
       "id": 197,
       "fr": "198B",
       "code": "86508",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 198,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T09:06:41.729Z",
+  "updatedAt": "2026-04-08T09:07:57.156Z",
   "total": 294,
-  "ready": 274,
-  "dispatched": 20
+  "ready": 273,
+  "dispatched": 21
 }
