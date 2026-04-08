@@ -682,7 +682,7 @@
       "id": 113,
       "fr": "114B",
       "code": "10546",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 114,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T09:40:14.467Z",
+  "updatedAt": "2026-04-08T09:40:49.739Z",
   "total": 294,
-  "ready": 222,
-  "dispatched": 72
+  "ready": 221,
+  "dispatched": 73
 }
