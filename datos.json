@@ -772,7 +772,7 @@
       "id": 128,
       "fr": "129B",
       "code": "12726",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 129,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T11:39:13.225Z",
+  "updatedAt": "2026-04-08T11:42:03.237Z",
   "total": 294,
-  "ready": 102,
-  "dispatched": 192
+  "ready": 101,
+  "dispatched": 193
 }
