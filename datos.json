@@ -1372,7 +1372,7 @@
       "id": 228,
       "fr": "229B",
       "code": "10656",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 229,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T10:11:53.430Z",
+  "updatedAt": "2026-04-08T10:12:59.833Z",
   "total": 294,
-  "ready": 179,
-  "dispatched": 115
+  "ready": 178,
+  "dispatched": 116
 }
