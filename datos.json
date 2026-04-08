@@ -1708,7 +1708,7 @@
       "id": 284,
       "fr": "285B",
       "code": "64120",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 285,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T09:01:36.575Z",
+  "updatedAt": "2026-04-08T09:01:46.644Z",
   "total": 294,
-  "ready": 289,
-  "dispatched": 5
+  "ready": 288,
+  "dispatched": 6
 }
