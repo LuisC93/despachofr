@@ -1324,7 +1324,7 @@
       "id": 220,
       "fr": "221B",
       "code": "12612",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 221,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T11:54:15.603Z",
+  "updatedAt": "2026-04-08T11:55:35.942Z",
   "total": 294,
-  "ready": 76,
-  "dispatched": 218
+  "ready": 75,
+  "dispatched": 219
 }
