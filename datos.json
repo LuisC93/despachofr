@@ -1618,7 +1618,7 @@
       "id": 269,
       "fr": "270B",
       "code": "80017",
-      "status": "dispatched"
+      "status": "ready"
     },
     {
       "id": 270,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T11:08:54.657Z",
+  "updatedAt": "2026-04-08T11:08:58.048Z",
   "total": 294,
-  "ready": 131,
-  "dispatched": 163
+  "ready": 132,
+  "dispatched": 162
 }
