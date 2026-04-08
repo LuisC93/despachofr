@@ -130,7 +130,7 @@
       "id": 21,
       "fr": "22B",
       "code": "12253",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 22,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T10:18:36.059Z",
+  "updatedAt": "2026-04-08T10:18:56.943Z",
   "total": 294,
-  "ready": 174,
-  "dispatched": 120
+  "ready": 173,
+  "dispatched": 121
 }
