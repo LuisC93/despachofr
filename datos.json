@@ -1552,7 +1552,7 @@
       "id": 258,
       "fr": "259B",
       "code": "60187",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 259,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T11:43:48.474Z",
+  "updatedAt": "2026-04-08T11:44:15.113Z",
   "total": 294,
-  "ready": 98,
-  "dispatched": 196
+  "ready": 97,
+  "dispatched": 197
 }
