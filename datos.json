@@ -850,7 +850,7 @@
       "id": 141,
       "fr": "142B",
       "code": "80149",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 142,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T10:58:42.288Z",
+  "updatedAt": "2026-04-08T10:59:04.670Z",
   "total": 294,
-  "ready": 142,
-  "dispatched": 152
+  "ready": 141,
+  "dispatched": 153
 }
