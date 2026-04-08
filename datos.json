@@ -754,7 +754,7 @@
       "id": 125,
       "fr": "126B",
       "code": "88117",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 126,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T09:09:50.066Z",
+  "updatedAt": "2026-04-08T09:10:44.611Z",
   "total": 294,
-  "ready": 265,
-  "dispatched": 29
+  "ready": 264,
+  "dispatched": 30
 }
