@@ -1504,7 +1504,7 @@
       "id": 250,
       "fr": "251B",
       "code": "64022",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 251,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T11:31:09.997Z",
+  "updatedAt": "2026-04-08T11:31:32.295Z",
   "total": 294,
-  "ready": 109,
-  "dispatched": 185
+  "ready": 108,
+  "dispatched": 186
 }
