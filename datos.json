@@ -1486,7 +1486,7 @@
       "id": 247,
       "fr": "248B",
       "code": "80040",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 248,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T10:57:53.416Z",
+  "updatedAt": "2026-04-08T10:58:11.533Z",
   "total": 294,
-  "ready": 144,
-  "dispatched": 150
+  "ready": 143,
+  "dispatched": 151
 }
