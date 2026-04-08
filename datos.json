@@ -478,7 +478,7 @@
       "id": 79,
       "fr": "80B",
       "code": "80052",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 80,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T10:03:48.385Z",
+  "updatedAt": "2026-04-08T10:04:05.330Z",
   "total": 294,
-  "ready": 193,
-  "dispatched": 101
+  "ready": 192,
+  "dispatched": 102
 }
