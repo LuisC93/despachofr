@@ -1366,7 +1366,7 @@
       "id": 227,
       "fr": "228B",
       "code": "64052",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 228,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T09:14:31.292Z",
+  "updatedAt": "2026-04-08T09:17:29.029Z",
   "total": 294,
-  "ready": 258,
-  "dispatched": 36
+  "ready": 257,
+  "dispatched": 37
 }
