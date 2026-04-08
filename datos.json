@@ -1144,7 +1144,7 @@
       "id": 190,
       "fr": "191B",
       "code": "86400",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 191,
@@ -1765,8 +1765,8 @@
       "status": "dispatched"
     }
   ],
-  "updatedAt": "2026-04-08T14:14:50.789Z",
+  "updatedAt": "2026-04-08T14:15:10.586Z",
   "total": 294,
-  "ready": 12,
-  "dispatched": 282
+  "ready": 11,
+  "dispatched": 283
 }
