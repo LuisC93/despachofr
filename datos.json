@@ -1654,7 +1654,7 @@
       "id": 275,
       "fr": "276B",
       "code": "78005",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 276,
@@ -1765,8 +1765,8 @@
       "status": "dispatched"
     }
   ],
-  "updatedAt": "2026-04-08T14:15:21.299Z",
+  "updatedAt": "2026-04-08T14:15:23.055Z",
   "total": 294,
-  "ready": 6,
-  "dispatched": 288
+  "ready": 5,
+  "dispatched": 289
 }
