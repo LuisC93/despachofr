@@ -424,7 +424,7 @@
       "id": 70,
       "fr": "71B",
       "code": "12275",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 71,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T10:24:08.945Z",
+  "updatedAt": "2026-04-08T10:27:29.745Z",
   "total": 294,
-  "ready": 164,
-  "dispatched": 130
+  "ready": 163,
+  "dispatched": 131
 }
