@@ -1336,7 +1336,7 @@
       "id": 222,
       "fr": "223B",
       "code": "80091",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 223,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T10:50:12.731Z",
+  "updatedAt": "2026-04-08T10:53:20.984Z",
   "total": 294,
-  "ready": 148,
-  "dispatched": 146
+  "ready": 147,
+  "dispatched": 147
 }
