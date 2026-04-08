@@ -994,7 +994,7 @@
       "id": 165,
       "fr": "166B",
       "code": "12370",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 166,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T09:12:08.156Z",
+  "updatedAt": "2026-04-08T09:12:18.864Z",
   "total": 294,
-  "ready": 260,
-  "dispatched": 34
+  "ready": 259,
+  "dispatched": 35
 }
