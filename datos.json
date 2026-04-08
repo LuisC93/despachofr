@@ -502,7 +502,7 @@
       "id": 83,
       "fr": "84B",
       "code": "10630",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 84,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T11:55:35.942Z",
+  "updatedAt": "2026-04-08T11:55:51.744Z",
   "total": 294,
-  "ready": 75,
-  "dispatched": 219
+  "ready": 74,
+  "dispatched": 220
 }
