@@ -1546,7 +1546,7 @@
       "id": 257,
       "fr": "258B",
       "code": "12508",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 258,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T10:39:11.529Z",
+  "updatedAt": "2026-04-08T10:43:57.922Z",
   "total": 294,
-  "ready": 153,
-  "dispatched": 141
+  "ready": 152,
+  "dispatched": 142
 }
