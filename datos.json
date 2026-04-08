@@ -16,7 +16,7 @@
       "id": 2,
       "fr": "3B",
       "code": "60177",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 3,
@@ -1765,8 +1765,8 @@
       "status": "dispatched"
     }
   ],
-  "updatedAt": "2026-04-08T15:18:20.542Z",
+  "updatedAt": "2026-04-08T15:18:23.242Z",
   "total": 294,
-  "ready": 2,
-  "dispatched": 292
+  "ready": 1,
+  "dispatched": 293
 }
