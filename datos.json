@@ -340,7 +340,7 @@
       "id": 56,
       "fr": "57B",
       "code": "64068",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 57,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T13:28:48.454Z",
+  "updatedAt": "2026-04-08T13:29:14.667Z",
   "total": 294,
-  "ready": 37,
-  "dispatched": 257
+  "ready": 36,
+  "dispatched": 258
 }
