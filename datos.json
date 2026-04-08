@@ -1432,7 +1432,7 @@
       "id": 238,
       "fr": "239B",
       "code": "86402",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 239,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T11:58:24.545Z",
+  "updatedAt": "2026-04-08T12:00:41.492Z",
   "total": 294,
-  "ready": 72,
-  "dispatched": 222
+  "ready": 71,
+  "dispatched": 223
 }
