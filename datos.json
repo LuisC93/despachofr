@@ -1258,7 +1258,7 @@
       "id": 209,
       "fr": "210B",
       "code": "66044",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 210,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T09:05:55.882Z",
+  "updatedAt": "2026-04-08T09:06:05.517Z",
   "total": 294,
-  "ready": 278,
-  "dispatched": 16
+  "ready": 277,
+  "dispatched": 17
 }
