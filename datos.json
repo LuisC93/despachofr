@@ -610,7 +610,7 @@
       "id": 101,
       "fr": "102B",
       "code": "60027",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 102,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T09:54:48.636Z",
+  "updatedAt": "2026-04-08T10:00:07.877Z",
   "total": 294,
-  "ready": 199,
-  "dispatched": 95
+  "ready": 198,
+  "dispatched": 96
 }
