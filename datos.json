@@ -1228,7 +1228,7 @@
       "id": 204,
       "fr": "205B",
       "code": "80094",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 205,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T11:34:22.290Z",
+  "updatedAt": "2026-04-08T11:35:15.316Z",
   "total": 294,
-  "ready": 105,
-  "dispatched": 189
+  "ready": 104,
+  "dispatched": 190
 }
