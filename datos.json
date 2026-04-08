@@ -1078,7 +1078,7 @@
       "id": 179,
       "fr": "180B",
       "code": "80119",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 180,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T13:02:25.777Z",
+  "updatedAt": "2026-04-08T13:05:25.037Z",
   "total": 294,
-  "ready": 42,
-  "dispatched": 252
+  "ready": 41,
+  "dispatched": 253
 }
