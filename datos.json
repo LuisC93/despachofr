@@ -496,7 +496,7 @@
       "id": 82,
       "fr": "83B",
       "code": "86403",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 83,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T12:04:31.545Z",
+  "updatedAt": "2026-04-08T12:04:53.152Z",
   "total": 294,
-  "ready": 68,
-  "dispatched": 226
+  "ready": 67,
+  "dispatched": 227
 }
