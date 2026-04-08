@@ -1690,7 +1690,7 @@
       "id": 281,
       "fr": "282B",
       "code": "12485",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 282,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T13:38:05.428Z",
+  "updatedAt": "2026-04-08T13:38:57.538Z",
   "total": 294,
-  "ready": 33,
-  "dispatched": 261
+  "ready": 32,
+  "dispatched": 262
 }
