@@ -940,7 +940,7 @@
       "id": 156,
       "fr": "157B",
       "code": "78092",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 157,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T09:09:39.283Z",
+  "updatedAt": "2026-04-08T09:09:50.066Z",
   "total": 294,
-  "ready": 266,
-  "dispatched": 28
+  "ready": 265,
+  "dispatched": 29
 }
