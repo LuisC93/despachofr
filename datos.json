@@ -1570,7 +1570,7 @@
       "id": 261,
       "fr": "262B",
       "code": "80031",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 262,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T11:14:54.134Z",
+  "updatedAt": "2026-04-08T11:16:58.176Z",
   "total": 294,
-  "ready": 124,
-  "dispatched": 170
+  "ready": 123,
+  "dispatched": 171
 }
