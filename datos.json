@@ -532,7 +532,7 @@
       "id": 88,
       "fr": "89B",
       "code": "12534",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 89,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T11:52:03.812Z",
+  "updatedAt": "2026-04-08T11:53:16.694Z",
   "total": 294,
-  "ready": 80,
-  "dispatched": 214
+  "ready": 79,
+  "dispatched": 215
 }
