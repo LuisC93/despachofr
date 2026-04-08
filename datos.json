@@ -616,7 +616,7 @@
       "id": 102,
       "fr": "103B",
       "code": "64014",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 103,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T13:16:35.109Z",
+  "updatedAt": "2026-04-08T13:26:03.805Z",
   "total": 294,
-  "ready": 39,
-  "dispatched": 255
+  "ready": 38,
+  "dispatched": 256
 }
