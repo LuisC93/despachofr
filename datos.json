@@ -28,7 +28,7 @@
       "id": 4,
       "fr": "5B",
       "code": "12760",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 5,
@@ -1765,8 +1765,8 @@
       "status": "dispatched"
     }
   ],
-  "updatedAt": "2026-04-08T15:11:19.353Z",
+  "updatedAt": "2026-04-08T15:12:49.364Z",
   "total": 294,
-  "ready": 4,
-  "dispatched": 290
+  "ready": 3,
+  "dispatched": 291
 }
