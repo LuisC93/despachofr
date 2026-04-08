@@ -412,7 +412,7 @@
       "id": 68,
       "fr": "69B",
       "code": "12619",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 69,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T10:09:41.559Z",
+  "updatedAt": "2026-04-08T10:09:55.473Z",
   "total": 294,
-  "ready": 184,
-  "dispatched": 110
+  "ready": 183,
+  "dispatched": 111
 }
