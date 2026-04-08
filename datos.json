@@ -646,7 +646,7 @@
       "id": 107,
       "fr": "108B",
       "code": "12482",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 108,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T09:46:20.678Z",
+  "updatedAt": "2026-04-08T09:49:10.336Z",
   "total": 294,
-  "ready": 209,
-  "dispatched": 85
+  "ready": 208,
+  "dispatched": 86
 }
