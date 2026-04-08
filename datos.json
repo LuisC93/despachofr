@@ -922,7 +922,7 @@
       "id": 153,
       "fr": "154B",
       "code": "10414",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 154,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T09:05:01.314Z",
+  "updatedAt": "2026-04-08T09:05:17.082Z",
   "total": 294,
-  "ready": 282,
-  "dispatched": 12
+  "ready": 281,
+  "dispatched": 13
 }
