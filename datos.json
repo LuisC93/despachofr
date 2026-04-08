@@ -928,7 +928,7 @@
       "id": 154,
       "fr": "155B",
       "code": "78057",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 155,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T09:20:03.124Z",
+  "updatedAt": "2026-04-08T09:20:28.420Z",
   "total": 294,
-  "ready": 252,
-  "dispatched": 42
+  "ready": 251,
+  "dispatched": 43
 }
