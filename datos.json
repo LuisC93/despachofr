@@ -640,7 +640,7 @@
       "id": 106,
       "fr": "107B",
       "code": "80002",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 107,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T09:42:05.738Z",
+  "updatedAt": "2026-04-08T09:42:15.719Z",
   "total": 294,
-  "ready": 219,
-  "dispatched": 75
+  "ready": 218,
+  "dispatched": 76
 }
