@@ -40,7 +40,7 @@
       "id": 6,
       "fr": "7B",
       "code": "12778",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 7,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T10:03:16.052Z",
+  "updatedAt": "2026-04-08T10:03:30.382Z",
   "total": 294,
-  "ready": 195,
-  "dispatched": 99
+  "ready": 194,
+  "dispatched": 100
 }
