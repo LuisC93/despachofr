@@ -1072,7 +1072,7 @@
       "id": 178,
       "fr": "179B",
       "code": "12662",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 179,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T11:49:02.934Z",
+  "updatedAt": "2026-04-08T11:49:27.980Z",
   "total": 294,
-  "ready": 89,
-  "dispatched": 205
+  "ready": 88,
+  "dispatched": 206
 }
