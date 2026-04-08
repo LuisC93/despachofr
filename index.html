@@ -322,6 +322,58 @@
 
   .hidden { display:none !important; }
 
+  /* CACHE BADGE */
+  .cache-badge {
+    display: flex; align-items: center; gap: 7px;
+    padding: 7px 13px;
+    background: rgba(0,229,160,0.07);
+    border: 1px solid rgba(0,229,160,0.25);
+    font-family: 'Space Mono', monospace;
+    font-size: 10px; color: var(--accent);
+    letter-spacing: 0.06em;
+    white-space: nowrap;
+    animation: fadeIn 0.3s ease;
+  }
+  .cache-dot {
+    width: 7px; height: 7px; border-radius: 50%;
+    background: var(--accent);
+    box-shadow: 0 0 6px var(--accent);
+    animation: pulse 2s ease-in-out infinite;
+  }
+  @keyframes pulse {
+    0%,100% { opacity:1; box-shadow:0 0 6px var(--accent); }
+    50%      { opacity:0.5; box-shadow:0 0 2px var(--accent); }
+  }
+  @keyframes fadeIn { from{opacity:0;transform:translateY(-4px)} to{opacity:1;transform:translateY(0)} }
+
+  /* CACHE INFO PANEL */
+  .cache-panel {
+    background: rgba(0,229,160,0.05);
+    border: 1px solid rgba(0,229,160,0.18);
+    border-left: 3px solid var(--accent);
+    padding: 10px 16px;
+    margin-bottom: 16px;
+    display: flex; align-items: center; justify-content: space-between;
+    gap: 12px; flex-wrap: wrap;
+    animation: fadeIn 0.3s ease;
+  }
+  .cache-panel-info { display:flex; align-items:center; gap:10px; flex-wrap:wrap; }
+  .cache-panel-info svg { width:14px;height:14px;color:var(--accent);flex-shrink:0; }
+  .cache-panel-text { font-family:'Space Mono',monospace; font-size:10px; color:var(--accent); line-height:1.5; }
+  .cache-panel-text strong { color:var(--text); }
+  .cache-panel-actions { display:flex; gap:8px; }
+  .cache-action-btn {
+    padding:6px 12px;
+    font-family:'Space Mono',monospace; font-size:10px; font-weight:700;
+    border:1px solid; cursor:pointer; transition:all 0.15s;
+    letter-spacing:0.05em; background:transparent;
+    min-height:34px;
+  }
+  .cache-action-btn.primary { border-color:var(--accent); color:var(--accent); }
+  .cache-action-btn.primary:hover { background:rgba(0,229,160,0.12); }
+  .cache-action-btn.danger  { border-color:var(--accent2); color:var(--accent2); }
+  .cache-action-btn.danger:hover  { background:rgba(255,92,92,0.1); }
+
   /* RESPONSIVE */
   @media(max-width:700px) {
     header { padding:12px 14px; }
@@ -362,6 +414,10 @@
     </div>
   </div>
   <div class="header-actions">
+    <div id="cacheIndicator" class="cache-badge hidden" title="Datos cargados desde caché local">
+      <span class="cache-dot"></span><span id="cacheLabel">Sin caché</span>
+    </div>
+    <button class="reset-btn" id="clearCacheBtn" onclick="clearCache()" title="Borrar caché y reiniciar" style="display:none">🗑 Limpiar caché</button>
     <button class="reset-btn" onclick="resetAll()">↺ Reiniciar</button>
     <button class="import-btn" onclick="document.getElementById('fileInput').click()">
       <svg fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5">
@@ -374,6 +430,20 @@
 </header>
 
 <main>
+  <!-- CACHE PANEL (shown when data restored from cache) -->
+  <div class="cache-panel hidden" id="cachePanel">
+    <div class="cache-panel-info">
+      <svg fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M4 7v10c0 2.21 3.582 4 8 4s8-1.79 8-4V7M4 7c0 2.21 3.582 4 8 4s8-1.79 8-4M4 7c0-2.21 3.582-4 8-4s8 1.79 8 4"/>
+      </svg>
+      <div class="cache-panel-text" id="cachePanelText">Datos restaurados desde caché local</div>
+    </div>
+    <div class="cache-panel-actions">
+      <button class="cache-action-btn primary" onclick="exportCache()">⬇ Exportar JSON</button>
+      <button class="cache-action-btn danger"  onclick="clearCache()">✕ Borrar caché</button>
+    </div>
+  </div>
+
   <div class="stats-bar">
     <div class="stat-card s-total">
       <div class="stat-label">Total</div>
@@ -502,6 +572,12 @@
 
 <script>
 // ════════════════════════════════════════════
+// CACHE KEYS
+// ════════════════════════════════════════════
+const CACHE_KEY      = 'despachoboard_data';
+const CACHE_META_KEY = 'despachoboard_meta';
+
+// ════════════════════════════════════════════
 // STATE
 // ════════════════════════════════════════════
 let allItems     = [];
@@ -516,6 +592,101 @@ let touchOffY       = 0;
 let lastTouchTarget = null;
 
 const ghost = document.getElementById('touchGhost');
+
+// ════════════════════════════════════════════
+// CACHE — SAVE  (called after every state change)
+// ════════════════════════════════════════════
+function saveCache() {
+  try {
+    const meta = {
+      savedAt:    new Date().toISOString(),
+      total:      allItems.length,
+      ready:      allItems.filter(i => i.status === 'ready').length,
+      dispatched: allItems.filter(i => i.status === 'dispatched').length,
+      fileName:   window._lastFileName || 'desconocido'
+    };
+    localStorage.setItem(CACHE_KEY,      JSON.stringify(allItems));
+    localStorage.setItem(CACHE_META_KEY, JSON.stringify(meta));
+  } catch(e) { console.warn('Cache write failed:', e); }
+}
+
+// ════════════════════════════════════════════
+// CACHE — LOAD  (on page init)
+// ════════════════════════════════════════════
+function loadCache() {
+  try {
+    const raw  = localStorage.getItem(CACHE_KEY);
+    const meta = localStorage.getItem(CACHE_META_KEY);
+    if (!raw) return false;
+    const parsed = JSON.parse(raw);
+    if (!Array.isArray(parsed) || !parsed.length) return false;
+    allItems = parsed;
+
+    if (meta) {
+      const m  = JSON.parse(meta);
+      const dt = new Date(m.savedAt);
+      const fmt = dt.toLocaleDateString('es-SV', { day:'2-digit', month:'short', year:'numeric' })
+                + ' ' + dt.toLocaleTimeString('es-SV', { hour:'2-digit', minute:'2-digit' });
+      document.getElementById('cachePanelText').innerHTML =
+        `Datos restaurados desde caché &nbsp;·&nbsp; <strong>${m.total} elementos</strong>`
+      + ` &nbsp;·&nbsp; Guardado: <strong>${fmt}</strong>`
+      + ` &nbsp;·&nbsp; Archivo: <strong>${m.fileName}</strong>`;
+      window._lastFileName = m.fileName;
+    }
+    document.getElementById('cachePanel').classList.remove('hidden');
+    updateCacheBadge();
+    return true;
+  } catch(e) { console.warn('Cache read failed:', e); return false; }
+}
+
+// ════════════════════════════════════════════
+// CACHE — CLEAR
+// ════════════════════════════════════════════
+function clearCache() {
+  localStorage.removeItem(CACHE_KEY);
+  localStorage.removeItem(CACHE_META_KEY);
+  document.getElementById('cachePanel').classList.add('hidden');
+  document.getElementById('cacheIndicator').classList.add('hidden');
+  document.getElementById('clearCacheBtn').style.display = 'none';
+  resetAll(true);
+  showToast('🗑 Caché borrado');
+}
+
+// ════════════════════════════════════════════
+// CACHE — EXPORT JSON
+// ════════════════════════════════════════════
+function exportCache() {
+  const payload = {
+    exportedAt: new Date().toISOString(),
+    total:      allItems.length,
+    ready:      allItems.filter(i => i.status === 'ready').length,
+    dispatched: allItems.filter(i => i.status === 'dispatched').length,
+    items:      allItems
+  };
+  const blob = new Blob([JSON.stringify(payload, null, 2)], { type: 'application/json' });
+  const url  = URL.createObjectURL(blob);
+  const a    = document.createElement('a');
+  a.href     = url;
+  a.download = 'despachoboard_' + new Date().toISOString().slice(0,10) + '.json';
+  a.click();
+  URL.revokeObjectURL(url);
+  showToast('⬇ JSON exportado');
+}
+
+// ════════════════════════════════════════════
+// CACHE — BADGE (header indicator)
+// ════════════════════════════════════════════
+function updateCacheBadge() {
+  const badge = document.getElementById('cacheIndicator');
+  const label = document.getElementById('cacheLabel');
+  const btn   = document.getElementById('clearCacheBtn');
+  if (!allItems.length) { badge.classList.add('hidden'); btn.style.display = 'none'; return; }
+  const d = allItems.filter(i => i.status === 'dispatched').length;
+  const r = allItems.filter(i => i.status === 'ready').length;
+  label.textContent = `CACHÉ · ${allItems.length} · ${d} desp / ${r} prep`;
+  badge.classList.remove('hidden');
+  btn.style.display = 'flex';
+}
 
 // ════════════════════════════════════════════
 // EXCEL IMPORT
@@ -534,6 +705,7 @@ function handleFileDrop(e) {
 }
 
 function parseFile(file) {
+  window._lastFileName = file.name;
   const reader = new FileReader();
   reader.onload = ev => {
     try {
@@ -547,16 +719,34 @@ function parseFile(file) {
       const codeKey = keys.find(k => /CODIGO|CÓDIGO/i.test(k.trim()));
       if (!frKey || !codeKey) return showToast('❌ Columnas FR y CODIGO requeridas');
 
+      // Preserve statuses of previously cached items matched by code
+      const prevMap = {};
+      allItems.forEach(i => { prevMap[i.code] = i.status; });
+
       allItems = data
         .filter(r => r[frKey] !== '' && r[codeKey] !== '')
-        .map((r, i) => ({
-          id:     i,
-          fr:     String(r[frKey]).trim(),
-          code:   String(r[codeKey]).trim(),
-          status: 'ready'
-        }));
+        .map((r, i) => {
+          const code = String(r[codeKey]).trim();
+          return {
+            id:     i,
+            fr:     String(r[frKey]).trim(),
+            code,
+            status: prevMap[code] || 'ready'
+          };
+        });
 
-      showToast(`✓ ${allItems.length} elementos importados`);
+      saveCache();
+      updateCacheBadge();
+      document.getElementById('cachePanel').classList.remove('hidden');
+      const dt  = new Date();
+      const fmt = dt.toLocaleDateString('es-SV', { day:'2-digit', month:'short', year:'numeric' })
+                + ' ' + dt.toLocaleTimeString('es-SV', { hour:'2-digit', minute:'2-digit' });
+      document.getElementById('cachePanelText').innerHTML =
+        `Datos cacheados correctamente &nbsp;·&nbsp; <strong>${allItems.length} elementos</strong>`
+      + ` &nbsp;·&nbsp; Guardado: <strong>${fmt}</strong>`
+      + ` &nbsp;·&nbsp; Archivo: <strong>${file.name}</strong>`;
+
+      showToast(`✓ ${allItems.length} elementos importados y cacheados`);
       showBoard();
       render();
     } catch { showToast('❌ Error al leer el archivo'); }
@@ -574,14 +764,16 @@ function showBoard() {
   document.getElementById('chartSection').classList.remove('hidden');
 }
 
-function resetAll() {
+function resetAll(skipCache) {
   allItems = []; searchTerm = ''; activeFilter = 'all';
   document.getElementById('searchInput').value = '';
   document.getElementById('searchClear').classList.remove('visible');
   ['col-ready','col-dispatched','chartSection'].forEach(id =>
     document.getElementById(id).classList.add('hidden'));
   document.getElementById('uploadZone').classList.remove('hidden');
+  document.getElementById('cachePanel').classList.add('hidden');
   updateStats(0,0); updatePills(0,0);
+  if (!skipCache) updateCacheBadge();
 }
 
 // ════════════════════════════════════════════
@@ -607,7 +799,6 @@ function setFilter(f) {
   render();
 }
 
-// Match against FR, code, and status label in Spanish
 function matchesSearch(item) {
   if (!searchTerm) return true;
   const label = item.status === 'ready' ? 'preparado' : 'despachado';
@@ -693,7 +884,6 @@ function renderColumn(bodyId, items, status) {
         </button>
       </div>`;
 
-    // Desktop drag
     div.addEventListener('dragstart', e => {
       dragId = item.id;
       e.target.classList.add('dragging');
@@ -701,26 +891,25 @@ function renderColumn(bodyId, items, status) {
     });
     div.addEventListener('dragend', e => e.target.classList.remove('dragging'));
 
-    // Button — stop propagation so it doesn't trigger touch drag
     div.querySelector('.card-move-btn').addEventListener('click', e => {
       e.stopPropagation();
       moveItem(item.id, target);
     });
 
-    // Touch drag
     attachTouchDrag(div, item);
-
     body.appendChild(div);
   });
 }
 
 // ════════════════════════════════════════════
-// MOVE ITEM
+// MOVE ITEM — persists every change to cache
 // ════════════════════════════════════════════
 function moveItem(id, newStatus) {
   const item = allItems.find(i => i.id === id);
   if (!item || item.status === newStatus) return;
   item.status = newStatus;
+  saveCache();
+  updateCacheBadge();
   showToast(newStatus === 'dispatched'
     ? `✓ ${item.code} despachado`
     : `↩ ${item.code} regresado a preparado`);
@@ -745,7 +934,7 @@ function dropCard(e, newStatus) {
 // ════════════════════════════════════════════
 function attachTouchDrag(el, item) {
   el.addEventListener('touchstart', e => {
-    if (e.target.closest('.card-move-btn')) return; // let button handle its own tap
+    if (e.target.closest('.card-move-btn')) return;
     const t    = e.touches[0];
     const rect = el.getBoundingClientRect();
     touchDragId = item.id;
@@ -764,20 +953,16 @@ function attachTouchDrag(el, item) {
 
   el.addEventListener('touchmove', e => {
     if (touchDragId === null) return;
-    e.preventDefault(); // prevent page scroll while dragging a card
+    e.preventDefault();
     const t = e.touches[0];
     moveGhost(t);
-
-    // detect column under finger (hide ghost briefly for elementFromPoint)
     ghost.style.visibility = 'hidden';
     const under = document.elementFromPoint(t.clientX, t.clientY);
     ghost.style.visibility = 'visible';
-
     const colR = document.getElementById('col-ready');
     const colD = document.getElementById('col-dispatched');
     const onR  = colR.contains(under) || under === colR;
     const onD  = colD.contains(under) || under === colD;
-
     colR.classList.toggle('touch-over', onR);
     colD.classList.toggle('touch-over', onD);
     lastTouchTarget = onR ? 'ready' : onD ? 'dispatched' : null;
@@ -903,8 +1088,18 @@ function showToast(msg) {
   setTimeout(() => t.remove(), 3000);
 }
 
-// INIT
+// ════════════════════════════════════════════
+// INIT — restore from localStorage on load
+// ════════════════════════════════════════════
 drawDonut(0, 0);
+
+(function init() {
+  if (loadCache()) {
+    showBoard();
+    render();
+    showToast('💾 Sesión restaurada desde caché');
+  }
+})();
 </script>
 </body>
 </html>
