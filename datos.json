@@ -4,7 +4,7 @@
       "id": 0,
       "fr": "1B",
       "code": "76053",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 1,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T10:38:05.360Z",
+  "updatedAt": "2026-04-08T10:38:59.894Z",
   "total": 294,
-  "ready": 155,
-  "dispatched": 139
+  "ready": 154,
+  "dispatched": 140
 }
