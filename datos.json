@@ -1726,7 +1726,7 @@
       "id": 287,
       "fr": "288B",
       "code": "80053",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 288,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T13:47:10.202Z",
+  "updatedAt": "2026-04-08T13:48:06.315Z",
   "total": 294,
-  "ready": 25,
-  "dispatched": 269
+  "ready": 24,
+  "dispatched": 270
 }
