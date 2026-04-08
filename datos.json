@@ -826,7 +826,7 @@
       "id": 137,
       "fr": "138B",
       "code": "86426",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 138,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T09:04:42.178Z",
+  "updatedAt": "2026-04-08T09:05:01.314Z",
   "total": 294,
-  "ready": 283,
-  "dispatched": 11
+  "ready": 282,
+  "dispatched": 12
 }
