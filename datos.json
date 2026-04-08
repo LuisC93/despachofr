@@ -418,7 +418,7 @@
       "id": 69,
       "fr": "70B",
       "code": "10349",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 70,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T10:44:13.874Z",
+  "updatedAt": "2026-04-08T10:48:50.161Z",
   "total": 294,
-  "ready": 151,
-  "dispatched": 143
+  "ready": 150,
+  "dispatched": 144
 }
