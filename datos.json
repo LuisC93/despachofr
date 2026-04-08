@@ -730,7 +730,7 @@
       "id": 121,
       "fr": "122B",
       "code": "12756",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 122,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T13:38:57.538Z",
+  "updatedAt": "2026-04-08T13:40:56.837Z",
   "total": 294,
-  "ready": 32,
-  "dispatched": 262
+  "ready": 31,
+  "dispatched": 263
 }
