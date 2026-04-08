@@ -106,7 +106,7 @@
       "id": 17,
       "fr": "18B",
       "code": "64098",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 18,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T09:29:03.983Z",
+  "updatedAt": "2026-04-08T09:29:17.745Z",
   "total": 294,
-  "ready": 245,
-  "dispatched": 49
+  "ready": 244,
+  "dispatched": 50
 }
