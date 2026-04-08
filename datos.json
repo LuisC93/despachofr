@@ -1474,7 +1474,7 @@
       "id": 245,
       "fr": "246B",
       "code": "80177",
-      "status": "ready"
+      "status": "dispatched"
     },
     {
       "id": 246,
@@ -1765,8 +1765,8 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T11:50:20.322Z",
+  "updatedAt": "2026-04-08T11:50:38.482Z",
   "total": 294,
-  "ready": 85,
-  "dispatched": 209
+  "ready": 84,
+  "dispatched": 210
 }
