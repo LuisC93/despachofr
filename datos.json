@@ -310,8 +310,8 @@
       "fr": "42c",
       "code": "12168",
       "cajas": 11,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T02:41:00-06:00"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T03:38:59-06:00"
     },
     {
       "id": 42,
@@ -2174,6 +2174,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T03:38:30-06:00",
+  "updatedAt": "2026-04-09T03:38:59-06:00",
   "total": 296
 }
