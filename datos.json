@@ -1901,8 +1901,8 @@
       "fr": "244c",
       "code": "10978",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T06:12:23-06:00"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T06:52:52-06:00"
     },
     {
       "id": 244,
@@ -2281,6 +2281,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T06:52:15-06:00",
+  "updatedAt": "2026-04-09T06:52:53-06:00",
   "total": 296
 }
