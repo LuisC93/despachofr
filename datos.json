@@ -506,8 +506,8 @@
       "fr": "68c",
       "code": "11830",
       "cajas": 7,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T03:03:40-06:00"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T03:48:25-06:00"
     },
     {
       "id": 68,
@@ -2181,6 +2181,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T03:48:07-06:00",
+  "updatedAt": "2026-04-09T03:48:25-06:00",
   "total": 296
 }
