@@ -99,7 +99,8 @@
       "fr": "14c",
       "code": "11000",
       "cajas": 4,
-      "status": "ready"
+      "status": "assigned",
+      "assignedAt": "2026-04-09T03:22:54-06:00"
     },
     {
       "id": 14,
@@ -2169,6 +2170,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T03:22:25-06:00",
+  "updatedAt": "2026-04-09T03:22:54-06:00",
   "total": 296
 }
