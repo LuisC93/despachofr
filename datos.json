@@ -1991,9 +1991,8 @@
       "fr": "277c",
       "code": "66073",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T02:08:32-06:00",
-      "manualOrder": 1
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T02:42:21-06:00"
     },
     {
       "id": 277,
@@ -2132,6 +2131,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T02:42:09-06:00",
+  "updatedAt": "2026-04-09T02:42:22-06:00",
   "total": 296
 }
