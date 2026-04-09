@@ -654,7 +654,8 @@
       "fr": "90c",
       "code": "10962",
       "cajas": 3,
-      "status": "ready"
+      "status": "assigned",
+      "assignedAt": "2026-04-09T03:20:47-06:00"
     },
     {
       "id": 90,
@@ -2167,6 +2168,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T03:20:12-06:00",
+  "updatedAt": "2026-04-09T03:20:48-06:00",
   "total": 296
 }
