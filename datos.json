@@ -2051,8 +2051,8 @@
       "fr": "258c",
       "code": "76043",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T09:39:30-06:00"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T09:45:05-06:00"
     },
     {
       "id": 258,
@@ -2348,6 +2348,6 @@
       "dispatchedAt": "2026-04-09T07:55:45-06:00"
     }
   ],
-  "updatedAt": "2026-04-09T09:45:02-06:00",
+  "updatedAt": "2026-04-09T09:45:05-06:00",
   "total": 296
 }
