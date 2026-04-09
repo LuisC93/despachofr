@@ -1086,7 +1086,8 @@
       "fr": "147c",
       "code": "10771",
       "cajas": 1,
-      "status": "ready"
+      "status": "assigned",
+      "assignedAt": "2026-04-09T03:27:36-06:00"
     },
     {
       "id": 147,
@@ -2182,6 +2183,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T03:27:14-06:00",
+  "updatedAt": "2026-04-09T03:27:37-06:00",
   "total": 296
 }
