@@ -429,7 +429,8 @@
       "fr": "55c",
       "code": "72019",
       "cajas": 6,
-      "status": "ready"
+      "status": "assigned",
+      "assignedAt": "2026-04-09T04:03:35-06:00"
     },
     {
       "id": 55,
@@ -2251,6 +2252,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T04:03:15-06:00",
+  "updatedAt": "2026-04-09T04:03:35-06:00",
   "total": 296
 }
