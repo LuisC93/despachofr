@@ -2266,8 +2266,8 @@
       "fr": "292c",
       "code": "60211",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T08:01:26-06:00"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T08:03:31-06:00"
     },
     {
       "id": 292,
@@ -2300,6 +2300,6 @@
       "dispatchedAt": "2026-04-09T07:55:45-06:00"
     }
   ],
-  "updatedAt": "2026-04-09T08:02:29-06:00",
+  "updatedAt": "2026-04-09T08:03:31-06:00",
   "total": 296
 }
