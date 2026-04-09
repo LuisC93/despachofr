@@ -789,7 +789,8 @@
       "fr": "110c",
       "code": "10170",
       "cajas": 19,
-      "status": "ready"
+      "status": "assigned",
+      "assignedAt": "2026-04-09T03:06:15-06:00"
     },
     {
       "id": 110,
@@ -2152,6 +2153,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T03:05:31-06:00",
+  "updatedAt": "2026-04-09T03:06:15-06:00",
   "total": 296
 }
