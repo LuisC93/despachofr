@@ -278,7 +278,8 @@
       "fr": "36c",
       "code": "10097",
       "cajas": 40,
-      "status": "ready"
+      "status": "assigned",
+      "assignedAt": "2026-04-09T05:44:04-06:00"
     },
     {
       "id": 36,
@@ -2237,6 +2238,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T05:40:18-06:00",
+  "updatedAt": "2026-04-09T05:44:05-06:00",
   "total": 296
 }
