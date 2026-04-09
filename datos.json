@@ -1187,7 +1187,8 @@
       "fr": "168c",
       "code": "60043",
       "cajas": 1,
-      "status": "ready"
+      "status": "assigned",
+      "assignedAt": "2026-04-09T02:41:22-06:00"
     },
     {
       "id": 168,
@@ -2134,6 +2135,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T02:41:01-06:00",
+  "updatedAt": "2026-04-09T02:41:22-06:00",
   "total": 296
 }
