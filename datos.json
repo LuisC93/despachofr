@@ -205,8 +205,8 @@
       "fr": "26c",
       "code": "11012",
       "cajas": 2,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T08:23:56-06:00"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T08:25:08-06:00"
     },
     {
       "id": 26,
@@ -2307,6 +2307,6 @@
       "dispatchedAt": "2026-04-09T07:55:45-06:00"
     }
   ],
-  "updatedAt": "2026-04-09T08:23:57-06:00",
+  "updatedAt": "2026-04-09T08:25:09-06:00",
   "total": 296
 }
