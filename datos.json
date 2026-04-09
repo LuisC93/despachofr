@@ -1650,7 +1650,8 @@
       "fr": "211c",
       "code": "14874",
       "cajas": 1,
-      "status": "ready"
+      "status": "assigned",
+      "assignedAt": "2026-04-09T06:44:41-06:00"
     },
     {
       "id": 211,
@@ -2274,6 +2275,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T06:44:23-06:00",
+  "updatedAt": "2026-04-09T06:44:41-06:00",
   "total": 296
 }
