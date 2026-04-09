@@ -2056,9 +2056,8 @@
       "fr": "278c",
       "code": "10981",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T02:08:49-06:00",
-      "manualOrder": 2
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T03:36:38-06:00"
     },
     {
       "id": 278,
@@ -2188,6 +2187,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T03:34:47-06:00",
+  "updatedAt": "2026-04-09T03:36:38-06:00",
   "total": 296
 }
