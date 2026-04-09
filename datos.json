@@ -656,9 +656,8 @@
       "fr": "83c",
       "code": "66155",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T07:07:03-06:00",
-      "manualOrder": 6
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T07:26:20-06:00"
     },
     {
       "id": 83,
@@ -2293,6 +2292,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T07:24:02-06:00",
+  "updatedAt": "2026-04-09T07:26:20-06:00",
   "total": 296
 }
