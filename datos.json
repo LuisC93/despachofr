@@ -1380,8 +1380,8 @@
       "fr": "176c",
       "code": "76007",
       "cajas": 3,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T06:35:05-06:00"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T07:02:14-06:00"
     },
     {
       "id": 176,
@@ -2282,6 +2282,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T07:02:05-06:00",
+  "updatedAt": "2026-04-09T07:02:15-06:00",
   "total": 296
 }
