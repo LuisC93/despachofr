@@ -357,7 +357,8 @@
       "fr": "49c",
       "code": "10865",
       "cajas": 3,
-      "status": "ready"
+      "status": "assigned",
+      "assignedAt": "2026-04-09T03:24:03-06:00"
     },
     {
       "id": 49,
@@ -2172,6 +2173,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T03:23:41-06:00",
+  "updatedAt": "2026-04-09T03:24:03-06:00",
   "total": 296
 }
