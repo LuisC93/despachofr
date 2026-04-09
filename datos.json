@@ -1249,8 +1249,8 @@
       "fr": "159c",
       "code": "60324",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T06:18:26-06:00"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T06:56:05-06:00"
     },
     {
       "id": 159,
@@ -2282,6 +2282,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T06:55:12-06:00",
+  "updatedAt": "2026-04-09T06:56:06-06:00",
   "total": 296
 }
