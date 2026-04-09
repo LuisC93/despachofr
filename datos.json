@@ -481,7 +481,8 @@
       "fr": "67c",
       "code": "11831",
       "cajas": 7,
-      "status": "ready"
+      "status": "assigned",
+      "assignedAt": "2026-04-09T03:06:40-06:00"
     },
     {
       "id": 67,
@@ -2154,6 +2155,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T03:06:29-06:00",
+  "updatedAt": "2026-04-09T03:06:41-06:00",
   "total": 296
 }
