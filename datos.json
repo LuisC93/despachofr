@@ -1718,7 +1718,8 @@
       "fr": "239c",
       "code": "66140",
       "cajas": 1,
-      "status": "ready"
+      "status": "assigned",
+      "assignedAt": "2026-04-09T02:55:35-06:00"
     },
     {
       "id": 239,
@@ -2130,6 +2131,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T02:55:26-06:00",
+  "updatedAt": "2026-04-09T02:55:36-06:00",
   "total": 296
 }
