@@ -1240,7 +1240,8 @@
       "fr": "158c",
       "code": "12302",
       "cajas": 1,
-      "status": "ready"
+      "status": "assigned",
+      "assignedAt": "2026-04-09T06:46:59-06:00"
     },
     {
       "id": 158,
@@ -2278,6 +2279,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T06:46:33-06:00",
+  "updatedAt": "2026-04-09T06:47:00-06:00",
   "total": 296
 }
