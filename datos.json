@@ -1658,7 +1658,8 @@
       "fr": "212c",
       "code": "66154",
       "cajas": 1,
-      "status": "ready"
+      "status": "assigned",
+      "assignedAt": "2026-04-09T06:44:53-06:00"
     },
     {
       "id": 212,
@@ -2275,6 +2276,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T06:44:41-06:00",
+  "updatedAt": "2026-04-09T06:44:53-06:00",
   "total": 296
 }
