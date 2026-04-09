@@ -860,9 +860,8 @@
       "fr": "109c",
       "code": "11905",
       "cajas": 2,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T03:47:01-06:00",
-      "manualOrder": 36
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T05:32:37-06:00"
     },
     {
       "id": 109,
@@ -2272,6 +2271,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T05:32:36-06:00",
+  "updatedAt": "2026-04-09T05:32:38-06:00",
   "total": 296
 }
