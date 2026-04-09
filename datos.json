@@ -596,7 +596,8 @@
       "fr": "77c",
       "code": "10206",
       "cajas": 1,
-      "status": "ready"
+      "status": "assigned",
+      "assignedAt": "2026-04-09T05:44:40-06:00"
     },
     {
       "id": 77,
@@ -2239,6 +2240,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T05:44:20-06:00",
+  "updatedAt": "2026-04-09T05:44:40-06:00",
   "total": 296
 }
