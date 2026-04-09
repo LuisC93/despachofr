@@ -1319,7 +1319,8 @@
       "fr": "185c",
       "code": "66033",
       "cajas": 1,
-      "status": "ready"
+      "status": "assigned",
+      "assignedAt": "2026-04-09T03:03:04-06:00"
     },
     {
       "id": 185,
@@ -2141,6 +2142,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T03:02:42-06:00",
+  "updatedAt": "2026-04-09T03:03:05-06:00",
   "total": 296
 }
