@@ -4,1779 +4,2075 @@
       "id": 0,
       "fr": "1c",
       "code": "60171",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 1,
       "fr": "2c",
       "code": "10031",
+      "cajas": 64,
       "status": "ready"
     },
     {
       "id": 2,
       "fr": "3c",
       "code": "10033",
+      "cajas": 28,
       "status": "ready"
     },
     {
       "id": 3,
       "fr": "4c",
       "code": "10002",
+      "cajas": 27,
       "status": "ready"
     },
     {
       "id": 4,
       "fr": "5c",
       "code": "88001",
+      "cajas": 22,
       "status": "ready"
     },
     {
       "id": 5,
       "fr": "6c",
       "code": "10004",
+      "cajas": 23,
       "status": "ready"
     },
     {
       "id": 6,
       "fr": "7c",
       "code": "10023",
+      "cajas": 15,
       "status": "ready"
     },
     {
       "id": 7,
       "fr": "8c",
       "code": "10037",
+      "cajas": 13,
       "status": "ready"
     },
     {
       "id": 8,
       "fr": "9c",
       "code": "10013",
+      "cajas": 7,
       "status": "ready"
     },
     {
       "id": 9,
       "fr": "10c",
       "code": "10015",
+      "cajas": 5,
       "status": "ready"
     },
     {
       "id": 10,
       "fr": "11c",
       "code": "88003",
+      "cajas": 3,
       "status": "ready"
     },
     {
       "id": 11,
       "fr": "12c",
       "code": "10047",
+      "cajas": 4,
       "status": "ready"
     },
     {
       "id": 12,
       "fr": "13c",
       "code": "13596",
+      "cajas": 22,
       "status": "ready"
     },
     {
       "id": 13,
       "fr": "14c",
       "code": "11000",
+      "cajas": 4,
       "status": "ready"
     },
     {
       "id": 14,
       "fr": "15c",
       "code": "10061",
+      "cajas": 24,
       "status": "ready"
     },
     {
       "id": 15,
       "fr": "16c",
       "code": "88006",
+      "cajas": 20,
       "status": "ready"
     },
     {
       "id": 16,
       "fr": "17c",
       "code": "10077",
+      "cajas": 74,
       "status": "ready"
     },
     {
       "id": 17,
       "fr": "18c",
       "code": "10062",
+      "cajas": 13,
       "status": "ready"
     },
     {
       "id": 18,
       "fr": "19c",
       "code": "88005",
+      "cajas": 7,
       "status": "ready"
     },
     {
       "id": 19,
       "fr": "20c",
       "code": "14850",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 20,
       "fr": "21c",
       "code": "66010",
+      "cajas": 6,
       "status": "ready"
     },
     {
       "id": 21,
       "fr": "22c",
       "code": "10770",
+      "cajas": 3,
       "status": "ready"
     },
     {
       "id": 22,
       "fr": "23c",
       "code": "11020",
+      "cajas": 7,
       "status": "ready"
     },
     {
       "id": 23,
       "fr": "24c",
       "code": "68005",
+      "cajas": 6,
       "status": "ready"
     },
     {
       "id": 24,
       "fr": "25c",
       "code": "68010",
+      "cajas": 4,
       "status": "ready"
     },
     {
       "id": 25,
       "fr": "26c",
       "code": "11012",
+      "cajas": 2,
       "status": "ready"
     },
     {
       "id": 26,
       "fr": "27c",
       "code": "11805",
+      "cajas": 7,
       "status": "ready"
     },
     {
       "id": 27,
       "fr": "28c",
       "code": "10784",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 28,
       "fr": "29c",
       "code": "76064",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 29,
       "fr": "30c",
       "code": "10828",
+      "cajas": 11,
       "status": "ready"
     },
     {
       "id": 30,
       "fr": "31c",
       "code": "66025",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 31,
       "fr": "32c",
       "code": "10829",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 32,
       "fr": "33c",
       "code": "10837",
+      "cajas": 4,
       "status": "ready"
     },
     {
       "id": 33,
       "fr": "34c",
       "code": "66031",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 34,
       "fr": "35c",
       "code": "60173",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 35,
       "fr": "36c",
       "code": "10097",
+      "cajas": 40,
       "status": "ready"
     },
     {
       "id": 36,
       "fr": "37c",
       "code": "12139",
+      "cajas": 7,
       "status": "ready"
     },
     {
       "id": 37,
       "fr": "38c",
       "code": "12140",
+      "cajas": 5,
       "status": "ready"
     },
     {
       "id": 38,
       "fr": "39c",
       "code": "12136",
+      "cajas": 3,
       "status": "ready"
     },
     {
       "id": 39,
       "fr": "40c",
       "code": "10099",
+      "cajas": 40,
       "status": "ready"
     },
     {
       "id": 40,
       "fr": "41c",
       "code": "10101",
+      "cajas": 4,
       "status": "ready"
     },
     {
       "id": 41,
       "fr": "42c",
       "code": "12168",
+      "cajas": 11,
       "status": "ready"
     },
     {
       "id": 42,
       "fr": "43c",
       "code": "12156",
+      "cajas": 5,
       "status": "ready"
     },
     {
       "id": 43,
       "fr": "44c",
       "code": "76019",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 44,
       "fr": "45c",
       "code": "10120",
+      "cajas": 38,
       "status": "ready"
     },
     {
       "id": 45,
       "fr": "46c",
       "code": "10110",
+      "cajas": 15,
       "status": "ready"
     },
     {
       "id": 46,
       "fr": "47c",
       "code": "10108",
+      "cajas": 15,
       "status": "ready"
     },
     {
       "id": 47,
       "fr": "48c",
       "code": "10707",
+      "cajas": 13,
       "status": "ready"
     },
     {
       "id": 48,
       "fr": "49c",
       "code": "10865",
+      "cajas": 3,
       "status": "ready"
     },
     {
       "id": 49,
       "fr": "50c",
       "code": "10869",
+      "cajas": 3,
       "status": "ready"
     },
     {
       "id": 50,
       "fr": "51c",
       "code": "66034",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 51,
       "fr": "52c",
       "code": "66053",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 52,
       "fr": "53c",
       "code": "60128",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 53,
       "fr": "54c",
       "code": "86321",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 54,
       "fr": "55c",
       "code": "72019",
+      "cajas": 6,
       "status": "ready"
     },
     {
       "id": 55,
       "fr": "56c",
       "code": "66083",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 56,
       "fr": "57c",
       "code": "10919",
+      "cajas": 6,
       "status": "ready"
     },
     {
       "id": 57,
       "fr": "58c",
       "code": "10906",
+      "cajas": 4,
       "status": "ready"
     },
     {
       "id": 58,
       "fr": "59c",
       "code": "60344",
+      "cajas": 4,
       "status": "ready"
     },
     {
       "id": 59,
       "fr": "60c",
       "code": "10923",
+      "cajas": 3,
       "status": "ready"
     },
     {
       "id": 60,
       "fr": "61c",
       "code": "10898",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 61,
       "fr": "62c",
       "code": "10922",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 62,
       "fr": "63c",
       "code": "86502",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 63,
       "fr": "64c",
       "code": "66107",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 64,
       "fr": "65c",
       "code": "10894",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 65,
       "fr": "66c",
       "code": "66106",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 66,
       "fr": "67c",
       "code": "11831",
+      "cajas": 7,
       "status": "ready"
     },
     {
       "id": 67,
       "fr": "68c",
       "code": "11830",
+      "cajas": 7,
       "status": "ready"
     },
     {
       "id": 68,
       "fr": "69c",
       "code": "60318",
+      "cajas": 3,
       "status": "ready"
     },
     {
       "id": 69,
       "fr": "70c",
       "code": "11834",
+      "cajas": 2,
       "status": "ready"
     },
     {
       "id": 70,
       "fr": "71c",
       "code": "11832",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 71,
       "fr": "72c",
       "code": "11838",
+      "cajas": 30,
       "status": "ready"
     },
     {
       "id": 72,
       "fr": "73c",
       "code": "60258",
+      "cajas": 5,
       "status": "ready"
     },
     {
       "id": 73,
       "fr": "74c",
       "code": "72027",
+      "cajas": 4,
       "status": "ready"
     },
     {
       "id": 74,
       "fr": "75c",
       "code": "66122",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 75,
       "fr": "76c",
       "code": "66124",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 76,
       "fr": "77c",
       "code": "10206",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 77,
       "fr": "78c",
       "code": "10937",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 78,
       "fr": "79c",
       "code": "10938",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 79,
       "fr": "80c",
       "code": "10139",
+      "cajas": 20,
       "status": "ready"
     },
     {
       "id": 80,
       "fr": "81c",
       "code": "10146",
+      "cajas": 6,
       "status": "ready"
     },
     {
       "id": 81,
       "fr": "82c",
       "code": "60070",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 82,
       "fr": "83c",
       "code": "66155",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 83,
       "fr": "84c",
       "code": "10941",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 84,
       "fr": "85c",
       "code": "76027",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 85,
       "fr": "86c",
       "code": "12206",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 86,
       "fr": "87c",
       "code": "86247",
+      "cajas": 2,
       "status": "ready"
     },
     {
       "id": 87,
       "fr": "88c",
       "code": "10155",
+      "cajas": 32,
       "status": "ready"
     },
     {
       "id": 88,
       "fr": "89c",
       "code": "10151",
+      "cajas": 18,
       "status": "ready"
     },
     {
       "id": 89,
       "fr": "90c",
       "code": "10962",
+      "cajas": 3,
       "status": "ready"
     },
     {
       "id": 90,
       "fr": "91c",
       "code": "11849",
+      "cajas": 12,
       "status": "ready"
     },
     {
       "id": 91,
       "fr": "92c",
       "code": "72036",
+      "cajas": 4,
       "status": "ready"
     },
     {
       "id": 92,
       "fr": "93c",
       "code": "11866",
+      "cajas": 2,
       "status": "ready"
     },
     {
       "id": 93,
       "fr": "94c",
       "code": "11890",
+      "cajas": 18,
       "status": "ready"
     },
     {
       "id": 94,
       "fr": "95c",
       "code": "10979",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 95,
       "fr": "96c",
       "code": "10976",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 96,
       "fr": "97c",
       "code": "12232",
+      "cajas": 11,
       "status": "ready"
     },
     {
       "id": 97,
       "fr": "98c",
       "code": "12231",
+      "cajas": 4,
       "status": "ready"
     },
     {
       "id": 98,
       "fr": "99c",
       "code": "76070",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 99,
       "fr": "100c",
       "code": "12233",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 100,
       "fr": "101c",
       "code": "12235",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 101,
       "fr": "102c",
       "code": "14868",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 102,
       "fr": "103c",
       "code": "12244",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 103,
       "fr": "104c",
       "code": "12221",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 104,
       "fr": "105c",
       "code": "12260",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 105,
       "fr": "106c",
       "code": "76036",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 106,
       "fr": "107c",
       "code": "12259",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 107,
       "fr": "108c",
       "code": "11896",
+      "cajas": 3,
       "status": "ready"
     },
     {
       "id": 108,
       "fr": "109c",
       "code": "11905",
+      "cajas": 2,
       "status": "ready"
     },
     {
       "id": 109,
       "fr": "110c",
       "code": "10170",
+      "cajas": 19,
       "status": "ready"
     },
     {
       "id": 110,
       "fr": "111c",
       "code": "60096",
+      "cajas": 18,
       "status": "ready"
     },
     {
       "id": 111,
       "fr": "112c",
       "code": "68186",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 112,
       "fr": "113c",
       "code": "10177",
+      "cajas": 14,
       "status": "ready"
     },
     {
       "id": 113,
       "fr": "114c",
       "code": "86433",
+      "cajas": 5,
       "status": "ready"
     },
     {
       "id": 114,
       "fr": "115c",
       "code": "86432",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 115,
       "fr": "116c",
       "code": "10165",
+      "cajas": 3,
       "status": "ready"
     },
     {
       "id": 116,
       "fr": "117c",
       "code": "11526",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 117,
       "fr": "118c",
       "code": "10761",
+      "cajas": 12,
       "status": "ready"
     },
     {
       "id": 118,
       "fr": "119c",
       "code": "10752",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 119,
       "fr": "120c",
       "code": "10764",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 120,
       "fr": "121c",
       "code": "10763",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 121,
       "fr": "122c",
       "code": "10758",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 122,
       "fr": "123c",
       "code": "66005",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 123,
       "fr": "124c",
       "code": "10751",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 124,
       "fr": "125c",
       "code": "68203",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 125,
       "fr": "126c",
       "code": "10056",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 126,
       "fr": "127c",
       "code": "60331",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 127,
       "fr": "128c",
       "code": "66006",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 128,
       "fr": "129c",
       "code": "86217",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 129,
       "fr": "130c",
       "code": "60153",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 130,
       "fr": "131c",
       "code": "10072",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 131,
       "fr": "132c",
       "code": "10071",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 132,
       "fr": "133c",
       "code": "14793",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 133,
       "fr": "134c",
       "code": "66020",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 134,
       "fr": "135c",
       "code": "10809",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 135,
       "fr": "136c",
       "code": "10801",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 136,
       "fr": "137c",
       "code": "10799",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 137,
       "fr": "138c",
       "code": "10803",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 138,
       "fr": "139c",
       "code": "66021",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 139,
       "fr": "140c",
       "code": "14834",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 140,
       "fr": "141c",
       "code": "10800",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 141,
       "fr": "142c",
       "code": "10802",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 142,
       "fr": "143c",
       "code": "10812",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 143,
       "fr": "144c",
       "code": "66159",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 144,
       "fr": "145c",
       "code": "68039",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 145,
       "fr": "146c",
       "code": "10769",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 146,
       "fr": "147c",
       "code": "10771",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 147,
       "fr": "148c",
       "code": "10768",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 148,
       "fr": "149c",
       "code": "66011",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 149,
       "fr": "150c",
       "code": "66007",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 150,
       "fr": "151c",
       "code": "66009",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 151,
       "fr": "152c",
       "code": "68007",
+      "cajas": 2,
       "status": "ready"
     },
     {
       "id": 152,
       "fr": "153c",
       "code": "86147",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 153,
       "fr": "154c",
       "code": "10126",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 154,
       "fr": "155c",
       "code": "10807",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 155,
       "fr": "156c",
       "code": "66018",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 156,
       "fr": "157c",
       "code": "14814",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 157,
       "fr": "158c",
       "code": "12302",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 158,
       "fr": "159c",
       "code": "60324",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 159,
       "fr": "160c",
       "code": "86262",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 160,
       "fr": "161c",
       "code": "12303",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 161,
       "fr": "162c",
       "code": "76062",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 162,
       "fr": "163c",
       "code": "60257",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 163,
       "fr": "164c",
       "code": "76060",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 164,
       "fr": "165c",
       "code": "10832",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 165,
       "fr": "166c",
       "code": "10831",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 166,
       "fr": "167c",
       "code": "66028",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 167,
       "fr": "168c",
       "code": "60043",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 168,
       "fr": "169c",
       "code": "66030",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 169,
       "fr": "170c",
       "code": "13016",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 170,
       "fr": "171c",
       "code": "76003",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 171,
       "fr": "172c",
       "code": "12137",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 172,
       "fr": "173c",
       "code": "12138",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 173,
       "fr": "174c",
       "code": "12193",
+      "cajas": 17,
       "status": "ready"
     },
     {
       "id": 174,
       "fr": "175c",
       "code": "12158",
+      "cajas": 5,
       "status": "ready"
     },
     {
       "id": 175,
       "fr": "176c",
       "code": "76007",
+      "cajas": 3,
       "status": "ready"
     },
     {
       "id": 176,
       "fr": "177c",
       "code": "12173",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 177,
       "fr": "178c",
       "code": "76018",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 178,
       "fr": "179c",
       "code": "76014",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 179,
       "fr": "180c",
       "code": "12176",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 180,
       "fr": "181c",
       "code": "76067",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 181,
       "fr": "182c",
       "code": "86435",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 182,
       "fr": "183c",
       "code": "10116",
+      "cajas": 3,
       "status": "ready"
     },
     {
       "id": 183,
       "fr": "184c",
       "code": "10855",
+      "cajas": 12,
       "status": "ready"
     },
     {
       "id": 184,
       "fr": "185c",
       "code": "66033",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 185,
       "fr": "186c",
       "code": "60224",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 186,
       "fr": "187c",
       "code": "10860",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 187,
       "fr": "188c",
       "code": "66038",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 188,
       "fr": "189c",
       "code": "66041",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 189,
       "fr": "190c",
       "code": "66066",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 190,
       "fr": "191c",
       "code": "66055",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 191,
       "fr": "192c",
       "code": "10881",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 192,
       "fr": "193c",
       "code": "13787",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 193,
       "fr": "194c",
       "code": "66157",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 194,
       "fr": "195c",
       "code": "66084",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 195,
       "fr": "196c",
       "code": "66077",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 196,
       "fr": "197c",
       "code": "10892",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 197,
       "fr": "198c",
       "code": "66090",
+      "cajas": 2,
       "status": "ready"
     },
     {
       "id": 198,
       "fr": "199c",
       "code": "66101",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 199,
       "fr": "200c",
       "code": "66102",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 200,
       "fr": "201c",
       "code": "66099",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 201,
       "fr": "202c",
       "code": "10913",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 202,
       "fr": "203c",
       "code": "66095",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 203,
       "fr": "204c",
       "code": "66097",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 204,
       "fr": "205c",
       "code": "86224",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 205,
       "fr": "206c",
       "code": "86226",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 206,
       "fr": "207c",
       "code": "66113",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 207,
       "fr": "208c",
       "code": "66110",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 208,
       "fr": "209c",
       "code": "66150",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 209,
       "fr": "210c",
       "code": "66116",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 210,
       "fr": "211c",
       "code": "14874",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 211,
       "fr": "212c",
       "code": "66154",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 212,
       "fr": "213c",
       "code": "14827",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 213,
       "fr": "214c",
       "code": "60209",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 214,
       "fr": "215c",
       "code": "60065",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 215,
       "fr": "216c",
       "code": "10940",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 216,
       "fr": "217c",
       "code": "66126",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 217,
       "fr": "218c",
       "code": "10321",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 218,
       "fr": "219c",
       "code": "60141",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 219,
       "fr": "220c",
       "code": "10951",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 220,
       "fr": "221c",
       "code": "66130",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 221,
       "fr": "222c",
       "code": "66137",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 222,
       "fr": "223c",
       "code": "12203",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 223,
       "fr": "224c",
       "code": "12202",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 224,
       "fr": "225c",
       "code": "76025",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 225,
       "fr": "226c",
       "code": "12208",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 226,
       "fr": "227c",
       "code": "86436",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 227,
       "fr": "228c",
       "code": "12204",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 228,
       "fr": "229c",
       "code": "11182",
+      "cajas": 14,
       "status": "ready"
     },
     {
       "id": 229,
       "fr": "230c",
       "code": "11238",
+      "cajas": 2,
       "status": "ready"
     },
     {
       "id": 230,
       "fr": "231c",
       "code": "60140",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 231,
       "fr": "232c",
       "code": "10960",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 232,
       "fr": "233c",
       "code": "10957",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 233,
       "fr": "234c",
       "code": "10966",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 234,
       "fr": "235c",
       "code": "10964",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 235,
       "fr": "236c",
       "code": "66138",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 236,
       "fr": "237c",
       "code": "68143",
+      "cajas": 6,
       "status": "ready"
     },
     {
       "id": 237,
       "fr": "238c",
       "code": "11853",
+      "cajas": 6,
       "status": "ready"
     },
     {
       "id": 238,
       "fr": "239c",
       "code": "66140",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 239,
       "fr": "240c",
       "code": "10968",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 240,
       "fr": "241c",
       "code": "10969",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 241,
       "fr": "242c",
       "code": "86292",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 242,
       "fr": "243c",
       "code": "60214",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 243,
       "fr": "244c",
       "code": "10978",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 244,
       "fr": "245c",
       "code": "10975",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 245,
       "fr": "246c",
       "code": "10977",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 246,
       "fr": "247c",
       "code": "12265",
+      "cajas": 9,
       "status": "ready"
     },
     {
       "id": 247,
       "fr": "248c",
       "code": "12237",
+      "cajas": 3,
       "status": "ready"
     },
     {
       "id": 248,
       "fr": "249c",
       "code": "12261",
+      "cajas": 2,
       "status": "ready"
     },
     {
       "id": 249,
       "fr": "250c",
       "code": "12251",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 250,
       "fr": "251c",
       "code": "76071",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 251,
       "fr": "252c",
       "code": "12219",
+      "cajas": 6,
       "status": "ready"
     },
     {
       "id": 252,
       "fr": "253c",
       "code": "12258",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 253,
       "fr": "254c",
       "code": "86271",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 254,
       "fr": "255c",
       "code": "60169",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 255,
       "fr": "256c",
       "code": "76031",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 256,
       "fr": "257c",
       "code": "86542",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 257,
       "fr": "258c",
       "code": "76043",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 258,
       "fr": "259c",
       "code": "76033",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 259,
       "fr": "260c",
       "code": "76039",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 260,
       "fr": "261c",
       "code": "76040",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 261,
       "fr": "262c",
       "code": "86427",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 262,
       "fr": "263c",
       "code": "86269",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 263,
       "fr": "264c",
       "code": "60232",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 264,
       "fr": "265c",
       "code": "12239",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 265,
       "fr": "266c",
       "code": "12220",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 266,
       "fr": "267c",
       "code": "72053",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 267,
       "fr": "268c",
       "code": "11901",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 268,
       "fr": "269c",
       "code": "72052",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 269,
       "fr": "270c",
       "code": "88008",
+      "cajas": 15,
       "status": "ready"
     },
     {
       "id": 270,
       "fr": "271c",
       "code": "60168",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 271,
       "fr": "272c",
       "code": "12277",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 272,
       "fr": "273c",
       "code": "86428",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 273,
       "fr": "274c",
       "code": "66143",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 274,
       "fr": "275c",
       "code": "66070",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 275,
       "fr": "276c",
       "code": "66071",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 276,
       "fr": "277c",
       "code": "66073",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 277,
       "fr": "278c",
       "code": "10981",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 278,
       "fr": "279c",
       "code": "66072",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 279,
       "fr": "280c",
       "code": "12282",
+      "cajas": 4,
       "status": "ready"
     },
     {
       "id": 280,
       "fr": "281c",
       "code": "12280",
+      "cajas": 3,
       "status": "ready"
     },
     {
       "id": 281,
       "fr": "282c",
       "code": "86430",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 282,
       "fr": "283c",
       "code": "60170",
+      "cajas": null,
       "status": "ready"
     },
     {
       "id": 283,
       "fr": "284c",
       "code": "60213",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 284,
       "fr": "285c",
       "code": "86265",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 285,
       "fr": "286c",
       "code": "86266",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 286,
       "fr": "287c",
       "code": "86264",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 287,
       "fr": "288c",
       "code": "13779",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 288,
       "fr": "289c",
       "code": "76074",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 289,
       "fr": "290c",
       "code": "12293",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 290,
       "fr": "291c",
       "code": "76056",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 291,
       "fr": "292c",
       "code": "60211",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 292,
       "fr": "293c",
       "code": "60269",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 293,
       "fr": "294c",
       "code": "66087",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 294,
       "fr": "295c",
       "code": "88180",
+      "cajas": 1,
       "status": "ready"
     },
     {
       "id": 295,
       "fr": "296c",
       "code": "66016",
+      "cajas": 1,
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T01:21:09-06:00",
+  "updatedAt": "2026-04-09T01:27:59-06:00",
   "total": 296
 }
