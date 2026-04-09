@@ -4,8 +4,8 @@
       "id": 0,
       "fr": "1c",
       "code": "60171",
-      "status": "assigned",
-      "assignedAt": "2026-04-08T23:49:53-06:00"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-08T23:50:10-06:00"
     },
     {
       "id": 1,
@@ -1781,6 +1781,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T23:50:07-06:00",
+  "updatedAt": "2026-04-08T23:50:12-06:00",
   "total": 296
 }
