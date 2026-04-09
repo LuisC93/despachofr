@@ -165,8 +165,8 @@
       "fr": "21c",
       "code": "66010",
       "cajas": 6,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T05:54:19-06:00"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T06:32:34-06:00"
     },
     {
       "id": 21,
@@ -2266,6 +2266,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T06:31:16-06:00",
+  "updatedAt": "2026-04-09T06:32:35-06:00",
   "total": 296
 }
