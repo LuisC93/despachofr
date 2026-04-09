@@ -378,7 +378,7 @@
       "cajas": 15,
       "status": "assigned",
       "assignedAt": "2026-04-09T04:22:24-06:00",
-      "manualOrder": 77
+      "manualOrder": 78
     },
     {
       "id": 46,
@@ -904,7 +904,7 @@
       "cajas": 18,
       "status": "assigned",
       "assignedAt": "2026-04-09T04:21:23-06:00",
-      "manualOrder": 78
+      "manualOrder": 77
     },
     {
       "id": 111,
@@ -1774,7 +1774,8 @@
       "code": "12203",
       "cajas": 1,
       "status": "assigned",
-      "assignedAt": "2026-04-09T04:29:51-06:00"
+      "assignedAt": "2026-04-09T04:29:51-06:00",
+      "manualOrder": 79
     },
     {
       "id": 223,
@@ -2300,6 +2301,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T04:29:52-06:00",
+  "updatedAt": "2026-04-09T04:35:53-06:00",
   "total": 296
 }
