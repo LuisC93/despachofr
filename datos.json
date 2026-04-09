@@ -62,7 +62,8 @@
       "id": 9,
       "fr": "10c",
       "code": "10015",
-      "status": "ready"
+      "status": "assigned",
+      "assignedAt": "2026-04-08T23:50:57-06:00"
     },
     {
       "id": 10,
@@ -1781,6 +1782,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T23:50:19-06:00",
+  "updatedAt": "2026-04-08T23:50:58-06:00",
   "total": 296
 }
