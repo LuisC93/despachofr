@@ -1899,9 +1899,8 @@
       "fr": "242c",
       "code": "86292",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T07:06:15-06:00",
-      "manualOrder": 3
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T07:20:51-06:00"
     },
     {
       "id": 242,
@@ -2296,6 +2295,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T07:18:44-06:00",
+  "updatedAt": "2026-04-09T07:20:51-06:00",
   "total": 296
 }
