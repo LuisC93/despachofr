@@ -1334,9 +1334,8 @@
       "fr": "189c",
       "code": "66041",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T02:31:16-06:00",
-      "manualOrder": 18
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T02:47:15-06:00"
     },
     {
       "id": 189,
@@ -2124,6 +2123,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T02:46:21-06:00",
+  "updatedAt": "2026-04-09T02:47:16-06:00",
   "total": 296
 }
