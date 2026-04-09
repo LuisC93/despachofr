@@ -1613,8 +1613,8 @@
       "fr": "206c",
       "code": "86226",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T06:18:08-06:00"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T06:50:37-06:00"
     },
     {
       "id": 206,
@@ -2281,6 +2281,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T06:49:43-06:00",
+  "updatedAt": "2026-04-09T06:50:37-06:00",
   "total": 296
 }
