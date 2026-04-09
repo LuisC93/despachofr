@@ -345,8 +345,8 @@
       "fr": "44c",
       "code": "76019",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T06:07:19-06:00"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T06:43:47-06:00"
     },
     {
       "id": 44,
@@ -2273,6 +2273,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T06:43:13-06:00",
+  "updatedAt": "2026-04-09T06:43:47-06:00",
   "total": 296
 }
