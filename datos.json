@@ -825,7 +825,8 @@
       "fr": "118c",
       "code": "10761",
       "cajas": 12,
-      "status": "ready"
+      "status": "assigned",
+      "assignedAt": "2026-04-09T02:32:34-06:00"
     },
     {
       "id": 118,
@@ -2099,6 +2100,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T02:32:15-06:00",
+  "updatedAt": "2026-04-09T02:32:35-06:00",
   "total": 296
 }
