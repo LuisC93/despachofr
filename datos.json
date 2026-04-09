@@ -614,7 +614,8 @@
       "fr": "78c",
       "code": "10937",
       "cajas": 1,
-      "status": "ready"
+      "status": "assigned",
+      "assignedAt": "2026-04-09T04:07:41-06:00"
     },
     {
       "id": 78,
@@ -2257,6 +2258,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T04:07:21-06:00",
+  "updatedAt": "2026-04-09T04:07:42-06:00",
   "total": 296
 }
