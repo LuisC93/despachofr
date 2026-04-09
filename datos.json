@@ -506,9 +506,8 @@
       "fr": "64c",
       "code": "66107",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T03:30:17-06:00",
-      "manualOrder": 31
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T05:32:30-06:00"
     },
     {
       "id": 64,
@@ -2277,6 +2276,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T05:31:57-06:00",
+  "updatedAt": "2026-04-09T05:32:30-06:00",
   "total": 296
 }
