@@ -744,7 +744,8 @@
       "fr": "94c",
       "code": "11890",
       "cajas": 18,
-      "status": "ready"
+      "status": "assigned",
+      "assignedAt": "2026-04-09T07:27:17-06:00"
     },
     {
       "id": 94,
@@ -2292,6 +2293,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T07:26:20-06:00",
+  "updatedAt": "2026-04-09T07:27:18-06:00",
   "total": 296
 }
