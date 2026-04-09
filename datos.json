@@ -1939,7 +1939,8 @@
       "fr": "249c",
       "code": "12261",
       "cajas": 2,
-      "status": "ready"
+      "status": "assigned",
+      "assignedAt": "2026-04-09T06:47:18-06:00"
     },
     {
       "id": 249,
@@ -2279,6 +2280,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T06:47:00-06:00",
+  "updatedAt": "2026-04-09T06:47:19-06:00",
   "total": 296
 }
