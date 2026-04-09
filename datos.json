@@ -523,7 +523,8 @@
       "fr": "70c",
       "code": "11834",
       "cajas": 2,
-      "status": "ready"
+      "status": "assigned",
+      "assignedAt": "2026-04-09T03:59:19-06:00"
     },
     {
       "id": 70,
@@ -2192,6 +2193,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T03:58:43-06:00",
+  "updatedAt": "2026-04-09T03:59:20-06:00",
   "total": 296
 }
