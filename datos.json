@@ -1495,7 +1495,8 @@
       "fr": "193c",
       "code": "13787",
       "cajas": 1,
-      "status": "ready"
+      "status": "assigned",
+      "assignedAt": "2026-04-09T04:03:15-06:00"
     },
     {
       "id": 193,
@@ -2250,6 +2251,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T04:02:43-06:00",
+  "updatedAt": "2026-04-09T04:03:15-06:00",
   "total": 296
 }
