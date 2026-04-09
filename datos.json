@@ -1114,9 +1114,8 @@
       "fr": "142c",
       "code": "10802",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T04:13:47-06:00",
-      "manualOrder": 74
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T05:35:58-06:00"
     },
     {
       "id": 142,
@@ -2258,6 +2257,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T05:35:56-06:00",
+  "updatedAt": "2026-04-09T05:35:59-06:00",
   "total": 296
 }
