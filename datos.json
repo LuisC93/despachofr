@@ -1931,7 +1931,8 @@
       "fr": "276c",
       "code": "66071",
       "cajas": 1,
-      "status": "ready"
+      "status": "assigned",
+      "assignedAt": "2026-04-09T02:08:04-06:00"
     },
     {
       "id": 276,
@@ -2074,6 +2075,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T02:07:52-06:00",
+  "updatedAt": "2026-04-09T02:08:05-06:00",
   "total": 296
 }
