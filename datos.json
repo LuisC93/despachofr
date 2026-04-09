@@ -1963,8 +1963,8 @@
       "fr": "248c",
       "code": "12237",
       "cajas": 3,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T09:06:18-06:00"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T09:17:41-06:00"
     },
     {
       "id": 248,
@@ -2331,6 +2331,6 @@
       "dispatchedAt": "2026-04-09T07:55:45-06:00"
     }
   ],
-  "updatedAt": "2026-04-09T09:16:05-06:00",
+  "updatedAt": "2026-04-09T09:17:42-06:00",
   "total": 296
 }
