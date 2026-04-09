@@ -1130,9 +1130,8 @@
       "fr": "146c",
       "code": "10769",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T04:10:11-06:00",
-      "manualOrder": 67
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T05:39:43-06:00"
     },
     {
       "id": 146,
@@ -2240,6 +2239,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T05:39:41-06:00",
+  "updatedAt": "2026-04-09T05:39:44-06:00",
   "total": 296
 }
