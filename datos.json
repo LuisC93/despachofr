@@ -783,8 +783,8 @@
       "fr": "108c",
       "code": "11896",
       "cajas": 3,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T02:55:10-06:00"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T03:11:16-06:00"
     },
     {
       "id": 108,
@@ -2162,6 +2162,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T03:10:43-06:00",
+  "updatedAt": "2026-04-09T03:11:17-06:00",
   "total": 296
 }
