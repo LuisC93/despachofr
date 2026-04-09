@@ -1814,8 +1814,8 @@
       "fr": "231c",
       "code": "60140",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T08:02:28-06:00"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T08:09:13-06:00"
     },
     {
       "id": 231,
@@ -2301,6 +2301,6 @@
       "dispatchedAt": "2026-04-09T07:55:45-06:00"
     }
   ],
-  "updatedAt": "2026-04-09T08:05:34-06:00",
+  "updatedAt": "2026-04-09T08:09:13-06:00",
   "total": 296
 }
