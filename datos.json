@@ -1129,7 +1129,8 @@
       "fr": "144c",
       "code": "66159",
       "cajas": 1,
-      "status": "ready"
+      "status": "assigned",
+      "assignedAt": "2026-04-09T04:02:42-06:00"
     },
     {
       "id": 144,
@@ -2249,6 +2250,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T04:02:19-06:00",
+  "updatedAt": "2026-04-09T04:02:43-06:00",
   "total": 296
 }
