@@ -888,9 +888,8 @@
       "fr": "115c",
       "code": "86432",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T04:11:23-06:00",
-      "manualOrder": 68
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T05:39:44-06:00"
     },
     {
       "id": 115,
@@ -2239,6 +2238,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T05:39:44-06:00",
+  "updatedAt": "2026-04-09T05:39:45-06:00",
   "total": 296
 }
