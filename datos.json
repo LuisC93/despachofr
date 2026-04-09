@@ -29,7 +29,8 @@
       "fr": "4c",
       "code": "10002",
       "cajas": 27,
-      "status": "ready"
+      "status": "assigned",
+      "assignedAt": "2026-04-09T01:37:43-06:00"
     },
     {
       "id": 4,
@@ -2076,6 +2077,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T01:37:39-06:00",
+  "updatedAt": "2026-04-09T01:37:44-06:00",
   "total": 296
 }
