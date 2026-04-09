@@ -1826,8 +1826,8 @@
       "fr": "234c",
       "code": "10966",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T06:18:45-06:00"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T06:57:09-06:00"
     },
     {
       "id": 234,
@@ -2282,6 +2282,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T06:56:57-06:00",
+  "updatedAt": "2026-04-09T06:57:09-06:00",
   "total": 296
 }
