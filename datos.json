@@ -875,7 +875,8 @@
       "fr": "112c",
       "code": "68186",
       "cajas": 1,
-      "status": "ready"
+      "status": "assigned",
+      "assignedAt": "2026-04-09T06:07:02-06:00"
     },
     {
       "id": 112,
@@ -2255,6 +2256,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T06:06:45-06:00",
+  "updatedAt": "2026-04-09T06:07:02-06:00",
   "total": 296
 }
