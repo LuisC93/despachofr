@@ -2108,8 +2108,8 @@
       "fr": "266c",
       "code": "12220",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T09:35:17-06:00"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T09:37:31-06:00"
     },
     {
       "id": 266,
@@ -2342,6 +2342,6 @@
       "dispatchedAt": "2026-04-09T07:55:45-06:00"
     }
   ],
-  "updatedAt": "2026-04-09T09:35:18-06:00",
+  "updatedAt": "2026-04-09T09:37:31-06:00",
   "total": 296
 }
