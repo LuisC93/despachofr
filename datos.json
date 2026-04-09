@@ -262,8 +262,8 @@
       "fr": "35c",
       "code": "60173",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T03:04:40-06:00"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T03:51:01-06:00"
     },
     {
       "id": 35,
@@ -2184,6 +2184,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T03:50:40-06:00",
+  "updatedAt": "2026-04-09T03:51:02-06:00",
   "total": 296
 }
