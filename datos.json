@@ -12,9 +12,7 @@
       "fr": "2c",
       "code": "10031",
       "cajas": 64,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T01:36:32-06:00",
-      "manualOrder": 2
+      "status": "ready"
     },
     {
       "id": 2,
@@ -2077,6 +2075,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T01:39:55-06:00",
+  "updatedAt": "2026-04-09T01:39:59-06:00",
   "total": 296
 }
