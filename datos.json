@@ -1704,8 +1704,8 @@
       "fr": "214c",
       "code": "60209",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T09:51:07-06:00"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T10:02:38-06:00"
     },
     {
       "id": 214,
@@ -2357,6 +2357,6 @@
       "dispatchedAt": "2026-04-09T07:55:45-06:00"
     }
   ],
-  "updatedAt": "2026-04-09T10:01:42-06:00",
+  "updatedAt": "2026-04-09T10:02:38-06:00",
   "total": 296
 }
