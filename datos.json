@@ -416,7 +416,8 @@
       "fr": "53c",
       "code": "60128",
       "cajas": 1,
-      "status": "ready"
+      "status": "assigned",
+      "assignedAt": "2026-04-09T07:05:40-06:00"
     },
     {
       "id": 53,
@@ -2282,6 +2283,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T07:05:24-06:00",
+  "updatedAt": "2026-04-09T07:05:41-06:00",
   "total": 296
 }
