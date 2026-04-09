@@ -531,8 +531,8 @@
       "fr": "69c",
       "code": "60318",
       "cajas": 3,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T04:58:37-06:00"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T05:40:18-06:00"
     },
     {
       "id": 69,
@@ -2237,6 +2237,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T05:40:09-06:00",
+  "updatedAt": "2026-04-09T05:40:18-06:00",
   "total": 296
 }
