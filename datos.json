@@ -1330,8 +1330,8 @@
       "fr": "190c",
       "code": "66066",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T02:08:59-06:00"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T02:24:01-06:00"
     },
     {
       "id": 190,
@@ -2087,6 +2087,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T02:23:29-06:00",
+  "updatedAt": "2026-04-09T02:24:01-06:00",
   "total": 296
 }
