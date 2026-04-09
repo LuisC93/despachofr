@@ -209,9 +209,8 @@
       "fr": "27c",
       "code": "11805",
       "cajas": 7,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T04:08:12-06:00",
-      "manualOrder": 63
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T05:39:01-06:00"
     },
     {
       "id": 27,
@@ -2243,6 +2242,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T05:38:58-06:00",
+  "updatedAt": "2026-04-09T05:39:01-06:00",
   "total": 296
 }
