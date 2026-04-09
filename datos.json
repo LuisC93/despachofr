@@ -11,31 +11,36 @@
       "id": 1,
       "fr": "2B",
       "code": "86415",
-      "status": "assigned"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-08T19:30:53-06:00"
     },
     {
       "id": 2,
       "fr": "3B",
       "code": "60177",
-      "status": "assigned"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-08T19:30:54-06:00"
     },
     {
       "id": 3,
       "fr": "4B",
       "code": "12775",
-      "status": "assigned"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-08T19:30:53-06:00"
     },
     {
       "id": 4,
       "fr": "5B",
       "code": "12760",
-      "status": "assigned"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-08T19:30:55-06:00"
     },
     {
       "id": 5,
       "fr": "6B",
       "code": "12776",
-      "status": "assigned"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-08T19:30:56-06:00"
     },
     {
       "id": 6,
@@ -1766,6 +1771,6 @@
       "status": "dispatched"
     }
   ],
-  "updatedAt": "2026-04-08T19:30:51-06:00",
+  "updatedAt": "2026-04-08T19:30:58-06:00",
   "total": 294
 }
