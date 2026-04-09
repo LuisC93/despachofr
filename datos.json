@@ -2287,8 +2287,8 @@
       "fr": "287c",
       "code": "86264",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T09:50:55-06:00"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T10:17:33-06:00"
     },
     {
       "id": 287,
@@ -2363,6 +2363,6 @@
       "dispatchedAt": "2026-04-09T07:55:45-06:00"
     }
   ],
-  "updatedAt": "2026-04-09T10:17:33-06:00",
+  "updatedAt": "2026-04-09T10:17:34-06:00",
   "total": 296
 }
