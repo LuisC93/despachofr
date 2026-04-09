@@ -2055,8 +2055,8 @@
       "fr": "260c",
       "code": "76039",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T09:06:33-06:00"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T09:18:23-06:00"
     },
     {
       "id": 260,
@@ -2331,6 +2331,6 @@
       "dispatchedAt": "2026-04-09T07:55:45-06:00"
     }
   ],
-  "updatedAt": "2026-04-09T09:17:42-06:00",
+  "updatedAt": "2026-04-09T09:18:23-06:00",
   "total": 296
 }
