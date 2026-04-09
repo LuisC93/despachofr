@@ -53,9 +53,8 @@
       "fr": "7c",
       "code": "10023",
       "cajas": 15,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T04:13:21-06:00",
-      "manualOrder": 72
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T05:36:03-06:00"
     },
     {
       "id": 7,
@@ -2256,6 +2255,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T05:36:01-06:00",
+  "updatedAt": "2026-04-09T05:36:04-06:00",
   "total": 296
 }
