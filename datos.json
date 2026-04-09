@@ -442,7 +442,8 @@
       "fr": "63c",
       "code": "86502",
       "cajas": 1,
-      "status": "ready"
+      "status": "assigned",
+      "assignedAt": "2026-04-09T01:42:59-06:00"
     },
     {
       "id": 63,
@@ -2076,6 +2077,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T01:42:57-06:00",
+  "updatedAt": "2026-04-09T01:43:00-06:00",
   "total": 296
 }
