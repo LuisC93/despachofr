@@ -121,7 +121,8 @@
       "fr": "15c",
       "code": "10061",
       "cajas": 24,
-      "status": "ready"
+      "status": "assigned",
+      "assignedAt": "2026-04-09T04:12:43-06:00"
     },
     {
       "id": 15,
@@ -2265,6 +2266,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T04:12:23-06:00",
+  "updatedAt": "2026-04-09T04:12:43-06:00",
   "total": 296
 }
