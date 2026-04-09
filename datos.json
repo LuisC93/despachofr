@@ -724,9 +724,8 @@
       "fr": "92c",
       "code": "72036",
       "cajas": 4,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T03:48:07-06:00",
-      "manualOrder": 39
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T05:32:51-06:00"
     },
     {
       "id": 92,
@@ -2269,6 +2268,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T05:32:42-06:00",
+  "updatedAt": "2026-04-09T05:32:51-06:00",
   "total": 296
 }
