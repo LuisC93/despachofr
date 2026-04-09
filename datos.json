@@ -1232,8 +1232,8 @@
       "fr": "169c",
       "code": "66030",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T03:00:04-06:00"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T03:22:24-06:00"
     },
     {
       "id": 169,
@@ -2169,6 +2169,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T03:21:39-06:00",
+  "updatedAt": "2026-04-09T03:22:25-06:00",
   "total": 296
 }
