@@ -183,8 +183,8 @@
       "fr": "25c",
       "code": "68010",
       "cajas": 4,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T03:31:54-06:00"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T03:31:56-06:00"
     },
     {
       "id": 25,
@@ -2188,6 +2188,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T03:31:55-06:00",
+  "updatedAt": "2026-04-09T03:31:57-06:00",
   "total": 296
 }
