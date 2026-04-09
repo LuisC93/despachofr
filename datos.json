@@ -919,9 +919,8 @@
       "fr": "117c",
       "code": "11526",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T04:14:07-06:00",
-      "manualOrder": 75
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T05:35:55-06:00"
     },
     {
       "id": 117,
@@ -2259,6 +2258,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T05:35:14-06:00",
+  "updatedAt": "2026-04-09T05:35:56-06:00",
   "total": 296
 }
