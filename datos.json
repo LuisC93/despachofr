@@ -1572,8 +1572,8 @@
       "fr": "222c",
       "code": "66137",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T02:13:57-06:00"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T02:34:09-06:00"
     },
     {
       "id": 222,
@@ -2101,6 +2101,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T02:33:00-06:00",
+  "updatedAt": "2026-04-09T02:34:09-06:00",
   "total": 296
 }
