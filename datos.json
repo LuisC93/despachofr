@@ -148,9 +148,8 @@
       "fr": "18c",
       "code": "10062",
       "cajas": 13,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T03:46:00-06:00",
-      "manualOrder": 33
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T05:32:33-06:00"
     },
     {
       "id": 18,
@@ -2275,6 +2274,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T05:32:32-06:00",
+  "updatedAt": "2026-04-09T05:32:34-06:00",
   "total": 296
 }
