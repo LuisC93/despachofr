@@ -1743,8 +1743,8 @@
       "fr": "235c",
       "code": "10964",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T03:29:32-06:00"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T03:29:33-06:00"
     },
     {
       "id": 235,
@@ -2186,6 +2186,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T03:29:32-06:00",
+  "updatedAt": "2026-04-09T03:29:34-06:00",
   "total": 296
 }
