@@ -2266,8 +2266,8 @@
       "fr": "285c",
       "code": "86265",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T09:57:58-06:00"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T10:03:26-06:00"
     },
     {
       "id": 285,
@@ -2357,6 +2357,6 @@
       "dispatchedAt": "2026-04-09T07:55:45-06:00"
     }
   ],
-  "updatedAt": "2026-04-09T10:02:38-06:00",
+  "updatedAt": "2026-04-09T10:03:27-06:00",
   "total": 296
 }
