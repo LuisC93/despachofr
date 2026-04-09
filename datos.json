@@ -316,7 +316,8 @@
       "fr": "40c",
       "code": "10099",
       "cajas": 40,
-      "status": "ready"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T10:15:34-06:00"
     },
     {
       "id": 40,
@@ -2361,6 +2362,6 @@
       "dispatchedAt": "2026-04-09T07:55:45-06:00"
     }
   ],
-  "updatedAt": "2026-04-09T10:14:17-06:00",
+  "updatedAt": "2026-04-09T10:15:34-06:00",
   "total": 296
 }
