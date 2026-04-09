@@ -1836,7 +1836,8 @@
       "fr": "247c",
       "code": "12265",
       "cajas": 9,
-      "status": "ready"
+      "status": "assigned",
+      "assignedAt": "2026-04-09T03:52:29-06:00"
     },
     {
       "id": 247,
@@ -2187,6 +2188,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T03:52:19-06:00",
+  "updatedAt": "2026-04-09T03:52:29-06:00",
   "total": 296
 }
