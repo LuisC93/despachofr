@@ -2289,8 +2289,8 @@
       "fr": "288c",
       "code": "13779",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T09:56:43-06:00"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T10:01:37-06:00"
     },
     {
       "id": 288,
@@ -2357,6 +2357,6 @@
       "dispatchedAt": "2026-04-09T07:55:45-06:00"
     }
   ],
-  "updatedAt": "2026-04-09T10:00:41-06:00",
+  "updatedAt": "2026-04-09T10:01:37-06:00",
   "total": 296
 }
