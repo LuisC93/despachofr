@@ -773,8 +773,8 @@
       "fr": "99c",
       "code": "76070",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T05:58:53-06:00"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T06:36:37-06:00"
     },
     {
       "id": 99,
@@ -2270,6 +2270,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T06:36:11-06:00",
+  "updatedAt": "2026-04-09T06:36:37-06:00",
   "total": 296
 }
