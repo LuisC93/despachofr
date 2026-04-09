@@ -1591,8 +1591,8 @@
       "fr": "205c",
       "code": "86224",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T05:44:20-06:00"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T06:10:44-06:00"
     },
     {
       "id": 205,
@@ -2257,6 +2257,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T06:10:43-06:00",
+  "updatedAt": "2026-04-09T06:10:44-06:00",
   "total": 296
 }
