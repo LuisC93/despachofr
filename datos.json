@@ -195,7 +195,8 @@
       "code": "10784",
       "cajas": 1,
       "status": "assigned",
-      "assignedAt": "2026-04-09T02:36:39-06:00"
+      "assignedAt": "2026-04-09T02:36:39-06:00",
+      "manualOrder": 22
     },
     {
       "id": 28,
@@ -672,7 +673,8 @@
       "code": "10976",
       "cajas": 1,
       "status": "assigned",
-      "assignedAt": "2026-04-09T02:37:57-06:00"
+      "assignedAt": "2026-04-09T02:37:57-06:00",
+      "manualOrder": 25
     },
     {
       "id": 96,
@@ -813,7 +815,8 @@
       "code": "10165",
       "cajas": 3,
       "status": "assigned",
-      "assignedAt": "2026-04-09T02:31:01-06:00"
+      "assignedAt": "2026-04-09T02:31:01-06:00",
+      "manualOrder": 17
     },
     {
       "id": 116,
@@ -828,7 +831,8 @@
       "code": "10761",
       "cajas": 12,
       "status": "assigned",
-      "assignedAt": "2026-04-09T02:32:34-06:00"
+      "assignedAt": "2026-04-09T02:32:34-06:00",
+      "manualOrder": 20
     },
     {
       "id": 118,
@@ -892,7 +896,8 @@
       "code": "60331",
       "cajas": 1,
       "status": "assigned",
-      "assignedAt": "2026-04-09T02:20:29-06:00"
+      "assignedAt": "2026-04-09T02:20:29-06:00",
+      "manualOrder": 5
     },
     {
       "id": 127,
@@ -900,7 +905,8 @@
       "code": "66006",
       "cajas": 1,
       "status": "assigned",
-      "assignedAt": "2026-04-09T02:32:15-06:00"
+      "assignedAt": "2026-04-09T02:32:15-06:00",
+      "manualOrder": 19
     },
     {
       "id": 128,
@@ -1329,7 +1335,8 @@
       "code": "66041",
       "cajas": 1,
       "status": "assigned",
-      "assignedAt": "2026-04-09T02:31:16-06:00"
+      "assignedAt": "2026-04-09T02:31:16-06:00",
+      "manualOrder": 18
     },
     {
       "id": 189,
@@ -1353,7 +1360,8 @@
       "code": "10881",
       "cajas": 1,
       "status": "assigned",
-      "assignedAt": "2026-04-09T02:19:11-06:00"
+      "assignedAt": "2026-04-09T02:19:11-06:00",
+      "manualOrder": 6
     },
     {
       "id": 192,
@@ -1368,7 +1376,8 @@
       "code": "66157",
       "cajas": 1,
       "status": "assigned",
-      "assignedAt": "2026-04-09T02:29:55-06:00"
+      "assignedAt": "2026-04-09T02:29:55-06:00",
+      "manualOrder": 13
     },
     {
       "id": 194,
@@ -1376,7 +1385,8 @@
       "code": "66084",
       "cajas": 1,
       "status": "assigned",
-      "assignedAt": "2026-04-09T02:30:07-06:00"
+      "assignedAt": "2026-04-09T02:30:07-06:00",
+      "manualOrder": 14
     },
     {
       "id": 195,
@@ -1384,7 +1394,8 @@
       "code": "66077",
       "cajas": 1,
       "status": "assigned",
-      "assignedAt": "2026-04-09T02:30:42-06:00"
+      "assignedAt": "2026-04-09T02:30:42-06:00",
+      "manualOrder": 16
     },
     {
       "id": 196,
@@ -1406,7 +1417,8 @@
       "code": "66101",
       "cajas": 1,
       "status": "assigned",
-      "assignedAt": "2026-04-09T02:38:42-06:00"
+      "assignedAt": "2026-04-09T02:38:42-06:00",
+      "manualOrder": 27
     },
     {
       "id": 199,
@@ -1414,7 +1426,8 @@
       "code": "66102",
       "cajas": 1,
       "status": "assigned",
-      "assignedAt": "2026-04-09T02:27:07-06:00"
+      "assignedAt": "2026-04-09T02:27:07-06:00",
+      "manualOrder": 9
     },
     {
       "id": 200,
@@ -1436,7 +1449,8 @@
       "code": "66095",
       "cajas": 1,
       "status": "assigned",
-      "assignedAt": "2026-04-09T02:28:11-06:00"
+      "assignedAt": "2026-04-09T02:28:11-06:00",
+      "manualOrder": 12
     },
     {
       "id": 203,
@@ -1451,7 +1465,8 @@
       "code": "86224",
       "cajas": 1,
       "status": "assigned",
-      "assignedAt": "2026-04-09T02:37:03-06:00"
+      "assignedAt": "2026-04-09T02:37:03-06:00",
+      "manualOrder": 23
     },
     {
       "id": 205,
@@ -1466,7 +1481,8 @@
       "code": "66113",
       "cajas": 1,
       "status": "assigned",
-      "assignedAt": "2026-04-09T02:32:59-06:00"
+      "assignedAt": "2026-04-09T02:32:59-06:00",
+      "manualOrder": 21
     },
     {
       "id": 207,
@@ -1481,7 +1497,8 @@
       "code": "66150",
       "cajas": 1,
       "status": "assigned",
-      "assignedAt": "2026-04-09T02:30:26-06:00"
+      "assignedAt": "2026-04-09T02:30:26-06:00",
+      "manualOrder": 15
     },
     {
       "id": 209,
@@ -1531,7 +1548,8 @@
       "code": "10940",
       "cajas": 1,
       "status": "assigned",
-      "assignedAt": "2026-04-09T02:16:37-06:00"
+      "assignedAt": "2026-04-09T02:16:37-06:00",
+      "manualOrder": 3
     },
     {
       "id": 216,
@@ -1539,7 +1557,8 @@
       "code": "66126",
       "cajas": 1,
       "status": "assigned",
-      "assignedAt": "2026-04-09T02:24:41-06:00"
+      "assignedAt": "2026-04-09T02:24:41-06:00",
+      "manualOrder": 8
     },
     {
       "id": 217,
@@ -1554,7 +1573,8 @@
       "code": "60141",
       "cajas": 1,
       "status": "assigned",
-      "assignedAt": "2026-04-09T02:27:50-06:00"
+      "assignedAt": "2026-04-09T02:27:50-06:00",
+      "manualOrder": 11
     },
     {
       "id": 219,
@@ -1569,7 +1589,8 @@
       "code": "66130",
       "cajas": 1,
       "status": "assigned",
-      "assignedAt": "2026-04-09T02:27:24-06:00"
+      "assignedAt": "2026-04-09T02:27:24-06:00",
+      "manualOrder": 10
     },
     {
       "id": 221,
@@ -1648,7 +1669,8 @@
       "code": "10960",
       "cajas": 1,
       "status": "assigned",
-      "assignedAt": "2026-04-09T02:20:06-06:00"
+      "assignedAt": "2026-04-09T02:20:06-06:00",
+      "manualOrder": 7
     },
     {
       "id": 232,
@@ -1677,7 +1699,8 @@
       "code": "66138",
       "cajas": 1,
       "status": "assigned",
-      "assignedAt": "2026-04-09T02:17:24-06:00"
+      "assignedAt": "2026-04-09T02:17:24-06:00",
+      "manualOrder": 4
     },
     {
       "id": 236,
@@ -1706,7 +1729,8 @@
       "code": "10968",
       "cajas": 1,
       "status": "assigned",
-      "assignedAt": "2026-04-09T02:37:18-06:00"
+      "assignedAt": "2026-04-09T02:37:18-06:00",
+      "manualOrder": 24
     },
     {
       "id": 240,
@@ -1714,7 +1738,8 @@
       "code": "10969",
       "cajas": 1,
       "status": "assigned",
-      "assignedAt": "2026-04-09T02:38:19-06:00"
+      "assignedAt": "2026-04-09T02:38:19-06:00",
+      "manualOrder": 26
     },
     {
       "id": 241,
@@ -1969,7 +1994,8 @@
       "code": "66073",
       "cajas": 1,
       "status": "assigned",
-      "assignedAt": "2026-04-09T02:08:32-06:00"
+      "assignedAt": "2026-04-09T02:08:32-06:00",
+      "manualOrder": 1
     },
     {
       "id": 277,
@@ -1977,7 +2003,8 @@
       "code": "10981",
       "cajas": 1,
       "status": "assigned",
-      "assignedAt": "2026-04-09T02:08:49-06:00"
+      "assignedAt": "2026-04-09T02:08:49-06:00",
+      "manualOrder": 2
     },
     {
       "id": 278,
@@ -1985,7 +2012,8 @@
       "code": "66072",
       "cajas": 1,
       "status": "assigned",
-      "assignedAt": "2026-04-09T02:08:17-06:00"
+      "assignedAt": "2026-04-09T02:08:17-06:00",
+      "manualOrder": 0
     },
     {
       "id": 279,
@@ -2107,6 +2135,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T02:38:42-06:00",
+  "updatedAt": "2026-04-09T02:39:39-06:00",
   "total": 296
 }
