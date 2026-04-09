@@ -718,8 +718,8 @@
       "fr": "97c",
       "code": "12232",
       "cajas": 11,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T03:03:16-06:00"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T03:43:19-06:00"
     },
     {
       "id": 97,
@@ -2173,6 +2173,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T03:40:25-06:00",
+  "updatedAt": "2026-04-09T03:43:19-06:00",
   "total": 296
 }
