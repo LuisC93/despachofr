@@ -1272,8 +1272,8 @@
       "fr": "162c",
       "code": "76062",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T06:49:43-06:00"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T07:04:26-06:00"
     },
     {
       "id": 162,
@@ -2282,6 +2282,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T07:04:24-06:00",
+  "updatedAt": "2026-04-09T07:04:26-06:00",
   "total": 296
 }
