@@ -37,9 +37,8 @@
       "fr": "5c",
       "code": "88001",
       "cajas": 22,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T03:26:25-06:00",
-      "manualOrder": 26
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T05:31:49-06:00"
     },
     {
       "id": 5,
@@ -2282,6 +2281,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T05:31:48-06:00",
+  "updatedAt": "2026-04-09T05:31:50-06:00",
   "total": 296
 }
