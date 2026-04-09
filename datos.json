@@ -23,8 +23,8 @@
       "fr": "3c",
       "code": "10033",
       "cajas": 28,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T01:38:09-06:00"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T01:38:19-06:00"
     },
     {
       "id": 3,
@@ -2080,6 +2080,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T01:38:09-06:00",
+  "updatedAt": "2026-04-09T01:38:20-06:00",
   "total": 296
 }
