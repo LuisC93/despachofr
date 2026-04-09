@@ -810,7 +810,8 @@
       "fr": "116c",
       "code": "10165",
       "cajas": 3,
-      "status": "ready"
+      "status": "assigned",
+      "assignedAt": "2026-04-09T02:31:01-06:00"
     },
     {
       "id": 116,
@@ -2096,6 +2097,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T02:30:43-06:00",
+  "updatedAt": "2026-04-09T02:31:01-06:00",
   "total": 296
 }
