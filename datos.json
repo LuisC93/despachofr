@@ -4,22 +4,19 @@
       "id": 0,
       "fr": "1c",
       "code": "60171",
-      "status": "assigned",
-      "assignedAt": "2026-04-08T23:51:38-06:00"
+      "status": "ready"
     },
     {
       "id": 1,
       "fr": "2c",
       "code": "10031",
-      "status": "assigned",
-      "assignedAt": "2026-04-08T23:51:38-06:00"
+      "status": "ready"
     },
     {
       "id": 2,
       "fr": "3c",
       "code": "10033",
-      "status": "assigned",
-      "assignedAt": "2026-04-08T23:51:39-06:00"
+      "status": "ready"
     },
     {
       "id": 3,
@@ -31,8 +28,7 @@
       "id": 4,
       "fr": "5c",
       "code": "88001",
-      "status": "assigned",
-      "assignedAt": "2026-04-08T23:51:39-06:00"
+      "status": "ready"
     },
     {
       "id": 5,
@@ -44,8 +40,7 @@
       "id": 6,
       "fr": "7c",
       "code": "10023",
-      "status": "assigned",
-      "assignedAt": "2026-04-08T23:51:39-06:00"
+      "status": "ready"
     },
     {
       "id": 7,
@@ -63,8 +58,7 @@
       "id": 9,
       "fr": "10c",
       "code": "10015",
-      "status": "assigned",
-      "assignedAt": "2026-04-08T23:51:39-06:00"
+      "status": "ready"
     },
     {
       "id": 10,
@@ -1783,6 +1777,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T23:51:41-06:00",
+  "updatedAt": "2026-04-08T23:51:44-06:00",
   "total": 296
 }
