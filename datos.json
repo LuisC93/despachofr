@@ -1834,8 +1834,8 @@
       "fr": "230c",
       "code": "11238",
       "cajas": 2,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T10:14:17-06:00"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T10:19:59-06:00"
     },
     {
       "id": 230,
@@ -2364,6 +2364,6 @@
       "dispatchedAt": "2026-04-09T07:55:45-06:00"
     }
   ],
-  "updatedAt": "2026-04-09T10:18:40-06:00",
+  "updatedAt": "2026-04-09T10:20:00-06:00",
   "total": 296
 }
