@@ -1078,9 +1078,8 @@
       "fr": "138c",
       "code": "10803",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T04:02:19-06:00",
-      "manualOrder": 53
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T05:38:05-06:00"
     },
     {
       "id": 138,
@@ -2254,6 +2253,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T05:38:03-06:00",
+  "updatedAt": "2026-04-09T05:38:05-06:00",
   "total": 296
 }
