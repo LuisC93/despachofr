@@ -232,7 +232,8 @@
       "fr": "32c",
       "code": "10829",
       "cajas": 1,
-      "status": "ready"
+      "status": "assigned",
+      "assignedAt": "2026-04-09T03:26:07-06:00"
     },
     {
       "id": 32,
@@ -2178,6 +2179,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T03:25:53-06:00",
+  "updatedAt": "2026-04-09T03:26:07-06:00",
   "total": 296
 }
