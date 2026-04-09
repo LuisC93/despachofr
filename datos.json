@@ -236,9 +236,8 @@
       "fr": "30c",
       "code": "10828",
       "cajas": 11,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T06:55:12-06:00",
-      "manualOrder": 0
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T07:10:45-06:00"
     },
     {
       "id": 30,
@@ -2298,6 +2297,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T07:09:25-06:00",
+  "updatedAt": "2026-04-09T07:10:46-06:00",
   "total": 296
 }
