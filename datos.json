@@ -1269,7 +1269,8 @@
       "fr": "155c",
       "code": "10807",
       "cajas": 1,
-      "status": "ready"
+      "status": "assigned",
+      "assignedAt": "2026-04-09T05:25:32-06:00"
     },
     {
       "id": 155,
@@ -2309,6 +2310,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T05:16:31-06:00",
+  "updatedAt": "2026-04-09T05:25:32-06:00",
   "total": 296
 }
