@@ -21,8 +21,8 @@
       "fr": "3c",
       "code": "10033",
       "cajas": 28,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T01:44:25-06:00"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T01:45:43-06:00"
     },
     {
       "id": 3,
@@ -155,8 +155,8 @@
       "fr": "22c",
       "code": "10770",
       "cajas": 3,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T01:42:56-06:00"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T01:45:42-06:00"
     },
     {
       "id": 22,
@@ -2078,6 +2078,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T01:45:42-06:00",
+  "updatedAt": "2026-04-09T01:45:44-06:00",
   "total": 296
 }
