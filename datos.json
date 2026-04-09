@@ -630,9 +630,8 @@
       "fr": "80c",
       "code": "10139",
       "cajas": 20,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T04:00:26-06:00",
-      "manualOrder": 50
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T05:33:22-06:00"
     },
     {
       "id": 80,
@@ -2259,6 +2258,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T05:33:21-06:00",
+  "updatedAt": "2026-04-09T05:33:22-06:00",
   "total": 296
 }
