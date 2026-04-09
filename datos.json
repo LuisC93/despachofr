@@ -1004,7 +1004,8 @@
       "fr": "134c",
       "code": "66020",
       "cajas": 1,
-      "status": "ready"
+      "status": "assigned",
+      "assignedAt": "2026-04-09T03:53:08-06:00"
     },
     {
       "id": 134,
@@ -2187,6 +2188,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T03:52:39-06:00",
+  "updatedAt": "2026-04-09T03:53:09-06:00",
   "total": 296
 }
