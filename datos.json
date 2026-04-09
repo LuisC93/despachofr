@@ -1552,9 +1552,8 @@
       "fr": "198c",
       "code": "66090",
       "cajas": 2,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T03:49:18-06:00",
-      "manualOrder": 40
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T05:33:02-06:00"
     },
     {
       "id": 198,
@@ -2268,6 +2267,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T05:32:51-06:00",
+  "updatedAt": "2026-04-09T05:33:03-06:00",
   "total": 296
 }
