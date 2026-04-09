@@ -663,9 +663,8 @@
       "fr": "85c",
       "code": "76027",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T03:08:10-06:00",
-      "manualOrder": 9
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T04:01:36-06:00"
     },
     {
       "id": 85,
@@ -2249,6 +2248,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T04:01:11-06:00",
+  "updatedAt": "2026-04-09T04:01:37-06:00",
   "total": 296
 }
