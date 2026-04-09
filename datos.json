@@ -199,9 +199,8 @@
       "fr": "28c",
       "code": "10784",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T02:36:39-06:00",
-      "manualOrder": 22
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T03:10:42-06:00"
     },
     {
       "id": 28,
@@ -2163,6 +2162,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T03:10:11-06:00",
+  "updatedAt": "2026-04-09T03:10:43-06:00",
   "total": 296
 }
