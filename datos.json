@@ -2263,8 +2263,8 @@
       "fr": "284c",
       "code": "60213",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T09:47:06-06:00"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T10:17:32-06:00"
     },
     {
       "id": 284,
@@ -2363,6 +2363,6 @@
       "dispatchedAt": "2026-04-09T07:55:45-06:00"
     }
   ],
-  "updatedAt": "2026-04-09T10:17:24-06:00",
+  "updatedAt": "2026-04-09T10:17:33-06:00",
   "total": 296
 }
