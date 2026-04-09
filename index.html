@@ -104,7 +104,9 @@
   .card-info { flex:1; min-width:0; }
   .card-fr { font-family:'Space Mono', monospace; font-size:9px; color:var(--muted); margin-bottom:4px; text-transform:uppercase; }
   .card-code { font-size:14px; font-weight:600; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
-  .card-time { font-family:'Space Mono', monospace; font-size:9px; color:var(--c-disp); margin-top:5px; opacity:0.8; }
+  .card-meta { display:flex; align-items:center; gap:8px; margin-top:5px; flex-wrap:wrap; }
+  .card-cajas { font-family:'Space Mono', monospace; font-size:9px; color:var(--muted); background:var(--surface); border:1px solid var(--border); border-radius:3px; padding:1px 5px; }
+  .card-time { font-family:'Space Mono', monospace; font-size:9px; color:var(--c-disp); opacity:0.8; }
   
   .card-actions { display:flex; gap:4px; flex-shrink:0; }
   .card-btn { background:var(--surface); border:1px solid var(--border); color:var(--text); width:26px; height:26px; border-radius:4px; display:flex; align-items:center; justify-content:center; cursor:pointer; font-size:12px; transition:background 0.2s; }
@@ -354,7 +356,7 @@ function schedulePush() {
   if (!isReady()) return;
   clearTimeout(writeTimer);
   setSyncState('syncing', 'Guardando...');
-  writeTimer = setTimeout(doPush, 1500);
+  writeTimer = setTimeout(doPush, 400);
 }
 
 async function doPush() {
@@ -380,7 +382,7 @@ async function manualSync() { if(isReady()) { const ok = await pullFromGitHub();
 // ==========================================
 let allItems = [];
 let dragId = null;
-let dragReorderTargetId = null; // ✅ [CAMBIO 9] Nueva variable: rastrea tarjeta destino durante reordenamiento
+let dragReorderTargetId = null; // id del item sobre el que se está sobrevolando al reordenar
 let activeFilter = 'all';
 let searchTerm = '';
 let touchDragId = null, touchOffX = 0, touchOffY = 0;
@@ -409,6 +411,7 @@ function parseFile(file){
       const keys = Object.keys(data[0]);
       const frKey = keys.find(k => k.trim().toUpperCase() === 'FR');
       const codeKey = keys.find(k => /CODIGO|CÓDIGO/i.test(k.trim()));
+      const cajasKey = keys.find(k => k.trim().toUpperCase() === 'CAJAS');
       
       if(!frKey || !codeKey) return showToast('Faltan columnas FR y CODIGO');
       
@@ -420,10 +423,11 @@ function parseFile(file){
         return { 
           id: i, 
           fr: String(r[frKey]).trim(), 
-          code, 
+          code,
+          cajas: cajasKey && r[cajasKey] !== '' ? r[cajasKey] : null,
           status: p.status || 'ready',
           dispatchedAt: p.dispatchedAt,
-          assignedAt: p.assignedAt    // ✅ [CAMBIO 2] Preservar hora de asignación al recargar Excel
+          assignedAt: p.assignedAt
         };
       });
       showBoard(true); render(); schedulePush(); showToast(`✓ Excel cargado`);
@@ -452,7 +456,7 @@ function render() {
   });
 
   renderCol('body-ready', cols.ready, 'ready');
-  // ✅ [CAMBIO 3] Ordenar asignados: primero por manualOrder (reorden manual), sino por hora de asignación
+  // Ordenar asignados: primero por manualOrder si existe, sino por hora de asignación
   cols.assigned.sort((a, b) => {
     const ao = a.manualOrder ?? Infinity, bo = b.manualOrder ?? Infinity;
     if(ao !== bo) return ao - bo;
@@ -471,7 +475,6 @@ function render() {
   check100();
 }
 
-// ✅ [CAMBIO 4] Nueva función: reordenamiento manual dentro de la columna Asignado
 function reorderAssigned(draggedId, targetId, insertBefore) {
   // Obtener solo los asignados en su orden actual
   const assigned = allItems.filter(i => i.status === 'assigned').sort((a, b) => {
@@ -510,29 +513,29 @@ function renderCol(bodyId, items, status) {
         const utc = d.getTime() + (d.getTimezoneOffset() * 60000);
         const tz = new Date(utc - (3600000 * 6));
         const pad = n => String(n).padStart(2, '0');
-        timeStr = `<div class="card-time">✓ ${pad(tz.getDate())}/${pad(tz.getMonth()+1)} ${pad(tz.getHours())}:${pad(tz.getMinutes())}</div>`;
+        timeStr = `<span class="card-time">✓ ${pad(tz.getDate())}/${pad(tz.getMonth()+1)} ${pad(tz.getHours())}:${pad(tz.getMinutes())}</span>`;
       }
     }
-    // ✅ [CAMBIO 5] Mostrar hora de asignación en tarjetas de columna Asignado (igual que despacho pero en azul)
+    // Mostrar hora de asignación en UTC-6
     if(status === 'assigned' && item.assignedAt) {
       const d = new Date(item.assignedAt);
       if(!isNaN(d)) {
         const utc = d.getTime() + (d.getTimezoneOffset() * 60000);
         const tz = new Date(utc - (3600000 * 6));
         const pad = n => String(n).padStart(2, '0');
-        timeStr = `<div class="card-time" style="color:var(--c-assigned)">→ ${pad(tz.getDate())}/${pad(tz.getMonth()+1)} ${pad(tz.getHours())}:${pad(tz.getMinutes())}</div>`;
+        timeStr = `<span class="card-time" style="color:var(--c-assigned)">→ ${pad(tz.getDate())}/${pad(tz.getMonth()+1)} ${pad(tz.getHours())}:${pad(tz.getMinutes())}</span>`;
       }
     }
 
     const div = document.createElement('div');
     div.className = `card card-${status}`; div.draggable = true;
-    div.dataset.itemId = item.id; // ✅ [CAMBIO 6] ID en dataset para identificar tarjeta en reorden táctil
-    div.innerHTML = `<div class="card-drag-hint">⋮⋮</div><div class="card-info"><div class="card-fr">FR · ${item.fr}</div><div class="card-code">${item.code}</div>${timeStr}</div><div class="card-actions">${btns}</div>`;
+    div.dataset.itemId = item.id;
+    const cajasStr = item.cajas != null ? `<span class="card-cajas">📦 ${item.cajas}</span>` : '';
+    div.innerHTML = `<div class="card-drag-hint">⋮⋮</div><div class="card-info"><div class="card-fr">FR · ${item.fr}</div><div class="card-code">${item.code}</div><div class="card-meta">${cajasStr}${timeStr}</div></div><div class="card-actions">${btns}</div>`;
     
     // Drag entre columnas
     div.addEventListener('dragstart', e => { dragId = item.id; e.dataTransfer.effectAllowed = 'move'; });
 
-    // ✅ [CAMBIO 7] Eventos de drag interno para reordenar dentro de Asignado (línea indicadora azul)
     // Reordenamiento interno en assigned
     if(status === 'assigned') {
       div.addEventListener('dragover', e => {
@@ -588,7 +591,7 @@ document.addEventListener('touchend', e => {
   const under = document.elementFromPoint(t.clientX, t.clientY);
   if(under) {
     const col = under.closest('.column');
-    // ✅ [CAMBIO 8] Reorden táctil dentro de Asignado: detecta si se suelta sobre otra tarjeta
+    // Verificar si soltamos sobre una tarjeta en la misma columna assigned → reordenar
     const targetCard = under.closest('.card');
     if(col && col.id === 'col-assigned' && targetCard && parseInt(targetCard.dataset.itemId) !== touchDragId) {
       const targetId = parseInt(targetCard.dataset.itemId);
@@ -616,7 +619,6 @@ function moveItem(id, s){
       delete item.dispatchedAt;
     }
 
-    // ✅ [CAMBIO 1] Hora de asignación + limpieza de orden manual al salir
     if(s === 'assigned') {
       if(!item.assignedAt) item.assignedAt = getUTC6Info().iso; // Guarda hora de asignación UTC-6
     } else {
@@ -744,7 +746,7 @@ setInterval(async()=>{
       currentSha = data._sha; render(); showToast('🔄 Actualizado remoto');
     }
   } catch{}
-}, 30000);
+}, 5000);
 
 init();
 </script>
