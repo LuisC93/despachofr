@@ -2207,8 +2207,8 @@
       "fr": "280c",
       "code": "12282",
       "cajas": 4,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T09:04:06-06:00"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T09:10:28-06:00"
     },
     {
       "id": 280,
@@ -2331,6 +2331,6 @@
       "dispatchedAt": "2026-04-09T07:55:45-06:00"
     }
   ],
-  "updatedAt": "2026-04-09T09:07:33-06:00",
+  "updatedAt": "2026-04-09T09:10:28-06:00",
   "total": 296
 }
