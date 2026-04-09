@@ -1468,9 +1468,8 @@
       "fr": "199c",
       "code": "66101",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T02:38:42-06:00",
-      "manualOrder": 27
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T03:38:15-06:00"
     },
     {
       "id": 199,
@@ -2175,6 +2174,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T03:38:12-06:00",
+  "updatedAt": "2026-04-09T03:38:15-06:00",
   "total": 296
 }
