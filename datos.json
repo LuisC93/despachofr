@@ -881,8 +881,8 @@
       "fr": "119c",
       "code": "10752",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T02:48:00-06:00"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T03:39:08-06:00"
     },
     {
       "id": 119,
@@ -2174,6 +2174,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T03:38:59-06:00",
+  "updatedAt": "2026-04-09T03:39:08-06:00",
   "total": 296
 }
