@@ -1100,7 +1100,8 @@
       "fr": "149c",
       "code": "66011",
       "cajas": 1,
-      "status": "ready"
+      "status": "assigned",
+      "assignedAt": "2026-04-09T03:26:38-06:00"
     },
     {
       "id": 149,
@@ -2180,6 +2181,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T03:26:25-06:00",
+  "updatedAt": "2026-04-09T03:26:38-06:00",
   "total": 296
 }
