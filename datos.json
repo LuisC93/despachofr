@@ -1728,8 +1728,8 @@
       "fr": "233c",
       "code": "10957",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T03:28:17-06:00"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T03:28:18-06:00"
     },
     {
       "id": 233,
@@ -2185,6 +2185,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T03:28:18-06:00",
+  "updatedAt": "2026-04-09T03:28:19-06:00",
   "total": 296
 }
