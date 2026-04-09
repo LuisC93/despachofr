@@ -4,91 +4,91 @@
       "id": 0,
       "fr": "1C",
       "code": "60171",
-      "status": "assigned"
+      "status": "ready"
     },
     {
       "id": 1,
       "fr": "2C",
       "code": "10031",
-      "status": "assigned"
+      "status": "ready"
     },
     {
       "id": 2,
       "fr": "3C",
       "code": "10033",
-      "status": "assigned"
+      "status": "ready"
     },
     {
       "id": 3,
       "fr": "4C",
       "code": "10002",
-      "status": "assigned"
+      "status": "ready"
     },
     {
       "id": 4,
       "fr": "5C",
       "code": "88001",
-      "status": "assigned"
+      "status": "ready"
     },
     {
       "id": 5,
       "fr": "6C",
       "code": "10004",
-      "status": "assigned"
+      "status": "ready"
     },
     {
       "id": 6,
       "fr": "7C",
       "code": "10023",
-      "status": "assigned"
+      "status": "ready"
     },
     {
       "id": 7,
       "fr": "8C",
       "code": "10037",
-      "status": "assigned"
+      "status": "ready"
     },
     {
       "id": 8,
       "fr": "9C",
       "code": "10013",
-      "status": "assigned"
+      "status": "ready"
     },
     {
       "id": 9,
       "fr": "10C",
       "code": "10015",
-      "status": "assigned"
+      "status": "ready"
     },
     {
       "id": 10,
       "fr": "11C",
       "code": "88003",
-      "status": "assigned"
+      "status": "ready"
     },
     {
       "id": 11,
       "fr": "12C",
       "code": "10047",
-      "status": "assigned"
+      "status": "ready"
     },
     {
       "id": 12,
       "fr": "13C",
       "code": "13596",
-      "status": "assigned"
+      "status": "ready"
     },
     {
       "id": 13,
       "fr": "14C",
       "code": "11000",
-      "status": "assigned"
+      "status": "ready"
     },
     {
       "id": 14,
       "fr": "15C",
       "code": "10061",
-      "status": "assigned"
+      "status": "ready"
     },
     {
       "id": 15,
@@ -1777,6 +1777,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T22:43:29-06:00",
+  "updatedAt": "2026-04-08T23:07:08-06:00",
   "total": 296
 }
