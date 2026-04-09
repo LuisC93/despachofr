@@ -590,9 +590,8 @@
       "fr": "74c",
       "code": "72027",
       "cajas": 4,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T03:25:43-06:00",
-      "manualOrder": 23
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T05:31:45-06:00"
     },
     {
       "id": 74,
@@ -2285,6 +2284,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T05:31:41-06:00",
+  "updatedAt": "2026-04-09T05:31:45-06:00",
   "total": 296
 }
