@@ -1050,7 +1050,8 @@
       "fr": "140c",
       "code": "14834",
       "cajas": 1,
-      "status": "ready"
+      "status": "assigned",
+      "assignedAt": "2026-04-09T03:58:42-06:00"
     },
     {
       "id": 140,
@@ -2191,6 +2192,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T03:57:18-06:00",
+  "updatedAt": "2026-04-09T03:58:43-06:00",
   "total": 296
 }
