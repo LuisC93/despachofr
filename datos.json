@@ -781,8 +781,8 @@
       "fr": "100c",
       "code": "12233",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T05:50:20-06:00"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T06:31:15-06:00"
     },
     {
       "id": 100,
@@ -2266,6 +2266,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T06:29:58-06:00",
+  "updatedAt": "2026-04-09T06:31:16-06:00",
   "total": 296
 }
