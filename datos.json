@@ -351,8 +351,8 @@
       "fr": "45c",
       "code": "10120",
       "cajas": 38,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T05:15:00-06:00"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T06:09:46-06:00"
     },
     {
       "id": 45,
@@ -2257,6 +2257,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T06:09:45-06:00",
+  "updatedAt": "2026-04-09T06:09:46-06:00",
   "total": 296
 }
