@@ -821,7 +821,8 @@
       "fr": "106c",
       "code": "76036",
       "cajas": 1,
-      "status": "ready"
+      "status": "assigned",
+      "assignedAt": "2026-04-09T05:54:34-06:00"
     },
     {
       "id": 106,
@@ -2247,6 +2248,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T05:54:19-06:00",
+  "updatedAt": "2026-04-09T05:54:34-06:00",
   "total": 296
 }
