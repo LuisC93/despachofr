@@ -130,64 +130,55 @@
       "id": 21,
       "fr": "22c",
       "code": "10770",
-      "status": "assigned",
-      "assignedAt": "2026-04-09T01:21:00-06:00"
+      "status": "ready"
     },
     {
       "id": 22,
       "fr": "23c",
       "code": "11020",
-      "status": "assigned",
-      "assignedAt": "2026-04-09T01:21:01-06:00"
+      "status": "ready"
     },
     {
       "id": 23,
       "fr": "24c",
       "code": "68005",
-      "status": "assigned",
-      "assignedAt": "2026-04-09T01:21:02-06:00"
+      "status": "ready"
     },
     {
       "id": 24,
       "fr": "25c",
       "code": "68010",
-      "status": "assigned",
-      "assignedAt": "2026-04-09T01:21:02-06:00"
+      "status": "ready"
     },
     {
       "id": 25,
       "fr": "26c",
       "code": "11012",
-      "status": "assigned",
-      "assignedAt": "2026-04-09T01:21:02-06:00"
+      "status": "ready"
     },
     {
       "id": 26,
       "fr": "27c",
       "code": "11805",
-      "status": "assigned",
-      "assignedAt": "2026-04-09T01:21:02-06:00"
+      "status": "ready"
     },
     {
       "id": 27,
       "fr": "28c",
       "code": "10784",
-      "status": "assigned",
-      "assignedAt": "2026-04-09T01:21:02-06:00"
+      "status": "ready"
     },
     {
       "id": 28,
       "fr": "29c",
       "code": "76064",
-      "status": "assigned",
-      "assignedAt": "2026-04-09T01:21:02-06:00"
+      "status": "ready"
     },
     {
       "id": 29,
       "fr": "30c",
       "code": "10828",
-      "status": "assigned",
-      "assignedAt": "2026-04-09T01:21:03-06:00"
+      "status": "ready"
     },
     {
       "id": 30,
@@ -1786,6 +1777,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T01:21:04-06:00",
+  "updatedAt": "2026-04-09T01:21:09-06:00",
   "total": 296
 }
