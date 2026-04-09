@@ -1601,9 +1601,8 @@
       "fr": "216c",
       "code": "10940",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T02:16:37-06:00",
-      "manualOrder": 3
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T03:36:41-06:00"
     },
     {
       "id": 216,
@@ -2187,6 +2186,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T03:36:38-06:00",
+  "updatedAt": "2026-04-09T03:36:42-06:00",
   "total": 296
 }
