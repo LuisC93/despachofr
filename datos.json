@@ -2193,8 +2193,8 @@
       "fr": "282c",
       "code": "86430",
       "cajas": 1,
-      "status": "dispatched",
-      "dispatchedAt": "2026-04-09T07:18:00-06:00"
+      "status": "assigned",
+      "assignedAt": "2026-04-09T07:21:00-06:00"
     },
     {
       "id": 282,
@@ -2295,6 +2295,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T07:20:51-06:00",
+  "updatedAt": "2026-04-09T07:21:01-06:00",
   "total": 296
 }
