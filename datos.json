@@ -322,8 +322,8 @@
       "fr": "41c",
       "code": "10101",
       "cajas": 4,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T06:40:44-06:00"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T07:03:40-06:00"
     },
     {
       "id": 41,
@@ -1956,8 +1956,8 @@
       "fr": "251c",
       "code": "76071",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T06:41:06-06:00"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T07:03:41-06:00"
     },
     {
       "id": 251,
@@ -2282,6 +2282,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T07:03:40-06:00",
+  "updatedAt": "2026-04-09T07:03:41-06:00",
   "total": 296
 }
