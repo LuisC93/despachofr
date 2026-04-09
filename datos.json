@@ -1687,8 +1687,8 @@
       "fr": "213c",
       "code": "14827",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T08:21:48-06:00"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T08:33:40-06:00"
     },
     {
       "id": 213,
@@ -2311,6 +2311,6 @@
       "dispatchedAt": "2026-04-09T07:55:45-06:00"
     }
   ],
-  "updatedAt": "2026-04-09T08:33:13-06:00",
+  "updatedAt": "2026-04-09T08:33:40-06:00",
   "total": 296
 }
