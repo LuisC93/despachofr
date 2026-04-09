@@ -183,9 +183,8 @@
       "fr": "22c",
       "code": "10770",
       "cajas": 3,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T03:19:59-06:00",
-      "manualOrder": 13
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T05:31:19-06:00"
     },
     {
       "id": 22,
@@ -2295,6 +2294,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T05:31:18-06:00",
+  "updatedAt": "2026-04-09T05:31:20-06:00",
   "total": 296
 }
