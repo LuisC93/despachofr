@@ -650,9 +650,8 @@
       "fr": "82c",
       "code": "60070",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T07:05:57-06:00",
-      "manualOrder": 1
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T07:17:20-06:00"
     },
     {
       "id": 82,
@@ -2297,6 +2296,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T07:10:46-06:00",
+  "updatedAt": "2026-04-09T07:17:20-06:00",
   "total": 296
 }
