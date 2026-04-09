@@ -1042,8 +1042,8 @@
       "fr": "131c",
       "code": "10072",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T08:18:28-06:00"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T08:26:12-06:00"
     },
     {
       "id": 131,
@@ -2307,6 +2307,6 @@
       "dispatchedAt": "2026-04-09T07:55:45-06:00"
     }
   ],
-  "updatedAt": "2026-04-09T08:25:09-06:00",
+  "updatedAt": "2026-04-09T08:26:12-06:00",
   "total": 296
 }
