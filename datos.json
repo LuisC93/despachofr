@@ -1787,8 +1787,8 @@
       "fr": "225c",
       "code": "76025",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T09:21:16-06:00"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T09:28:21-06:00"
     },
     {
       "id": 225,
@@ -2338,6 +2338,6 @@
       "dispatchedAt": "2026-04-09T07:55:45-06:00"
     }
   ],
-  "updatedAt": "2026-04-09T09:26:09-06:00",
+  "updatedAt": "2026-04-09T09:28:21-06:00",
   "total": 296
 }
