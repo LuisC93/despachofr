@@ -1108,9 +1108,8 @@
       "fr": "143c",
       "code": "10812",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T04:08:38-06:00",
-      "manualOrder": 64
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T05:39:29-06:00"
     },
     {
       "id": 143,
@@ -2242,6 +2241,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T05:39:01-06:00",
+  "updatedAt": "2026-04-09T05:39:29-06:00",
   "total": 296
 }
