@@ -4,148 +4,127 @@
       "id": 0,
       "fr": "1c",
       "code": "60171",
-      "status": "assigned",
-      "assignedAt": "2026-04-09T00:53:03-06:00"
+      "status": "ready"
     },
     {
       "id": 1,
       "fr": "2c",
       "code": "10031",
-      "status": "assigned",
-      "assignedAt": "2026-04-09T00:53:04-06:00"
+      "status": "ready"
     },
     {
       "id": 2,
       "fr": "3c",
       "code": "10033",
-      "status": "assigned",
-      "assignedAt": "2026-04-09T00:53:06-06:00"
+      "status": "ready"
     },
     {
       "id": 3,
       "fr": "4c",
       "code": "10002",
-      "status": "assigned",
-      "assignedAt": "2026-04-09T01:05:23-06:00"
+      "status": "ready"
     },
     {
       "id": 4,
       "fr": "5c",
       "code": "88001",
-      "status": "assigned",
-      "assignedAt": "2026-04-09T01:05:24-06:00"
+      "status": "ready"
     },
     {
       "id": 5,
       "fr": "6c",
       "code": "10004",
-      "status": "assigned",
-      "assignedAt": "2026-04-09T01:05:24-06:00"
+      "status": "ready"
     },
     {
       "id": 6,
       "fr": "7c",
       "code": "10023",
-      "status": "assigned",
-      "assignedAt": "2026-04-09T01:05:24-06:00"
+      "status": "ready"
     },
     {
       "id": 7,
       "fr": "8c",
       "code": "10037",
-      "status": "assigned",
-      "assignedAt": "2026-04-09T01:05:24-06:00"
+      "status": "ready"
     },
     {
       "id": 8,
       "fr": "9c",
       "code": "10013",
-      "status": "assigned",
-      "assignedAt": "2026-04-09T01:05:24-06:00"
+      "status": "ready"
     },
     {
       "id": 9,
       "fr": "10c",
       "code": "10015",
-      "status": "assigned",
-      "assignedAt": "2026-04-09T01:05:25-06:00"
+      "status": "ready"
     },
     {
       "id": 10,
       "fr": "11c",
       "code": "88003",
-      "status": "assigned",
-      "assignedAt": "2026-04-09T01:05:26-06:00"
+      "status": "ready"
     },
     {
       "id": 11,
       "fr": "12c",
       "code": "10047",
-      "status": "assigned",
-      "assignedAt": "2026-04-09T01:05:26-06:00"
+      "status": "ready"
     },
     {
       "id": 12,
       "fr": "13c",
       "code": "13596",
-      "status": "assigned",
-      "assignedAt": "2026-04-09T01:05:26-06:00"
+      "status": "ready"
     },
     {
       "id": 13,
       "fr": "14c",
       "code": "11000",
-      "status": "assigned",
-      "assignedAt": "2026-04-09T01:05:26-06:00"
+      "status": "ready"
     },
     {
       "id": 14,
       "fr": "15c",
       "code": "10061",
-      "status": "assigned",
-      "assignedAt": "2026-04-09T01:05:29-06:00"
+      "status": "ready"
     },
     {
       "id": 15,
       "fr": "16c",
       "code": "88006",
-      "status": "assigned",
-      "assignedAt": "2026-04-09T01:05:29-06:00"
+      "status": "ready"
     },
     {
       "id": 16,
       "fr": "17c",
       "code": "10077",
-      "status": "assigned",
-      "assignedAt": "2026-04-09T01:05:29-06:00"
+      "status": "ready"
     },
     {
       "id": 17,
       "fr": "18c",
       "code": "10062",
-      "status": "assigned",
-      "assignedAt": "2026-04-09T01:05:30-06:00"
+      "status": "ready"
     },
     {
       "id": 18,
       "fr": "19c",
       "code": "88005",
-      "status": "assigned",
-      "assignedAt": "2026-04-09T01:05:30-06:00"
+      "status": "ready"
     },
     {
       "id": 19,
       "fr": "20c",
       "code": "14850",
-      "status": "assigned",
-      "assignedAt": "2026-04-09T01:05:30-06:00"
+      "status": "ready"
     },
     {
       "id": 20,
       "fr": "21c",
       "code": "66010",
-      "status": "assigned",
-      "assignedAt": "2026-04-09T01:05:30-06:00"
+      "status": "ready"
     },
     {
       "id": 21,
@@ -1807,6 +1786,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T01:05:37-06:00",
+  "updatedAt": "2026-04-09T01:10:23-06:00",
   "total": 296
 }
