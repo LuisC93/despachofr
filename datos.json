@@ -765,7 +765,8 @@
       "fr": "107c",
       "code": "12259",
       "cajas": 1,
-      "status": "ready"
+      "status": "assigned",
+      "assignedAt": "2026-04-09T03:04:57-06:00"
     },
     {
       "id": 107,
@@ -2149,6 +2150,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T03:04:41-06:00",
+  "updatedAt": "2026-04-09T03:04:58-06:00",
   "total": 296
 }
