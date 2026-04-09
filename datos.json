@@ -637,7 +637,8 @@
       "fr": "87c",
       "code": "86247",
       "cajas": 2,
-      "status": "ready"
+      "status": "assigned",
+      "assignedAt": "2026-04-09T03:24:48-06:00"
     },
     {
       "id": 87,
@@ -2173,6 +2174,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T03:24:03-06:00",
+  "updatedAt": "2026-04-09T03:24:48-06:00",
   "total": 296
 }
