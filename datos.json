@@ -2122,8 +2122,8 @@
       "fr": "269c",
       "code": "72052",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T09:05:15-06:00"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T09:12:48-06:00"
     },
     {
       "id": 269,
@@ -2331,6 +2331,6 @@
       "dispatchedAt": "2026-04-09T07:55:45-06:00"
     }
   ],
-  "updatedAt": "2026-04-09T09:10:49-06:00",
+  "updatedAt": "2026-04-09T09:12:48-06:00",
   "total": 296
 }
