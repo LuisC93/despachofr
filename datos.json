@@ -351,9 +351,8 @@
       "fr": "43c",
       "code": "12156",
       "cajas": 5,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T02:52:29-06:00",
-      "manualOrder": 0
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T05:30:54-06:00"
     },
     {
       "id": 43,
@@ -2307,6 +2306,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T05:29:33-06:00",
+  "updatedAt": "2026-04-09T05:30:55-06:00",
   "total": 296
 }
