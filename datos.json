@@ -1095,9 +1095,8 @@
       "fr": "139c",
       "code": "66021",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T03:51:37-06:00",
-      "manualOrder": 44
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T05:33:10-06:00"
     },
     {
       "id": 139,
@@ -2264,6 +2263,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T05:33:08-06:00",
+  "updatedAt": "2026-04-09T05:33:10-06:00",
   "total": 296
 }
