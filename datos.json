@@ -657,9 +657,8 @@
       "fr": "81c",
       "code": "10146",
       "cajas": 6,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T03:10:11-06:00",
-      "manualOrder": 11
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T05:31:16-06:00"
     },
     {
       "id": 81,
@@ -2297,6 +2296,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T05:31:15-06:00",
+  "updatedAt": "2026-04-09T05:31:17-06:00",
   "total": 296
 }
