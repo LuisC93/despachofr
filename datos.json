@@ -979,9 +979,8 @@
       "fr": "123c",
       "code": "66005",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T03:44:54-06:00",
-      "manualOrder": 32
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T05:32:32-06:00"
     },
     {
       "id": 123,
@@ -2276,6 +2275,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T05:32:30-06:00",
+  "updatedAt": "2026-04-09T05:32:32-06:00",
   "total": 296
 }
