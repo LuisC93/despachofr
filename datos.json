@@ -2293,9 +2293,10 @@
       "fr": "296c",
       "code": "66016",
       "cajas": 1,
-      "status": "ready"
+      "status": "assigned",
+      "assignedAt": "2026-04-09T07:55:28-06:00"
     }
   ],
-  "updatedAt": "2026-04-09T07:47:05-06:00",
+  "updatedAt": "2026-04-09T07:55:28-06:00",
   "total": 296
 }
