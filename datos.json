@@ -18,8 +18,9 @@
       "id": 2,
       "fr": "3c",
       "code": "10033",
-      "status": "assigned",
-      "assignedAt": "2026-04-09T00:53:06-06:00"
+      "status": "dispatched",
+      "assignedAt": "2026-04-09T00:53:06-06:00",
+      "dispatchedAt": "2026-04-09T00:54:42-06:00"
     },
     {
       "id": 3,
@@ -1780,6 +1781,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T00:53:08-06:00",
+  "updatedAt": "2026-04-09T00:54:43-06:00",
   "total": 296
 }
