@@ -100,19 +100,19 @@
       "id": 16,
       "fr": "17C",
       "code": "10077",
-      "status": "assigned"
+      "status": "ready"
     },
     {
       "id": 17,
       "fr": "18C",
       "code": "10062",
-      "status": "assigned"
+      "status": "ready"
     },
     {
       "id": 18,
       "fr": "19C",
       "code": "88005",
-      "status": "assigned"
+      "status": "ready"
     },
     {
       "id": 19,
@@ -1777,6 +1777,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T23:07:10-06:00",
+  "updatedAt": "2026-04-08T23:07:15-06:00",
   "total": 296
 }
