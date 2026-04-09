@@ -1947,7 +1947,8 @@
       "fr": "278c",
       "code": "10981",
       "cajas": 1,
-      "status": "ready"
+      "status": "assigned",
+      "assignedAt": "2026-04-09T02:08:49-06:00"
     },
     {
       "id": 278,
@@ -2077,6 +2078,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T02:08:33-06:00",
+  "updatedAt": "2026-04-09T02:08:49-06:00",
   "total": 296
 }
