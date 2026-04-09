@@ -2279,8 +2279,8 @@
       "fr": "286c",
       "code": "86266",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T10:04:29-06:00"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T10:17:36-06:00"
     },
     {
       "id": 286,
@@ -2363,6 +2363,6 @@
       "dispatchedAt": "2026-04-09T07:55:45-06:00"
     }
   ],
-  "updatedAt": "2026-04-09T10:17:35-06:00",
+  "updatedAt": "2026-04-09T10:17:36-06:00",
   "total": 296
 }
