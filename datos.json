@@ -874,9 +874,8 @@
       "fr": "118c",
       "code": "10761",
       "cajas": 12,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T02:32:34-06:00",
-      "manualOrder": 20
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T03:38:03-06:00"
     },
     {
       "id": 118,
@@ -2180,6 +2179,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T03:37:38-06:00",
+  "updatedAt": "2026-04-09T03:38:03-06:00",
   "total": 296
 }
