@@ -60,7 +60,8 @@
       "fr": "8c",
       "code": "10037",
       "cajas": 13,
-      "status": "ready"
+      "status": "assigned",
+      "assignedAt": "2026-04-09T05:48:53-06:00"
     },
     {
       "id": 8,
@@ -2242,6 +2243,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T05:48:50-06:00",
+  "updatedAt": "2026-04-09T05:48:54-06:00",
   "total": 296
 }
