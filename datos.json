@@ -581,9 +581,8 @@
       "fr": "72c",
       "code": "11838",
       "cajas": 30,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T03:07:15-06:00",
-      "manualOrder": 8
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T05:31:09-06:00"
     },
     {
       "id": 72,
@@ -2300,6 +2299,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T05:31:09-06:00",
+  "updatedAt": "2026-04-09T05:31:10-06:00",
   "total": 296
 }
