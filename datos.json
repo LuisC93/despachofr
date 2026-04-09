@@ -213,8 +213,8 @@
       "fr": "29c",
       "code": "76064",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T03:03:28-06:00"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T03:43:58-06:00"
     },
     {
       "id": 29,
@@ -2173,6 +2173,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T03:43:19-06:00",
+  "updatedAt": "2026-04-09T03:43:59-06:00",
   "total": 296
 }
