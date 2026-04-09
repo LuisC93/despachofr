@@ -1697,9 +1697,8 @@
       "fr": "236c",
       "code": "66138",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T02:17:24-06:00",
-      "manualOrder": 4
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T02:40:23-06:00"
     },
     {
       "id": 236,
@@ -2134,6 +2133,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T02:40:00-06:00",
+  "updatedAt": "2026-04-09T02:40:23-06:00",
   "total": 296
 }
