@@ -94,7 +94,7 @@
       "id": 15,
       "fr": "16c",
       "code": "88006",
-      "status": "ready"
+      "status": "assigned"
     },
     {
       "id": 16,
@@ -1777,6 +1777,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T23:30:30-06:00",
+  "updatedAt": "2026-04-08T23:30:42-06:00",
   "total": 296
 }
