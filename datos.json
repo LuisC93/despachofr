@@ -1568,9 +1568,8 @@
       "fr": "219c",
       "code": "60141",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T02:27:50-06:00",
-      "manualOrder": 11
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T02:44:35-06:00"
     },
     {
       "id": 219,
@@ -2127,6 +2126,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T02:44:18-06:00",
+  "updatedAt": "2026-04-09T02:44:36-06:00",
   "total": 296
 }
