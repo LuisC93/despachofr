@@ -1358,8 +1358,8 @@
       "fr": "173c",
       "code": "12138",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T06:35:22-06:00"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T06:56:57-06:00"
     },
     {
       "id": 173,
@@ -2282,6 +2282,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T06:56:06-06:00",
+  "updatedAt": "2026-04-09T06:56:57-06:00",
   "total": 296
 }
