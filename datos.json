@@ -1916,8 +1916,8 @@
       "fr": "246c",
       "code": "10977",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T06:12:36-06:00"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T06:49:16-06:00"
     },
     {
       "id": 246,
@@ -2280,6 +2280,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T06:48:32-06:00",
+  "updatedAt": "2026-04-09T06:49:17-06:00",
   "total": 296
 }
