@@ -1447,8 +1447,8 @@
       "fr": "183c",
       "code": "10116",
       "cajas": 3,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T08:28:36-06:00"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T08:32:31-06:00"
     },
     {
       "id": 183,
@@ -2310,6 +2310,6 @@
       "dispatchedAt": "2026-04-09T07:55:45-06:00"
     }
   ],
-  "updatedAt": "2026-04-09T08:31:29-06:00",
+  "updatedAt": "2026-04-09T08:32:31-06:00",
   "total": 296
 }
