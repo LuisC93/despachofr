@@ -1253,8 +1253,8 @@
       "fr": "160c",
       "code": "86262",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T06:27:59-06:00"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T06:34:16-06:00"
     },
     {
       "id": 160,
@@ -2267,6 +2267,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T06:33:43-06:00",
+  "updatedAt": "2026-04-09T06:34:16-06:00",
   "total": 296
 }
