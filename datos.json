@@ -1403,7 +1403,8 @@
       "fr": "200c",
       "code": "66102",
       "cajas": 1,
-      "status": "ready"
+      "status": "assigned",
+      "assignedAt": "2026-04-09T02:27:07-06:00"
     },
     {
       "id": 200,
@@ -2088,6 +2089,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T02:25:48-06:00",
+  "updatedAt": "2026-04-09T02:27:08-06:00",
   "total": 296
 }
