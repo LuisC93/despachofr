@@ -321,7 +321,8 @@
       "fr": "41c",
       "code": "10101",
       "cajas": 4,
-      "status": "ready"
+      "status": "assigned",
+      "assignedAt": "2026-04-09T06:40:44-06:00"
     },
     {
       "id": 41,
@@ -2271,6 +2272,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T06:38:00-06:00",
+  "updatedAt": "2026-04-09T06:40:44-06:00",
   "total": 296
 }
