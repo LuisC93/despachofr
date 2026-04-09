@@ -2104,8 +2104,8 @@
       "fr": "264c",
       "code": "60232",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T10:05:05-06:00"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T10:17:38-06:00"
     },
     {
       "id": 264,
@@ -2363,6 +2363,6 @@
       "dispatchedAt": "2026-04-09T07:55:45-06:00"
     }
   ],
-  "updatedAt": "2026-04-09T10:17:37-06:00",
+  "updatedAt": "2026-04-09T10:17:39-06:00",
   "total": 296
 }
