@@ -4,115 +4,115 @@
       "id": 0,
       "fr": "1C",
       "code": "60171",
-      "status": "ready"
+      "status": "assigned"
     },
     {
       "id": 1,
       "fr": "2C",
       "code": "10031",
-      "status": "ready"
+      "status": "assigned"
     },
     {
       "id": 2,
       "fr": "3C",
       "code": "10033",
-      "status": "ready"
+      "status": "assigned"
     },
     {
       "id": 3,
       "fr": "4C",
       "code": "10002",
-      "status": "ready"
+      "status": "assigned"
     },
     {
       "id": 4,
       "fr": "5C",
       "code": "88001",
-      "status": "ready"
+      "status": "assigned"
     },
     {
       "id": 5,
       "fr": "6C",
       "code": "10004",
-      "status": "ready"
+      "status": "assigned"
     },
     {
       "id": 6,
       "fr": "7C",
       "code": "10023",
-      "status": "ready"
+      "status": "assigned"
     },
     {
       "id": 7,
       "fr": "8C",
       "code": "10037",
-      "status": "ready"
+      "status": "assigned"
     },
     {
       "id": 8,
       "fr": "9C",
       "code": "10013",
-      "status": "ready"
+      "status": "assigned"
     },
     {
       "id": 9,
       "fr": "10C",
       "code": "10015",
-      "status": "ready"
+      "status": "assigned"
     },
     {
       "id": 10,
       "fr": "11C",
       "code": "88003",
-      "status": "ready"
+      "status": "assigned"
     },
     {
       "id": 11,
       "fr": "12C",
       "code": "10047",
-      "status": "ready"
+      "status": "assigned"
     },
     {
       "id": 12,
       "fr": "13C",
       "code": "13596",
-      "status": "ready"
+      "status": "assigned"
     },
     {
       "id": 13,
       "fr": "14C",
       "code": "11000",
-      "status": "ready"
+      "status": "assigned"
     },
     {
       "id": 14,
       "fr": "15C",
       "code": "10061",
-      "status": "ready"
+      "status": "assigned"
     },
     {
       "id": 15,
       "fr": "16C",
       "code": "88006",
-      "status": "ready"
+      "status": "assigned"
     },
     {
       "id": 16,
       "fr": "17C",
       "code": "10077",
-      "status": "ready"
+      "status": "assigned"
     },
     {
       "id": 17,
       "fr": "18C",
       "code": "10062",
-      "status": "ready"
+      "status": "assigned"
     },
     {
       "id": 18,
       "fr": "19C",
       "code": "88005",
-      "status": "ready"
+      "status": "assigned"
     },
     {
       "id": 19,
@@ -1777,6 +1777,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T22:24:16-06:00",
+  "updatedAt": "2026-04-08T22:43:29-06:00",
   "total": 296
 }
