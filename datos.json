@@ -394,7 +394,8 @@
       "fr": "48c",
       "code": "10707",
       "cajas": 13,
-      "status": "ready"
+      "status": "assigned",
+      "assignedAt": "2026-04-09T04:41:06-06:00"
     },
     {
       "id": 48,
@@ -2299,6 +2300,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T04:38:00-06:00",
+  "updatedAt": "2026-04-09T04:41:06-06:00",
   "total": 296
 }
