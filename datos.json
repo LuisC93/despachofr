@@ -522,8 +522,8 @@
       "fr": "66c",
       "code": "66106",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T07:41:25-06:00"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T07:47:05-06:00"
     },
     {
       "id": 66,
@@ -2296,6 +2296,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T07:42:24-06:00",
+  "updatedAt": "2026-04-09T07:47:05-06:00",
   "total": 296
 }
