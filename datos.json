@@ -2143,8 +2143,8 @@
       "fr": "271c",
       "code": "60168",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T09:21:01-06:00"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T09:25:58-06:00"
     },
     {
       "id": 271,
@@ -2338,6 +2338,6 @@
       "dispatchedAt": "2026-04-09T07:55:45-06:00"
     }
   ],
-  "updatedAt": "2026-04-09T09:25:24-06:00",
+  "updatedAt": "2026-04-09T09:25:59-06:00",
   "total": 296
 }
