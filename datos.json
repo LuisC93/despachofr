@@ -2002,8 +2002,8 @@
       "fr": "252c",
       "code": "12219",
       "cajas": 6,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T09:33:51-06:00"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T09:34:51-06:00"
     },
     {
       "id": 252,
@@ -2341,6 +2341,6 @@
       "dispatchedAt": "2026-04-09T07:55:45-06:00"
     }
   ],
-  "updatedAt": "2026-04-09T09:33:51-06:00",
+  "updatedAt": "2026-04-09T09:34:51-06:00",
   "total": 296
 }
