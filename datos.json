@@ -408,9 +408,8 @@
       "fr": "50c",
       "code": "10869",
       "cajas": 3,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T02:55:25-06:00",
-      "manualOrder": 1
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T05:30:56-06:00"
     },
     {
       "id": 50,
@@ -2306,6 +2305,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T05:30:55-06:00",
+  "updatedAt": "2026-04-09T05:30:57-06:00",
   "total": 296
 }
