@@ -1503,7 +1503,8 @@
       "fr": "210c",
       "code": "66116",
       "cajas": 1,
-      "status": "ready"
+      "status": "assigned",
+      "assignedAt": "2026-04-09T02:55:18-06:00"
     },
     {
       "id": 210,
@@ -2128,6 +2129,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T02:55:10-06:00",
+  "updatedAt": "2026-04-09T02:55:18-06:00",
   "total": 296
 }
