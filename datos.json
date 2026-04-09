@@ -1628,7 +1628,8 @@
       "fr": "232c",
       "code": "10960",
       "cajas": 1,
-      "status": "ready"
+      "status": "assigned",
+      "assignedAt": "2026-04-09T02:20:06-06:00"
     },
     {
       "id": 232,
@@ -2085,6 +2086,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T02:19:12-06:00",
+  "updatedAt": "2026-04-09T02:20:07-06:00",
   "total": 296
 }
