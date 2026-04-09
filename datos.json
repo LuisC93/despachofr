@@ -1361,9 +1361,8 @@
       "fr": "192c",
       "code": "10881",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T02:19:11-06:00",
-      "manualOrder": 6
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T02:41:45-06:00"
     },
     {
       "id": 192,
@@ -2135,6 +2134,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T02:41:22-06:00",
+  "updatedAt": "2026-04-09T02:41:45-06:00",
   "total": 296
 }
