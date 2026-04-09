@@ -1773,9 +1773,7 @@
       "fr": "223c",
       "code": "12203",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T04:29:51-06:00",
-      "manualOrder": 79
+      "status": "ready"
     },
     {
       "id": 223,
@@ -2301,6 +2299,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T04:35:53-06:00",
+  "updatedAt": "2026-04-09T04:37:17-06:00",
   "total": 296
 }
