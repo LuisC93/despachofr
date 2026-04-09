@@ -133,7 +133,8 @@
       "fr": "19c",
       "code": "88005",
       "cajas": 7,
-      "status": "ready"
+      "status": "assigned",
+      "assignedAt": "2026-04-09T03:00:12-06:00"
     },
     {
       "id": 19,
@@ -2138,6 +2139,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T03:00:05-06:00",
+  "updatedAt": "2026-04-09T03:00:13-06:00",
   "total": 296
 }
