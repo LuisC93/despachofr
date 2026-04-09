@@ -907,9 +907,8 @@
       "fr": "111c",
       "code": "60096",
       "cajas": 18,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T04:21:23-06:00",
-      "manualOrder": 77
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T05:29:22-06:00"
     },
     {
       "id": 111,
@@ -2310,6 +2309,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T05:28:52-06:00",
+  "updatedAt": "2026-04-09T05:29:22-06:00",
   "total": 296
 }
