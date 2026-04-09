@@ -1427,7 +1427,7 @@
       "cajas": 1,
       "status": "assigned",
       "assignedAt": "2026-04-09T02:27:07-06:00",
-      "manualOrder": 9
+      "manualOrder": 10
     },
     {
       "id": 200,
@@ -1590,7 +1590,7 @@
       "cajas": 1,
       "status": "assigned",
       "assignedAt": "2026-04-09T02:27:24-06:00",
-      "manualOrder": 10
+      "manualOrder": 9
     },
     {
       "id": 221,
@@ -2135,6 +2135,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T02:39:39-06:00",
+  "updatedAt": "2026-04-09T02:39:41-06:00",
   "total": 296
 }
