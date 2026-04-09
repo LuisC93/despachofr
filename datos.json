@@ -1198,9 +1198,8 @@
       "fr": "151c",
       "code": "66009",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T03:49:41-06:00",
-      "manualOrder": 41
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T05:33:04-06:00"
     },
     {
       "id": 151,
@@ -2267,6 +2266,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T05:33:03-06:00",
+  "updatedAt": "2026-04-09T05:33:05-06:00",
   "total": 296
 }
