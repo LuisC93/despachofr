@@ -720,8 +720,8 @@
       "fr": "91c",
       "code": "11849",
       "cajas": 12,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T07:09:25-06:00"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T07:29:50-06:00"
     },
     {
       "id": 91,
@@ -2293,6 +2293,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T07:29:29-06:00",
+  "updatedAt": "2026-04-09T07:29:51-06:00",
   "total": 296
 }
