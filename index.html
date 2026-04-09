@@ -421,7 +421,8 @@ function parseFile(file){
           fr: String(r[frKey]).trim(), 
           code, 
           status: p.status || 'ready',
-          dispatchedAt: p.dispatchedAt 
+          dispatchedAt: p.dispatchedAt,
+          assignedAt: p.assignedAt
         };
       });
       showBoard(true); render(); schedulePush(); showToast(`✓ Excel cargado`);
@@ -450,6 +451,12 @@ function render() {
   });
 
   renderCol('body-ready', cols.ready, 'ready');
+  // Ordenar asignados por hora de asignación (primero asignado = primero mostrado)
+  cols.assigned.sort((a, b) => {
+    if(!a.assignedAt) return 1;
+    if(!b.assignedAt) return -1;
+    return new Date(a.assignedAt) - new Date(b.assignedAt);
+  });
   renderCol('body-assigned', cols.assigned, 'assigned');
   renderCol('body-dispatched', cols.dispatched, 'dispatched');
 
@@ -480,6 +487,16 @@ function renderCol(bodyId, items, status) {
         const tz = new Date(utc - (3600000 * 6));
         const pad = n => String(n).padStart(2, '0');
         timeStr = `<div class="card-time">✓ ${pad(tz.getDate())}/${pad(tz.getMonth()+1)} ${pad(tz.getHours())}:${pad(tz.getMinutes())}</div>`;
+      }
+    }
+    // Mostrar hora de asignación en UTC-6
+    if(status === 'assigned' && item.assignedAt) {
+      const d = new Date(item.assignedAt);
+      if(!isNaN(d)) {
+        const utc = d.getTime() + (d.getTimezoneOffset() * 60000);
+        const tz = new Date(utc - (3600000 * 6));
+        const pad = n => String(n).padStart(2, '0');
+        timeStr = `<div class="card-time" style="color:var(--c-assigned)">→ ${pad(tz.getDate())}/${pad(tz.getMonth()+1)} ${pad(tz.getHours())}:${pad(tz.getMinutes())}</div>`;
       }
     }
 
@@ -536,6 +553,12 @@ function moveItem(id, s){
       item.dispatchedAt = getUTC6Info().iso; // Guarda tiempo UTC-6 exacto
     } else {
       delete item.dispatchedAt;
+    }
+
+    if(s === 'assigned') {
+      if(!item.assignedAt) item.assignedAt = getUTC6Info().iso; // Guarda hora de asignación UTC-6
+    } else {
+      delete item.assignedAt;
     }
 
     render(); schedulePush(); 
