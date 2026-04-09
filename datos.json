@@ -44,9 +44,8 @@
       "fr": "6c",
       "code": "10004",
       "cajas": 23,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T04:09:27-06:00",
-      "manualOrder": 65
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T05:38:58-06:00"
     },
     {
       "id": 6,
@@ -2244,6 +2243,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T05:38:49-06:00",
+  "updatedAt": "2026-04-09T05:38:58-06:00",
   "total": 296
 }
