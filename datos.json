@@ -1175,8 +1175,7 @@
       "fr": "166c",
       "code": "10831",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T02:53:57-06:00"
+      "status": "ready"
     },
     {
       "id": 166,
@@ -2128,6 +2127,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T02:54:36-06:00",
+  "updatedAt": "2026-04-09T02:54:48-06:00",
   "total": 296
 }
