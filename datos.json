@@ -1390,8 +1390,8 @@
       "fr": "175c",
       "code": "12158",
       "cajas": 5,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T09:05:28-06:00"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T09:12:50-06:00"
     },
     {
       "id": 175,
@@ -2331,6 +2331,6 @@
       "dispatchedAt": "2026-04-09T07:55:45-06:00"
     }
   ],
-  "updatedAt": "2026-04-09T09:12:48-06:00",
+  "updatedAt": "2026-04-09T09:12:51-06:00",
   "total": 296
 }
