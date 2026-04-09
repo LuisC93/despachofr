@@ -125,9 +125,8 @@
       "fr": "16c",
       "code": "88006",
       "cajas": 20,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T04:04:37-06:00",
-      "manualOrder": 59
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T05:38:39-06:00"
     },
     {
       "id": 16,
@@ -2247,6 +2246,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T05:38:38-06:00",
+  "updatedAt": "2026-04-09T05:38:39-06:00",
   "total": 296
 }
