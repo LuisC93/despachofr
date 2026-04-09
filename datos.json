@@ -1214,7 +1214,8 @@
       "fr": "153c",
       "code": "86147",
       "cajas": 1,
-      "status": "ready"
+      "status": "assigned",
+      "assignedAt": "2026-04-09T07:08:31-06:00"
     },
     {
       "id": 153,
@@ -2296,6 +2297,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T07:08:17-06:00",
+  "updatedAt": "2026-04-09T07:08:31-06:00",
   "total": 296
 }
