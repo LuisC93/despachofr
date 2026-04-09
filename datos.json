@@ -163,9 +163,8 @@
       "fr": "19c",
       "code": "88005",
       "cajas": 7,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T03:00:12-06:00",
-      "manualOrder": 5
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T04:56:04-06:00"
     },
     {
       "id": 19,
@@ -2301,6 +2300,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T04:46:12-06:00",
+  "updatedAt": "2026-04-09T04:56:04-06:00",
   "total": 296
 }
