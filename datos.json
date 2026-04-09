@@ -585,9 +585,8 @@
       "fr": "73c",
       "code": "60258",
       "cajas": 5,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T03:23:07-06:00",
-      "manualOrder": 17
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T05:31:30-06:00"
     },
     {
       "id": 73,
@@ -2291,6 +2290,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T05:31:28-06:00",
+  "updatedAt": "2026-04-09T05:31:31-06:00",
   "total": 296
 }
