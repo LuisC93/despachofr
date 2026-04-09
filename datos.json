@@ -854,7 +854,8 @@
       "fr": "120c",
       "code": "10764",
       "cajas": 1,
-      "status": "ready"
+      "status": "assigned",
+      "assignedAt": "2026-04-09T02:59:35-06:00"
     },
     {
       "id": 120,
@@ -2134,6 +2135,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T02:59:19-06:00",
+  "updatedAt": "2026-04-09T02:59:36-06:00",
   "total": 296
 }
