@@ -58,7 +58,7 @@
       "cajas": 15,
       "status": "assigned",
       "assignedAt": "2026-04-09T04:13:21-06:00",
-      "manualOrder": 73
+      "manualOrder": 72
     },
     {
       "id": 7,
@@ -129,7 +129,7 @@
       "cajas": 24,
       "status": "assigned",
       "assignedAt": "2026-04-09T04:12:43-06:00",
-      "manualOrder": 72
+      "manualOrder": 71
     },
     {
       "id": 15,
@@ -775,7 +775,7 @@
       "cajas": 1,
       "status": "assigned",
       "assignedAt": "2026-04-09T04:13:02-06:00",
-      "manualOrder": 71
+      "manualOrder": 73
     },
     {
       "id": 95,
@@ -2299,6 +2299,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T04:37:56-06:00",
+  "updatedAt": "2026-04-09T04:38:00-06:00",
   "total": 296
 }
