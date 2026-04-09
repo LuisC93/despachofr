@@ -1920,8 +1920,8 @@
       "fr": "243c",
       "code": "60214",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T08:31:10-06:00"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T08:58:08-06:00"
     },
     {
       "id": 243,
@@ -2320,6 +2320,6 @@
       "dispatchedAt": "2026-04-09T07:55:45-06:00"
     }
   ],
-  "updatedAt": "2026-04-09T08:56:44-06:00",
+  "updatedAt": "2026-04-09T08:58:08-06:00",
   "total": 296
 }
