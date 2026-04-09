@@ -1620,8 +1620,8 @@
       "fr": "208c",
       "code": "66110",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T05:49:50-06:00"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T06:29:57-06:00"
     },
     {
       "id": 208,
@@ -2266,6 +2266,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T06:29:03-06:00",
+  "updatedAt": "2026-04-09T06:29:58-06:00",
   "total": 296
 }
