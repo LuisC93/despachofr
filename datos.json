@@ -2028,8 +2028,8 @@
       "fr": "255c",
       "code": "60169",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T09:40:53-06:00"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T09:44:57-06:00"
     },
     {
       "id": 255,
@@ -2348,6 +2348,6 @@
       "dispatchedAt": "2026-04-09T07:55:45-06:00"
     }
   ],
-  "updatedAt": "2026-04-09T09:41:50-06:00",
+  "updatedAt": "2026-04-09T09:44:58-06:00",
   "total": 296
 }
