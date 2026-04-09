@@ -1286,7 +1286,8 @@
       "fr": "184c",
       "code": "10855",
       "cajas": 12,
-      "status": "ready"
+      "status": "assigned",
+      "assignedAt": "2026-04-09T02:14:15-06:00"
     },
     {
       "id": 184,
@@ -2081,6 +2082,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T02:13:57-06:00",
+  "updatedAt": "2026-04-09T02:14:15-06:00",
   "total": 296
 }
