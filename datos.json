@@ -695,8 +695,8 @@
       "fr": "89c",
       "code": "10151",
       "cajas": 18,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T05:54:45-06:00"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T06:36:11-06:00"
     },
     {
       "id": 89,
@@ -2270,6 +2270,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T06:35:54-06:00",
+  "updatedAt": "2026-04-09T06:36:11-06:00",
   "total": 296
 }
