@@ -1496,9 +1496,8 @@
       "fr": "186c",
       "code": "60224",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T03:55:11-06:00",
-      "manualOrder": 49
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T05:28:52-06:00"
     },
     {
       "id": 186,
@@ -2311,6 +2310,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T05:25:46-06:00",
+  "updatedAt": "2026-04-09T05:28:52-06:00",
   "total": 296
 }
