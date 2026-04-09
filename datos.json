@@ -1971,8 +1971,8 @@
       "fr": "253c",
       "code": "12258",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T06:44:22-06:00"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T06:58:52-06:00"
     },
     {
       "id": 253,
@@ -2282,6 +2282,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T06:58:30-06:00",
+  "updatedAt": "2026-04-09T06:58:53-06:00",
   "total": 296
 }
