@@ -1123,7 +1123,8 @@
       "fr": "150c",
       "code": "66007",
       "cajas": 1,
-      "status": "ready"
+      "status": "assigned",
+      "assignedAt": "2026-04-09T03:54:09-06:00"
     },
     {
       "id": 150,
@@ -2189,6 +2190,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T03:53:26-06:00",
+  "updatedAt": "2026-04-09T03:54:10-06:00",
   "total": 296
 }
