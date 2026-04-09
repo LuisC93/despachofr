@@ -1604,8 +1604,8 @@
       "fr": "201c",
       "code": "66099",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T10:23:42-06:00"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T10:23:45-06:00"
     },
     {
       "id": 201,
@@ -2366,6 +2366,6 @@
       "dispatchedAt": "2026-04-09T07:55:45-06:00"
     }
   ],
-  "updatedAt": "2026-04-09T10:23:42-06:00",
+  "updatedAt": "2026-04-09T10:23:46-06:00",
   "total": 296
 }
