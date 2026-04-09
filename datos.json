@@ -1413,8 +1413,8 @@
       "fr": "178c",
       "code": "76018",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T08:41:14-06:00"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T08:55:20-06:00"
     },
     {
       "id": 178,
@@ -2320,6 +2320,6 @@
       "dispatchedAt": "2026-04-09T07:55:45-06:00"
     }
   ],
-  "updatedAt": "2026-04-09T08:54:51-06:00",
+  "updatedAt": "2026-04-09T08:55:20-06:00",
   "total": 296
 }
