@@ -2082,8 +2082,8 @@
       "fr": "275c",
       "code": "66070",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T04:46:12-06:00"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T05:40:09-06:00"
     },
     {
       "id": 275,
@@ -2237,6 +2237,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T05:40:07-06:00",
+  "updatedAt": "2026-04-09T05:40:09-06:00",
   "total": 296
 }
