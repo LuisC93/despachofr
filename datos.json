@@ -409,8 +409,8 @@
       "fr": "52c",
       "code": "66053",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T07:08:16-06:00"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T07:29:28-06:00"
     },
     {
       "id": 52,
@@ -2293,6 +2293,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T07:27:18-06:00",
+  "updatedAt": "2026-04-09T07:29:29-06:00",
   "total": 296
 }
