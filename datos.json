@@ -1448,8 +1448,8 @@
       "fr": "187c",
       "code": "10860",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T05:16:31-06:00"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T06:09:55-06:00"
     },
     {
       "id": 187,
@@ -2257,6 +2257,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T06:09:54-06:00",
+  "updatedAt": "2026-04-09T06:09:56-06:00",
   "total": 296
 }
