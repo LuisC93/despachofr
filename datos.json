@@ -1774,9 +1774,8 @@
       "fr": "240c",
       "code": "10968",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T02:37:18-06:00",
-      "manualOrder": 24
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T03:38:08-06:00"
     },
     {
       "id": 240,
@@ -2178,6 +2177,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T03:38:06-06:00",
+  "updatedAt": "2026-04-09T03:38:09-06:00",
   "total": 296
 }
