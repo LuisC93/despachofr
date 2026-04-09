@@ -23,7 +23,8 @@
       "id": 3,
       "fr": "4c",
       "code": "10002",
-      "status": "ready"
+      "status": "assigned",
+      "assignedAt": "2026-04-08T23:56:31-06:00"
     },
     {
       "id": 4,
@@ -1779,6 +1780,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-08T23:56:31-06:00",
+  "updatedAt": "2026-04-08T23:56:33-06:00",
   "total": 296
 }
