@@ -1001,8 +1001,8 @@
       "fr": "126c",
       "code": "10056",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T08:17:45-06:00"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T08:23:03-06:00"
     },
     {
       "id": 126,
@@ -2306,6 +2306,6 @@
       "dispatchedAt": "2026-04-09T07:55:45-06:00"
     }
   ],
-  "updatedAt": "2026-04-09T08:22:13-06:00",
+  "updatedAt": "2026-04-09T08:23:03-06:00",
   "total": 296
 }
