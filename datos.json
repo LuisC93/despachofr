@@ -896,7 +896,8 @@
       "fr": "128c",
       "code": "66006",
       "cajas": 1,
-      "status": "ready"
+      "status": "assigned",
+      "assignedAt": "2026-04-09T02:32:15-06:00"
     },
     {
       "id": 128,
@@ -2098,6 +2099,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T02:31:17-06:00",
+  "updatedAt": "2026-04-09T02:32:15-06:00",
   "total": 296
 }
