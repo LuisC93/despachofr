@@ -690,7 +690,8 @@
       "fr": "89c",
       "code": "10151",
       "cajas": 18,
-      "status": "ready"
+      "status": "assigned",
+      "assignedAt": "2026-04-09T05:54:45-06:00"
     },
     {
       "id": 89,
@@ -2248,6 +2249,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T05:54:34-06:00",
+  "updatedAt": "2026-04-09T05:54:45-06:00",
   "total": 296
 }
