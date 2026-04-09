@@ -301,9 +301,8 @@
       "fr": "38c",
       "code": "12140",
       "cajas": 5,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T03:47:45-06:00",
-      "manualOrder": 38
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T05:32:41-06:00"
     },
     {
       "id": 38,
@@ -2270,6 +2269,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T05:32:40-06:00",
+  "updatedAt": "2026-04-09T05:32:42-06:00",
   "total": 296
 }
