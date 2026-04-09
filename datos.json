@@ -179,9 +179,8 @@
       "fr": "23c",
       "code": "11020",
       "cajas": 7,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T04:07:21-06:00",
-      "manualOrder": 61
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T05:38:47-06:00"
     },
     {
       "id": 23,
@@ -2246,6 +2245,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T05:38:39-06:00",
+  "updatedAt": "2026-04-09T05:38:47-06:00",
   "total": 296
 }
