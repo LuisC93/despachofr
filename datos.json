@@ -647,7 +647,8 @@
       "fr": "88c",
       "code": "10155",
       "cajas": 32,
-      "status": "ready"
+      "status": "assigned",
+      "assignedAt": "2026-04-09T03:25:53-06:00"
     },
     {
       "id": 88,
@@ -2177,6 +2178,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T03:25:43-06:00",
+  "updatedAt": "2026-04-09T03:25:53-06:00",
   "total": 296
 }
