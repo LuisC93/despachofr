@@ -1417,8 +1417,8 @@
       "fr": "181c",
       "code": "76067",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T06:33:42-06:00"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T07:03:39-06:00"
     },
     {
       "id": 181,
@@ -2282,6 +2282,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T07:03:38-06:00",
+  "updatedAt": "2026-04-09T07:03:40-06:00",
   "total": 296
 }
