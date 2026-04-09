@@ -733,7 +733,8 @@
       "fr": "98c",
       "code": "12231",
       "cajas": 4,
-      "status": "ready"
+      "status": "assigned",
+      "assignedAt": "2026-04-09T03:53:26-06:00"
     },
     {
       "id": 98,
@@ -2188,6 +2189,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T03:53:09-06:00",
+  "updatedAt": "2026-04-09T03:53:26-06:00",
   "total": 296
 }
