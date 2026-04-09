@@ -254,8 +254,8 @@
       "fr": "34c",
       "code": "66031",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T03:04:16-06:00"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T03:50:11-06:00"
     },
     {
       "id": 34,
@@ -2184,6 +2184,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T03:50:02-06:00",
+  "updatedAt": "2026-04-09T03:50:11-06:00",
   "total": 296
 }
