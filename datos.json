@@ -81,7 +81,8 @@
       "fr": "11c",
       "code": "88003",
       "cajas": 3,
-      "status": "ready"
+      "status": "assigned",
+      "assignedAt": "2026-04-09T03:50:01-06:00"
     },
     {
       "id": 11,
@@ -2183,6 +2184,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T03:49:42-06:00",
+  "updatedAt": "2026-04-09T03:50:02-06:00",
   "total": 296
 }
