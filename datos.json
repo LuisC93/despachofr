@@ -1555,7 +1555,8 @@
       "fr": "202c",
       "code": "10913",
       "cajas": 1,
-      "status": "ready"
+      "status": "assigned",
+      "assignedAt": "2026-04-09T05:49:28-06:00"
     },
     {
       "id": 202,
@@ -2243,6 +2244,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T05:48:54-06:00",
+  "updatedAt": "2026-04-09T05:49:29-06:00",
   "total": 296
 }
