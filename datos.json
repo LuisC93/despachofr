@@ -5,8 +5,8 @@
       "fr": "1c",
       "code": "60171",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T02:01:31-06:00"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T02:01:33-06:00"
     },
     {
       "id": 1,
@@ -2074,6 +2074,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T02:01:32-06:00",
+  "updatedAt": "2026-04-09T02:01:33-06:00",
   "total": 296
 }
