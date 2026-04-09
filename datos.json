@@ -32,7 +32,8 @@
       "id": 4,
       "fr": "5c",
       "code": "88001",
-      "status": "ready"
+      "status": "assigned",
+      "assignedAt": "2026-04-09T00:43:13-06:00"
     },
     {
       "id": 5,
@@ -1781,6 +1782,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T00:43:08-06:00",
+  "updatedAt": "2026-04-09T00:43:14-06:00",
   "total": 296
 }
