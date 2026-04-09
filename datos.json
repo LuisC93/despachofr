@@ -4,8 +4,7 @@
       "id": 0,
       "fr": "1B",
       "code": "76053",
-      "status": "dispatched",
-      "dispatchedAt": "2026-04-08T19:25:24-06:00"
+      "status": "assigned"
     },
     {
       "id": 1,
@@ -1766,6 +1765,6 @@
       "status": "dispatched"
     }
   ],
-  "updatedAt": "2026-04-08T19:25:26-06:00",
+  "updatedAt": "2026-04-08T19:25:48-06:00",
   "total": 294
 }
