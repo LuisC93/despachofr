@@ -2106,8 +2106,8 @@
       "fr": "268c",
       "code": "11901",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T08:39:17-06:00"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T08:54:50-06:00"
     },
     {
       "id": 268,
@@ -2320,6 +2320,6 @@
       "dispatchedAt": "2026-04-09T07:55:45-06:00"
     }
   ],
-  "updatedAt": "2026-04-09T08:53:25-06:00",
+  "updatedAt": "2026-04-09T08:54:51-06:00",
   "total": 296
 }
