@@ -11,31 +11,31 @@
       "id": 1,
       "fr": "2B",
       "code": "86415",
-      "status": "ready"
+      "status": "assigned"
     },
     {
       "id": 2,
       "fr": "3B",
       "code": "60177",
-      "status": "ready"
+      "status": "assigned"
     },
     {
       "id": 3,
       "fr": "4B",
       "code": "12775",
-      "status": "ready"
+      "status": "assigned"
     },
     {
       "id": 4,
       "fr": "5B",
       "code": "12760",
-      "status": "ready"
+      "status": "assigned"
     },
     {
       "id": 5,
       "fr": "6B",
       "code": "12776",
-      "status": "ready"
+      "status": "assigned"
     },
     {
       "id": 6,
@@ -1766,6 +1766,6 @@
       "status": "dispatched"
     }
   ],
-  "updatedAt": "2026-04-08T19:27:02-06:00",
+  "updatedAt": "2026-04-08T19:30:51-06:00",
   "total": 294
 }
