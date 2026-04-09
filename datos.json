@@ -281,8 +281,8 @@
       "fr": "39c",
       "code": "12136",
       "cajas": 3,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T02:59:55-06:00"
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T03:15:08-06:00"
     },
     {
       "id": 39,
@@ -2164,6 +2164,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T03:14:13-06:00",
+  "updatedAt": "2026-04-09T03:15:08-06:00",
   "total": 296
 }
