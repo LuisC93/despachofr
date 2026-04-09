@@ -463,7 +463,8 @@
       "fr": "57c",
       "code": "10919",
       "cajas": 6,
-      "status": "ready"
+      "status": "assigned",
+      "assignedAt": "2026-04-09T04:59:00-06:00"
     },
     {
       "id": 57,
@@ -2301,6 +2302,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T04:58:37-06:00",
+  "updatedAt": "2026-04-09T04:59:00-06:00",
   "total": 296
 }
