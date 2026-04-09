@@ -1130,7 +1130,8 @@
       "fr": "142c",
       "code": "10802",
       "cajas": 1,
-      "status": "ready"
+      "status": "assigned",
+      "assignedAt": "2026-04-09T04:13:47-06:00"
     },
     {
       "id": 142,
@@ -2268,6 +2269,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T04:13:22-06:00",
+  "updatedAt": "2026-04-09T04:13:48-06:00",
   "total": 296
 }
