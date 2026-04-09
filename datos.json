@@ -22,7 +22,7 @@
       "id": 3,
       "fr": "4B",
       "code": "12775",
-      "status": "dispatched"
+      "status": "assigned"
     },
     {
       "id": 4,
@@ -1765,6 +1765,6 @@
       "status": "dispatched"
     }
   ],
-  "updatedAt": "2026-04-08T19:25:48-06:00",
+  "updatedAt": "2026-04-08T19:26:37-06:00",
   "total": 294
 }
