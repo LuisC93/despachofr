@@ -996,9 +996,8 @@
       "fr": "124c",
       "code": "10751",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T03:25:12-06:00",
-      "manualOrder": 21
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T05:31:38-06:00"
     },
     {
       "id": 124,
@@ -2287,6 +2286,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T05:31:36-06:00",
+  "updatedAt": "2026-04-09T05:31:38-06:00",
   "total": 296
 }
