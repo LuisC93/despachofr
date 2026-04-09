@@ -101,9 +101,8 @@
       "fr": "13c",
       "code": "13596",
       "cajas": 22,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T04:04:21-06:00",
-      "manualOrder": 58
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T05:38:22-06:00"
     },
     {
       "id": 13,
@@ -2249,6 +2248,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T05:38:17-06:00",
+  "updatedAt": "2026-04-09T05:38:22-06:00",
   "total": 296
 }
