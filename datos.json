@@ -441,9 +441,8 @@
       "fr": "56c",
       "code": "66083",
       "cajas": 1,
-      "status": "assigned",
-      "assignedAt": "2026-04-09T07:06:31-06:00",
-      "manualOrder": 4
+      "status": "dispatched",
+      "dispatchedAt": "2026-04-09T07:23:09-06:00"
     },
     {
       "id": 56,
@@ -2295,6 +2294,6 @@
       "status": "ready"
     }
   ],
-  "updatedAt": "2026-04-09T07:21:01-06:00",
+  "updatedAt": "2026-04-09T07:23:09-06:00",
   "total": 296
 }
